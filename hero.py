@@ -35,25 +35,31 @@ class Hero(object):
             img_list.append({'img_name': hero_url['data'][i]['title'],
                              'url': hero_url['data'][i]['picture']})
 
+        print(f"Trying to download {len(img_list)} 🖼️")
         for img in img_list:
-            re = requests.get(img['url'], stream=True)
-            
             try:
-                print(f"Downloading 🖼️: {img['img_name']} / {img['url']}")
+                re = requests.get(img['url'], timeout=10)
+                try:
+                    print(f"Downloading 🖼️: {img['img_name']} / {img['url']}")
 
-                with open(f"{self.path}/img/cover_{img['img_name']}.png", 'wb') as f:    
-                    f.write(re.content)
+                    with open(f"{self.path}/img/cover_{img['img_name']}.png", 'wb') as f:
+                        f.write(re.content)
 
-                print(f"Success ✔️")
+                    print(f"Success ✔️")
+                except:
+                    print(f"No img folder found, creating: {self.hero_name} img 📁")
+                    os.makedirs(f"{self.path}/img")
+                    print(
+                        f"Retry downloading 🖼️: {img['img_name']} / {img['url']}")
+
+                    with open(f"{self.path}/img/cover_{img['img_name']}.png", 'wb') as f:
+                        f.write(re.content)
+
+                    print(f"Success ✔️")
             except:
-                print(f"Creating: {self.hero_name} img 📁")
-                os.makedirs(f"{self.path}/img")
-                print(f"Downloading 🖼️: {img['img_name']} / {img['url']}")
+                print(f"Can't get image {img['img_name']}, skipping ❌")
+                pass
 
-                with open(f"{self.path}/img/cover_{img['img_name']}.png", 'wb') as f:
-                    f.write(re.content)
-
-                print(f"Success ✔️")
 
     def create_hero(self):
         story = self.remove_necessary_char(self.hero['data']['des'])
@@ -93,14 +99,22 @@ class Hero(object):
         }
 
         try:
-            with open(f'{self.path}/{self.hero_name}.json', 'w') as f:
-                json.dump(data, f, indent=4)
-            print(f"Creating: {self.hero_name} 🦸")
-        except:
-            print(f"Creating: {self.hero_name} 📁")
-            os.makedirs(self.path)
-            with open(f'{self.path}/{self.hero_name}.json', 'w') as f:
-                json.dump(data, f, indent=4)
             print(f"Creating: {self.hero_name} 🦸")
 
+            with open(f'{self.path}/{self.hero_name}.json', 'w') as f:
+                json.dump(data, f, indent=4)
+
+            print(f"Success ✔️")
+        except:
+            print(f"No {self.hero_name} found, creating: {self.hero_name} 📁")
+            os.makedirs(self.path)
+
+            print(f"Retry creating: {self.hero_name} 🦸")
+
+            with open(f'{self.path}/{self.hero_name}.json', 'w') as f:
+                json.dump(data, f, indent=4)
+
+            print(f"Success ✔️")
+
         self.download_hero_img()
+        print(f"\nDone creating {self.hero_name} ✔️\n-----------------------------")
