@@ -1,0 +1,33 @@
+{
+    "name": "Alice",
+    "type": "Mage",
+    "story": "Thousands of years ago, the Enchanted Forest in the Land of Dawn was inhabited by the Moon Elves. Underneath the surface of beauty and magic, there lay hidden great danger. Strange black shadows appeared near the forest that the Moon Elves\u2019 home, and with their haunting presence the Moon Elves\u2019 numbers began to shrink.The Blood Demons are a race that drains the life force of others in order to maintain their own bodies, and the peace-loving Moon Elves had become their favorite prey. Estes, the Moon Elf King, battled against the Blood Demons in order to protect his people. But after Alice, the Blood Demon Queen, conquered the Orcs, her demonic reach extended even further into the Enchanted Forest. She hoped to acquire the power of the Moon Elves and Estes for herself, just as she did with the Orcs. Her strong ambition led her to repeatedly invade the Lake of the Moon God. Every time, she was beaten back by the formidable will of King Estes. Not willing to resign to defeat, Alice decided to lead her mutant Orcs in another attack against the Moon Elves. Near the end of the battle, King Estes gathered his full might and landed a heavy blow against Alice, greatly wounding the Blood Demon Queen. Though the battle had ended, the heavily injured Moon Elf King entered into a great sleep in the deep of the Enchanted Forest.Today, the appearance of the Twilight Orb has plunged the Land of Dawn into chaos once more. In the cracks of the abyss deep within the earth, the Abyssal Ruler thirsts for more followers to believe in him. His dark shadow has silently spread over the mountains of the South, and Alice has found strength in pledging herself to this power. Though she has not fully recovered her former strength, gaining the trust of the Abyssal Ruler has caused her former ambitions to rekindle. In order to more quickly to become whole again, she continues to drain the life force of all beings she meets; with the naive, newborn Moon Elves being her favorite prey. After achieving this temporary satisfaction, Alice has turned her eye towards a larger prey: the heroes from the Alt-World. \"Watch your back.\"",
+    "status": {
+        "durability": "75",
+        "offense": "49",
+        "ability_effect": "70",
+        "difficulty": "67"
+    },
+    "skills": {
+        "passive": {
+            "name": "Blood Ancestry",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UuyAVvxsAABU1clpBC4834.png",
+            "tips": "When a nearby minion dies, a blood orb is generated. Each blood orb absorbed permanently increases Alice's max HP . After absorbing  blood orbs, she will receive an additional upgrade of  Cooldown Reduction/ Spell Vamp/ movement speed."
+        },
+        "first_skill": {
+            "name": "Flowing Blood",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UtWAeLZjAABeqIemQ5E336.png",
+            "tips": "Alice fires a blood orb in the specified direction, dealing  points of Magic Damage to enemies. Using this skill again to immediately teleport to the orb's location."
+        },
+        "second_skill": {
+            "name": "Blood Awe",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6Ut6AA9a6AABWnAfljak842.png",
+            "tips": "Alice deals points of Magic Damage to nearby enemies, immobilizing them for 1.2 seconds, then the enemies will be slowed for 2 seconds."
+        },
+        "ultimate": {
+            "name": "Blood Ode",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UuWAftAIAABFi0IELsM056.png",
+            "tips": "Queen of the Apocalypse enters the blood-sucking state for the next 5 seconds, dealing  points of Magic Damage to surrounding enemies every 0.5 seconds while restoring  HP for herself."
+        }
+    }
+}

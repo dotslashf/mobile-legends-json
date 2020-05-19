@@ -1,0 +1,33 @@
+{
+    "name": "Eudora",
+    "type": "Mage",
+    "story": "Ever since she was an apprentice wizard, Eudora's special talent for controlling lightning always shocked (no pun intended) her many teachers. After a brief period of study, her teachers discovered she had already mastered all they had to teach her. Yearning to continue her progress, Eudora set foot on the road to the Land of Dawn, believing that her lightning magic could reach new heights in that turbulent land.",
+    "status": {
+        "durability": "90",
+        "offense": "50",
+        "ability_effect": "43",
+        "difficulty": "40"
+    },
+    "skills": {
+        "passive": {
+            "name": "Superconductor",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VSaANVwBAABabvYxvTE097.png",
+            "tips": "Skill gives the target a Superconductor effect which will amplify the effects of other abilities."
+        },
+        "first_skill": {
+            "name": "Forked Lightning",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VQiAfMhwAABYiyiFL8A120.png",
+            "tips": "Use Skill 2 first before using skill 1, this will reduce their magic resistance, allowing skill 1 to do more damage."
+        },
+        "second_skill": {
+            "name": "Electric Arrow",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VRCAL097AABZZTgfwLw449.png",
+            "tips": "When being ganked or helping out teammates, you can try using Skill 1 first before skill 2 so the stun lasts longer."
+        },
+        "ultimate": {
+            "name": "Thunderstruck",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VRyAeOOCAABeypZysIU048.png",
+            "tips": "Best to use after casting other spells, for maximum damage potential."
+        }
+    }
+}

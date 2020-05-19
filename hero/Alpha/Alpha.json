@@ -1,0 +1,33 @@
+{
+    "name": "Alpha",
+    "type": "Fighter",
+    "story": "Alpha is another creation of Laboratory 1718 after Saber left. The mad scientists got a new idea from a famous sci-fi movie. Using human bodies as biological material and space meteorites as metal skeletons, they created powerful twins. Alpha and Beta, also known as 'Flesh Weapon', can utilize a supernatural power that's ubiquitous but very mystery. However, the twins had always had a strong conscience and refused to become killing machines. Getting help from Saber, they escaped from the alt-world. However, on their way to escape, Beta's core was destroyed. All that Alpha could retrieve was Beta's half metallic arm. After coming to the Land of Dawn, with the help of master machinist Rooney, Beta now keeps Alpha company in the form of an aircraft.",
+    "status": {
+        "durability": "64",
+        "offense": "78",
+        "ability_effect": "72",
+        "difficulty": "73"
+    },
+    "skills": {
+        "passive": {
+            "name": "Beta, Advance!",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7chCASLmrAABaH9w8DoM897.png",
+            "tips": "Beta akan membantu menyerang musuh jadi jangan terlalu sering dekat dengan musuh agar HP Anda tetap terjaga."
+        },
+        "first_skill": {
+            "name": "Rotary Impact",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cfOAAgBuAABgb6qvarM234.png",
+            "tips": "Gunakan skill ini pada musuh agar musuh terkena efek slow dan terkena damage juga."
+        },
+        "second_skill": {
+            "name": "Force Swing",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cfyAEDbRAABinTbRr8w317.png",
+            "tips": "Meskipun memang area skill ini kecil tapi jangan terlalu dekat dengan lawan, sebisa mungkin mundur kembali agar tidak terkena banyak damage dari lawan."
+        },
+        "ultimate": {
+            "name": "Spear of Alpha",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cgOAKNoRAABZBWC8T6k788.png",
+            "tips": "Gunakan skill ini ke lawan dan cari posisi yang pas untuk melakukan Knock up pada lawan."
+        }
+    }
+}

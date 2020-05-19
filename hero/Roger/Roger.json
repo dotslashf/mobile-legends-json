@@ -1,0 +1,33 @@
+{
+    "name": "Roger",
+    "type": "Fighter",
+    "story": "Roger lives outside the Black Forest in the east of the Megalith Wastelands. He was once an upstanding soldier of the empire whose greatest strength and weakness was his stubbornness. After leaving the army he became an experienced hunter who earned a living with his trade. Many dangerous animals live in the Black Forest. The most terrifying of these are not the rare magical beings but the hundreds of wolves led by Pale Tusk, the new Wolf King. They use their skills in group tactics to attack in packs, and Pale Tusk himself has awakened magic abilities within him with the help of an ancient power. In order to satisfy their need for food, the wolves began to appear outside the borders of the Black Forest where they would attack travelers passing by.Motivated by his sense of justice, Roger decided to remove this threat to the common people. He followed Pale Tusk's tracks and discovered the wolves had surrounded a small village in preparation to attack. Suddenly a wolf's howl broke the silence, and the pack of wolves rushed in and attacked all the inhabitants of the village. Just as Pale Tusk was about to feast on an injured little girl, Roger used his hunting instincts to launch an attack and save the girl, whose name was Ruby. Roger succeeded in pushing back Pale Tusk and his wolves but was injured by the Wolf King in the battle. Roger mimicked the language of the wolves to warn Pale Tusk to leave the village. The retreating Pale Tusk looked back at the bloodied Roger, a look of enmity in his eyes. Unable to forget the fear that pierced his heart that day, Roger began to worry that Pale Tusk would come back for revenge. He began to train Ruby in how to fight wolves. During this training, his body began to change. He knew these changes were somehow related to Pale Tusk. For the safety of the others, Roger left the village in secret.When Roger returned to his home, he slowly realized that the ancient power Pale Tusk carried had begun to infect his own body. \"Even one of a pure heart, one who misses not once his nightly prayers, is helpless to resist the lupine transformation in the dark grass under a moonlit sky.\" On the night of a full moon, Roger was horrified to discover that the legend was true as he transformed into a werewolf. In order to avoid hurting others in his deranged transformed state, he had no choice but to leave his home.",
+    "status": {
+        "durability": "59",
+        "offense": "68",
+        "ability_effect": "52",
+        "difficulty": "52"
+    },
+    "skills": {
+        "passive": {
+            "name": "Full Moon Curse",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7dzeAACxOAABaNe0aYic877.png",
+            "tips": "You can use the human form to kite enemies, and the wolf form to fight."
+        },
+        "first_skill": {
+            "name": "Open Fire",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7dxuALc2dAABh_u5X2LQ467.png",
+            "tips": "Use Full Bore at long ranges to slow and damage enemies.<br>Lycan Pounce can be used to dodge enemy skill effects,such as those skill effects yet to finish or take effect after a skill effect. For instance skills like Harley's Deadly Magic or Cyclop's Star Power Lockdown."
+        },
+        "second_skill": {
+            "name": "Hunter's Steps",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7dySAY-sMAABeIZBhYdE955.png",
+            "tips": "When chasing a wounded enemy, use Bloodthirsty Howl to increase your movement speed, the longer the speed increase, the better the effect."
+        },
+        "ultimate": {
+            "name": "Wolf Transformation",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7dzGAfGQYAABtZVCCKR0189.png",
+            "tips": "Ultimate will automatically be available at level 1, in the early laning phase you can use all 4 available skills to aggressively skirmish in lane. You can also use skills to quickly gap close with enemies or escape. The ultimate can be used to go over walls.<br>Ultimate will automatically be available at level 1, in the early laning phase you can use all 4 available skills to aggressively skirmish in lane. You can also use skills to quickly gap close with enemies or escape. The ultimate can be used to go over walls."
+        }
+    }
+}

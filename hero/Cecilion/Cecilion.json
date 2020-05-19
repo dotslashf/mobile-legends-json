@@ -1,0 +1,33 @@
+{
+    "name": "Cecilion",
+    "type": "Mage",
+    "story": "Many years ago, enjoying the night opera performed by Cecilion was the most popular form of entertainment for the people of Castle Aberleen. It was always full house at the theatre each time this most famous opera actor performed. Everyone was attracted by his indescribable beauty and talent. However, the applause, love and cheers from human beings didn\u2019t make Cecilion feel happy. He was one of the Blood Demons, and it was hard for him to open his mind to humans.As long as Cecilion could remember, his kind have been living in the place where human beings lived. The oppression of Lord Lava against the blood demons meant a dark future for them. As such, some demons decided to leave the Despair Place and came to live among the humans. They were eager to seek forgiveness from the King of Light, live normally and integrate into the human society. But the fact was that they not only suffered hostility from the human society, but they also hunted down by the Abyss. When Cecilion became an adult, he was the only one left amongst his kind.In order to hide his true identity, Cecilion lived in Castle Aberleen as an opera actor and tried to cover up all abilities and characteristics related to the Blood Demons, He was gorgeous and elegant on the stage, surrounded by thousands of people. But at night, Cecilion spent his nights alone, night after night.The lonely days continued until Cecilion made an unforgettable performance. When he went to the center of the stage to take his bow, he saw Carmilla. And this beautiful lady was looking at him too. At this moment, the two lonely souls instantly fell in love.Although Cecilion always warned himself against having contact with human beings, he could not resist his love for Carmilla. So he decided to follow his heart. In each performance, Cecilion would sing a song for Carmilla and they never ceased eye contact with each other. When talking about his own life, Cecilion chose to keep it as a secret. Even when Carmilla had doubts about his lifestyle, he still said nothing about it.As the flames of love grew stronger, they had met secretly more frequently. Carmilla\u2019s father, Earl Ansaac knew everything about what they did. In his eyes,  the Earl only thought of Cecilion as just humble opera actor. He felt Carmilla should get married with a powerful man. When this couple's love grew deeper, Earl Ansaac violently interrupted the relationship between the two, imprisoned Carmilla, sealed the opera house and exiled Cecilion.Soon after, there was a rumor that Earl Ansaac was about to marry off his only daughter, Carmilla, to the new Baron Tawil. At this time, Cecilion was so tempted to knock down the guards and take Carmilla away. However, he knew that he couldn\u2019t bring happiness to her, as she would become a fugitive on the run. After careful thought, he thought it best to give up.The night was drawing to a close, and at dawn Carmilla was to marry Baron Tawil. Before the first light of dawn, Cecilion placed a rose and a letter with his name at Carmilla's window and turned away.But what Cecilion didn\u2019t know was that his enstranged lifestyle was not important to Carmilla and she didn't care if he was a Blood Demon or a human being. She loved Cecilion for who he is. After putting on the white wedding dress,  Carmilla cut her wrist with a sharp dagger, forfeiting her life for he love for Cecilion.Giving up Carmilla made Cecilion feel terribly sad, and his life seemed to return to what it had been. After two lonely nights, Cecilion went to see Carmilla, from a distance.But when Cecilion arrived, he found Carmilla's cold corpse lying still at a solemn funeral. For a moment Cecilion felt nothing but pain and regret. How could he live as a human being without Carmilla? The new moon rose, Cecilion spread his wings and swept through the city in the cold night, taking away his love.After that day, the people of Castle Aberleen never saw Cecilion or Carmilla again. Only the legend of the night, which passed from mouth to mouth over time.When the night came, Carmilla nestled in Cecilion's arms above the top tower of Castle Aberleen, as if time had stood still.",
+    "status": {
+        "durability": "88",
+        "offense": "40",
+        "ability_effect": "46",
+        "difficulty": "55"
+    },
+    "skills": {
+        "passive": {
+            "name": "Overflowing",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/9F/Cq2Ixl483TSAO30IAABjLH0xmBU060.png",
+            "tips": "With this Skill, Cecilion\u2019s power accumulates with each attack. With enough mana accumulated, he can consistently poke out with his first Skill."
+        },
+        "first_skill": {
+            "name": "Bat Impact",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/9F/Cq2Ixl483NyAImlJAABcBJ6BCZU323.png",
+            "tips": "This Skill\u2019s CD is very short and the Skill DMG is very high. However, due to the doubled mana consumption, in Early to Mid Game, please pay attention to the stacks and your mana left. Meanwhile, use this Skill correctly to increase Cecillion's movement speed. Proper use will enable him to escape or chase after enemies more easily."
+        },
+        "second_skill": {
+            "name": "Sanguine Claws",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/9F/Cq2Ixl483OqAcCzlAABjEXBmmvQ222.png",
+            "tips": "This Skill can generate powerful crowd control effects. Combined with his first skill, Cecilion can deal massive damage with a proper skill combo."
+        },
+        "ultimate": {
+            "name": "Bats Feast",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/9F/Cq2Ixl483PqAN3lMAABcS3PQ2pc815.png",
+            "tips": "This Skill is extremely powerful. When chasing after enemies, Cecilion can use it to effectively slow enemies down and also deal extra damage. Also, he can escape from tight spots with it, thanks to the Lifesteal effect and extra Movement Speed granted."
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Clint",
+    "type": "Marksman",
+    "story": "No one knows where he comes from or why he fights, but everyone born in the Wastelands knows that Clint is the only semblance of justice in these parts. Even the boldest of thieves wouldn't dare to challenge Clint and his six shooters. With his lightning reflexes and unparalleled accuracy, he buries a flurry of bullets into his enemies' foreheads before they have time to blink. He only draws his guns for what he believes are just causes, but when he does, there's hardly a villain alive who can escape his righteous barrels.",
+    "status": {
+        "durability": "59",
+        "offense": "86",
+        "ability_effect": "42",
+        "difficulty": "45"
+    },
+    "skills": {
+        "passive": {
+            "name": "Quick Draw",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VMuAFDWBAABYDABHsfs016.png",
+            "tips": "This is a very strong passive, and helps with sustainability in the laning phase, as well as reaching squishier back-row heroes."
+        },
+        "first_skill": {
+            "name": "Blind Smoke",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VHWAVNQYAABXAu1q62I818.png",
+            "tips": "This skill has a powerful effect, but is relatively situational and has a small range. Use it to limit enemy movement and trigger Clint's passive."
+        },
+        "second_skill": {
+            "name": "Heel Rope",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VHyAMoiKAABdjmNmSqo523.png",
+            "tips": "Clint can fire this backwards when being chased, and can also use it to jump through walls. Has a wide range of applications."
+        },
+        "ultimate": {
+            "name": "Howitzer",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VIyAFCNxAABaeUw5wuM480.png",
+            "tips": "High single-target damage and can be used frequently. Make sure you're stocked up on grenades before entering a team fight!"
+        }
+    }
+}

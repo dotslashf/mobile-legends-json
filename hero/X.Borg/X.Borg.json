@@ -1,0 +1,33 @@
+{
+    "name": "X.Borg",
+    "type": "Fighter",
+    "story": "Extraordinary intelligence has the ability to lead the world into a new light or make some major changes for the worse. It's a priceless treasure, even when based on countless failures. For overwhelming technology, people are willing to sacrifice a great deal. The Eruditio, located in the north-west of the Land of Dawn, was the symbol of the highest intelligence. They made all that was impossible possible. Glorious and honorable as it may be, rebellion and hostility grow in the background of it all.Recently, a series of explosions became the headache of the Erudition. All the clues and evidence pointed that the culprits were none other than their arch rival, the Magic Academy. For the safety and dignity of the Eruditio, Bruno leads the Eruditio Rangers to find the criminal who caused the explosions. On the very moment of their departure, Dr. Rooney shows up and stops them. Apologetic and full of regret, Dr. Rooney unfolds a secret of the past.There was once a peaceful small town near the Eruditio. One day, a technological experiment was carried out in the town. Everything went on smoothly until the final unexpected explosion terminated the fantasy. All the innocent townsfolk were devoured by the flame in an instant. No cries, no screams. The explosion was horrible and fast enough to cover every living creature under ashes. The Eruditio immediately sent out ambulances and emergency response teams to save the townsfolk. Unfortunately, only X.Borg survived, with his body severely injured. The Eruditio managed to remake his body so that X.Borg could live on. However, X.Borg could never forget the scenes of everyone's helplessness and desperation in the flames. Finally, he ran away from the Eruditio. Years later, coming back to his hometown, X.Borg found that the old houses of his forgotten town had been rebuilt into a technology dump. Feeling familiar and strange to this place, he gradually lost his temper. All he could think about was destroying the technology of the Eruditio. He resided in the dump, making use of the unwanted materials and transforming his body into an explosive weapon. He, however, knew clearly that he himself was not able to fight against the entire Eruditio, therefore he tried to create conflict between the Eruditio and the Magic Academy. Every time when the Eruditio held a celebration or announced a new invention, X.Borg was in the shadows causing chaos. He held the belief that not every technological development was beneficial to the world. He would find his own methods to destroy the Eruditio.",
+    "status": {
+        "durability": "69",
+        "offense": "78",
+        "ability_effect": "82",
+        "difficulty": "79"
+    },
+    "skills": {
+        "passive": {
+            "name": "Firaga Armor",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/91/Cq2Ixl1SKduAOcSfAABav5cTbU4804.png",
+            "tips": "X.Borg is equipped with a homemade Firaga Armor that inherits a portion of his HP and takes all damage for X.Borg while it's active. A short circuit will take place when the armor runs out of HP, and X.Borg will do a roll to the direction of the Left Joystick to disengage from the armor. In this meantime, X.Borg won't take any damage. He then continues to restore energy in Armorless State. When energy is full, X.Borg will re-equip the armor and restore the armor. X.Borg's fire damage causes enemies to warm up, and enemies with ultra-temperature will drop Armor parts when they take flame damage. Pick up parts and restore Armor, or restore energy while in Armorless State."
+        },
+        "first_skill": {
+            "name": "Fire Missiles",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/91/Cq2Ixl1SKe-AHm2UAABI_IewaOA615.png",
+            "tips": "\"X.Borg activates the flame thrower and fires in the designated direction, dealing physical damage over time. If  enemies' temperature rises to the limit they will take true damage and slow down.<br>Armorless State: X.Borg adjusts the flamethrower to a narrower angle and longer distance with reduced damage.<br><br>This is X.Borg's main DPS skill, which is good at dealing sustained damage and increasing the chance to trigger his passive.\""
+        },
+        "second_skill": {
+            "name": "Fire Stake",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/91/Cq2Ixl1SKf2AN1UVAABav6kSIDg548.png",
+            "tips": "X.Borg shoots several Fire Stakes at the edge of the fan-shaped indicator. After a few seconds, the stakes are taken back into his body. Each stake deals physical damage to enemies in its path and pulling them back. If the Fire Stake touches the Firaga supplies in its path, it pulls them back as well.<br>Armorless State: X.Borg adjusts the Fire Stake Launcher to send the stakes a further distance and shortens the gap between the stakes.<br><br>The fire stakes can effectively stop enemies from escaping and can be used to pick up the Firaga supplies generated from X. Borg's Passive."
+        },
+        "ultimate": {
+            "name": "Last Insanity",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/91/Cq2Ixl1SKgyAfYO7AABPyXUMoX4873.png",
+            "tips": "X.Borg charges forward in a designated direction, shooting fire around to deal physical damage and slowing enemies down. If he hits an enemy hero during the charge, he will stop charging and slow the target. Then he self-explodes and deals true damage based on the target's max HP. The explosion destroys the current Firaga Armor and puts himself under armorless state. After exploding he returns to moving normally. <br><br>This powerful skill is designed for teamfights. The high damage can cause a davastating blow to enemeis. However, before using this skill you should pay attention to the long cast animation and the cost of losing all HP of the Firaga Armor. "
+        }
+    }
+}

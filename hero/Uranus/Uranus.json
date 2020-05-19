@@ -1,0 +1,33 @@
+{
+    "name": "Uranus",
+    "type": "Tank",
+    "story": "The Celestial Palace - legend foretold that this city floating above the skies of the Land of Dawn was once home to the gods. It is also said that this mysterious place holds the key to ruling the world. Eons ago, the ruler of the Celestial Palace used the technological secrets of the ancients to create Uranus, and commanded his creation to guard the city and wait for the emergence of a new ruler. When scholars from the Land of Dawn found and opened the gates to the Celestial Palace, the battle between the Dawn Zenith and the Dark Abyss quickly spread throughout the realm, disrupting the quietude of this ancient city. The two camps sought to occupy the Celestial Palace as a symbol of victory, their heroes unleashing the full extent of their power before finally reaching an impasse. The massive energy released throughout their incessant battles eventually awakened the ancient city's defense system, and was converted directly into lighting power which fed and reawakened Uranus, who lay dormant in depths of the Celestial Palace. \"Leave now, intruders!\" he roared upon awakening, and then charged to the battlefield, fueled by lightning, aether, and boundless rage. The guardian has returned, and is now ready to fulfill his destiny. His goal -- to expel these savage intruders disturbing the tranquility of the Celestial Palace.",
+    "status": {
+        "durability": "82",
+        "offense": "34",
+        "ability_effect": "85",
+        "difficulty": "45"
+    },
+    "skills": {
+        "passive": {
+            "name": "Radiance",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/11/Cq2IxlrxJiWADb-BAABcmzXy2Ho017.png",
+            "tips": "Try to maintain Uranus\u2019s Radiance at a high number of stacks to greatly improve his ability to recover. One of the easiest methods is to purposely lure an enemy turret\u2019s attack with Uranus. "
+        },
+        "first_skill": {
+            "name": "Ionic Edge",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/11/Cq2IxlrxJduAXD3yAABYfpzfG1o920.png",
+            "tips": "Remember that Radiance can increase the damage of this skill. To make Uranus\u2019s daggers even more lethal, try to wait until has many stacks of Radiance before using this skill."
+        },
+        "second_skill": {
+            "name": "Transcendent Ward",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/11/Cq2IxlrxJc6AILFKAABebougea4696.png",
+            "tips": "When Uranus is attacked while Transcendent Ward is active, he enjoys the same healing effects of Radiance. Use Transcendent Ward while Uranus is jungling to make him practically invulnerable. "
+        },
+        "ultimate": {
+            "name": "Consecration",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/11/Cq2IxlrxJhWAUVBBAABWuxut5JA056.png",
+            "tips": "The benefit of Consecration is that it allows you to gain stacks for Radiance. Don\u2019t be afraid to use Consecration liberally when Uranus is running out of stacks! "
+        }
+    }
+}

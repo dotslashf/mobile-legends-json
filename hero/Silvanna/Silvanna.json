@@ -1,0 +1,33 @@
+{
+    "name": "Silvanna",
+    "type": "Fighter",
+    "story": "The prince has gone missing and no one knows if he's dead or alive! For the sake of the country and the safety of its people, King Aurelius II has decreed to expand Knight's Order and set up fortresses in the outskirts of Moniyan to reinforce the empire\u2019s defense. In the meantime, Imperial Knights continue to search for any clue of the whereabouts of the prince. Imperial Knights search day and night. They have almost crossed the entire Land of Dawn but all they have found is endless waiting. The Aurelius royal family is drowning in sorrow. To young Silvanna, the tragic memory of that time is too heavy. As a princess, Silvanna has always had a heart of justice and compassion since she was little. After her brother's disappearance, she has been keeping the queen company almost every day. For years, the two of them have been waiting for a miracle in the imperial castle. However, day after day, year after year the queen eventually becomes ill and bedridden from physical and mental exhaustion. Ten years has passed. As the queen and the king get older, Princess Silvanna, who\u2019s now an adult, has always wanted to do something for her empire. She wants to let go of the sorrow, but whenever she thinks of her brother, the sadness and frustration always come back to her. Every night in her dream, Silvanna feels like her brother is within reach but she just can\u2019t seem to hold him. Shortly afterward, on the day of Silvanna's coming-of-age ceremony, she decides to disregard her status as a princess and join the Imperial Knights. Perhaps this is the only way for her to bear the pain! In the Knight\u2019s Order, Silvanna is about to go through tough training. She will no longer be treated like a royal. Silvanna needs to have a strong faith and work harder than others. Her faith has made her more and more powerful. All the scars on her body are the best proof on her path of training. Before long, she has become the most powerful female knight among the  Imperial Knights. But even then, Silvanna still can\u2019t get Tigreal's special approval. Tigreal knows the cruelty of the real battlefield and how there's no room for any mistake. Deep down, Tigreal sees that Silvanna has already acquired all the skills of a knight. He can also see Silvanna's determination. But she is a royal of the empire after all. Tigreal doesn\u2019t want another successor of the empire to be at any risk again. But one day, all of a the sudden, the Demon army has arrived on the outskirts of the empire... Moniyan is in the face of disaster and war. Tigreal orders Silvanna to stay in the empire while he leads the whole Knight\u2019s Order to battle. Halfway through, Tigreal receives a report from the Knight\u2019s Order that in order to prove herself, Silvanna has broken the forbidden area, the Imperial Sanctuary, where countless unknown creatures lurk. Even Tigreal himself doesn\u2019t have the confidence to go through it unharmed. At this moment, a sharp cry comes from a distance, making Tigreal shudder. He immediately leads the elites of the Knight\u2019s Order back to the Imperial Sanctuary while the rest of the knights go to the outskirts of the empire to fight the Demons. On his way, he prays that he makes it in time. He prays that his fear will not come true. In front of the gods of the Imperial Sanctuary, a giant figure is slowly approaching the wounded knightess. The Seed of Light is glowing in the distance and her powerful opponent is approaching. In the imperial records, Silvanna once read about a legend about the Seed of Light in the Imperial Sanctuary. But the powerful creature that guards the Seed of Light in front of her has become an obstacle she can't overcome. But Silvanna knows that only when she\u2019s shielded by the King of Light can she truly become the Holy Knightess and lead the empire to victory in the battle. And for that reason, she is willing to sacrifice her life...",
+    "status": {
+        "durability": "50",
+        "offense": "66",
+        "ability_effect": "71",
+        "difficulty": "40"
+    },
+    "skills": {
+        "passive": {
+            "name": "Knightess' Resolve",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/9B/Cq2Ixl3vnAKACKnWAAA_smPI2Zw027.png",
+            "tips": "When utilizing the 2nd Skill, try to stack the marks of the target to the limit in order to deal massive damage."
+        },
+        "first_skill": {
+            "name": "Cometic Lance",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/9B/Cq2Ixl3vnBWABQWLAABXvNnp6vE648.png",
+            "tips": "Use this Skill properly to gain an extra attack speed to adjust the position and launch attack. Activate \u201cCometic Spear\u201d again to attack or escape from the battlefield, depending on the actual situation."
+        },
+        "second_skill": {
+            "name": "Spiral Strangling",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/9B/Cq2Ixl3vnCKABTfGAABZKPm0on4709.png",
+            "tips": "This is Silvanna\u2019s core damage dealing skill. It could stack the marks of the target to the limit within a short time. With her second skill, when Silvanna obtains extra attack speed, she could spin her lance once more. Therefore, she could deal more damage when she combines Spiral Strangling with Imperial Ultimate"
+        },
+        "ultimate": {
+            "name": "Imperial Justice",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/9B/Cq2Ixl3vnCyAF5QpAABNh501HnM690.png",
+            "tips": "After acquiring the Ultimate, Silvanna possesses great ability to gank enemies all by herself. Combined with her other skills, she could slay enemies at ease. Please use this skill discreetly in team fights. Although she could obtain extra attack speed and Magic Lifesteal within the Circle of Light, she could be slain easily when she is attacked by a bunch of enemies."
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Nana",
+    "type": "Mage",
+    "story": "The Moon Elves are not the only race to call the Enchanted Forest home. A race of cat-like elves, the Leonins, also live in the forest. Cute, friendly and uninvolved in the conflicts of the world, they are the loyal preservers of the Enchanted Forest who make the area the fairyland paradise that it is. As the most ancient race of the Enchanted Forest, they possess a strong natural talent for all things magical.Nana is special among the Leonins. With a bright personality and love of adventure, she is full of curiosity for all things new and hopes to one day leave her home and see the world.But Nana also has a mischievous side that often causes trouble for those around her. She is naturally gifted with strong magical abilities, but doesn't know how to control them. The most serious time she lost control of her impressive abilities resulted in the destruction of almost half the forest. In order to protect the Leonins from her uncontrollable magic abilities, Nana decided to leave her home. In her travels she met a Moon Elf named Miya who suppressed Nana's magic abilities and then taught her the Moon Elves\u2019 secret to control magical energies. The intelligent Nana quickly mastered the technique and became a powerful witch of the Leonin clan. She chose to follow Miya to the Land of Dawn in search for the new King.",
+    "status": {
+        "durability": "80",
+        "offense": "50",
+        "ability_effect": "50",
+        "difficulty": "40"
+    },
+    "skills": {
+        "passive": {
+            "name": "Molina's Gift",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UxeAFtwQAABPSCDxK6o004.png",
+            "tips": "If you guys follow the 1-1-3/3-1-1 Lane formation, Nana would fit in the lane with 3 people, to maximise the gold drop."
+        },
+        "first_skill": {
+            "name": "Magic Boomerang",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UvmANwcVAABZGGEpbas621.png",
+            "tips": "Your long range poking skill.This skill will be your main damaging skill in laning phase, try to aim and hit all targets."
+        },
+        "second_skill": {
+            "name": "Molina Smooch",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UwCAXPvBAABcjFQNI6E376.png",
+            "tips": "Your main harassing kit.One of the longest disable. However you\u2019ll need a teammate to deal enough damage to kill someone."
+        },
+        "ultimate": {
+            "name": "Molina Blitz",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UweAck54AABSyuO8AX8796.png",
+            "tips": "Try to pop this during a teamfight to disable as many enemies as possible.Practice makes perfect, get down the timing of your ult and try to match you \u201c2\u201d with your \u201c3\u201d to increase the chances of it hitting."
+        }
+    }
+}

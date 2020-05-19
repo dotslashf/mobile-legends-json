@@ -1,0 +1,33 @@
+{
+    "name": "Hayabusa",
+    "type": "Assassin",
+    "story": "Many years ago, the god of the very first ninjas created the Order of the Scarlet Shadow, formed of countless outstanding disciples. Over time, beliefs within the order diverged, and the Scarlet Shadow split into two factions -- the Scarlet Sect and the Shadow Sect. Conflict between the two sects gradually intensified, even to the point of drawing swords on one another. In order to avoid bloodshed, the two sects decided that every ten tears they would select the best Scarlet ninja and the best Shadow ninja to duel. The winner would inherit the title \"Scarlet Shadow Grandmaster\", under whom the two sects would study according to the ninja code left behind by their god. Ten years ago, a Shadow emerged possessing the kind of exceptional ability one sees only once in a hundred years. Even the Scarlet sect recognized his talent, but as they anticipated the day this Shadow would inherit the Scarlet Shadow title to unite the two sects and resurrect the glory of the Order of the Scarlet Shadow, heinous events transpired that would change the ninja world forever. While undertaking a mission, the Shadow brutally killed the Scarlet Sect's leader and returned to assert his supreme dominance over the two sects. Betraying one's companions is the most unforgivable sin among ninjas, and the infuriated ninjas of the two sects decided to take action. They sent the foremost elite ninjas from the two sects to encircle the Shadow. The ensuing battle was the most chaotic in the Scarlet Shadow's history. The two groups of elite ninjas were all slain, and the injured Shadow fled the Scarlet Shadow with his life. This battle greatly weakened the sects, bringing shame to them both, and cracks between the factions emerged once again. In the end, the two sects agreed that whoever found and killed the disgraced Shadow would become the Scarlet Shadow Grandmaster. The patriarch of the Shadow Sect selected the young Hayabusa to undergo training to this end, teaching him the secret methods of shadow manipulation without reservation, and as fate predicted, ten years later he became the strongest ninja the Shadow Sect had ever seen, and their new rightful Shadow. However, Hayabusa knew in his heart that his only purpose was to kill the former Shadow. When the former shadow re-emerged in the Land of Dawn, Hayabusa knew that the day of reckoning was not far off...",
+    "status": {
+        "durability": "50",
+        "offense": "87",
+        "ability_effect": "62",
+        "difficulty": "82"
+    },
+    "skills": {
+        "passive": {
+            "name": "Ninjutsu: Shadow Heal",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cKKAGnnZAABPf0bACmo170.png",
+            "tips": "Use the combo, teleport right into the enemy + 1st skill. When your teleporting shadow hits and enemy, it counts to the stack of the passive and if all    3 shurikens hit the enemy, you heal some health. This passive does not work on minions."
+        },
+        "first_skill": {
+            "name": "Ninjutsu: Phantom Shuriken",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cIyADvZUAABeD4JrITY750.png",
+            "tips": "Teleport right in front of the enemy and use this skill for maximum damage. Use this skill to harrass the enemy as much as possible. If an enemy is chasing you or your teammate when at low health, lower their movement speed with this to run away"
+        },
+        "second_skill": {
+            "name": "Ninjutsu: Quad Shadow",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cJKAS0KCAABYjGO1BxA305.png",
+            "tips": "One of the best escape abilities in the game, use this to run away from enemies! Teleport onto the enemy and use your first skill to damage the enemy with maximum damage from 3 shurikens! If an enemy is chasing you or your teammate at low health, slow them down with this skill."
+        },
+        "ultimate": {
+            "name": "Ougi: Shadow Kill",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cJqAacBtAABechTM9yE639.png",
+            "tips": "This ultimate makes you the fastest wave clearing character in the whole game. Don't hestitate to use your ultimate on a clump of minions. At max level, you can kill a full health mage with just this skill. If you are getting chased and your 2nd skill is on cooldown, buy time using the ultimate as it makes you invincible for a little while"
+        }
+    }
+}

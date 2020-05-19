@@ -1,0 +1,33 @@
+{
+    "name": "Aldous",
+    "type": "Fighter",
+    "story": "Legends from the Land of Dawn say that the Western Desert's Minoan Kingdom possesses a mysterious labyrinth. In the maze is a statue of a giant minotaur, which the people consider to be the mecca of the Minoan Kingdom. Some say that there is a group of mercenaries who guard the entire maze. ??The Kingdom produced a lot of precious jade, which brought the Minoan people great wealth. Very quickly, the entire kingdom was lost in the intoxicating allure of gems. Even many mercaneries, tasked with guarding the sacred maze became corrupted, abandoning their duty. Only one stayed\u2014Aldous, who had never forgotten his duty to guard the Minoan Labyrinth. ??Until one day, a god came from the heavens to punish the lands. The powers of light and dark decimated the entire Minoan Kingdom, which even Aldous could not escape. ??Then two streams of energy surged into his body. Aldous thought he was about to die. However, the two streams of energy collided, causing great changes to his body. His skin grew long-black scales that could resist most attacks and monstrously large arms that could easily strike fear into people's hearts. ??When Aldous awoke from his daze, he found his people's kingdom gone but the mysterious maze was now sealed by some unknown force. He and the remaining minotaurs decided that Aldous would stay to defend the maze, while the others travel towards the Land of Dawn to find answers. ??News of a mysterious force sealing the Minoan Maze spread quickly to the Abyssal Kingdom. To gather this strange energy, Selena brought her Abyssal Demons with her to the entrance of the Minoan Maze \u2014 A huge battle was about to begin.",
+    "status": {
+        "durability": "58",
+        "offense": "84",
+        "ability_effect": "82",
+        "difficulty": "70"
+    },
+    "skills": {
+        "passive": {
+            "name": "Contract: Transform",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/47/Cq2IxltWDmeAJIoqAABSUm4FZJw133.png",
+            "tips": "After every 3 attacks, the damage dealt by Aldous' next attack will be transformed into a shield that lasts for seconds.  Activates every 3 seconds. "
+        },
+        "first_skill": {
+            "name": "Contract: Soul Steal",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/47/Cq2IxltWDkaAVfmCAABXnTKM2eY229.png",
+            "tips": "Aldous unleashes his inner energy to strengthen the next basic attack. If this attack eliminates the enemy hero or unit, the additional damage of this skill is permanently increased. When attacking minions or monsters, the damage of strengthened basic attacks are raised. "
+        },
+        "second_skill": {
+            "name": "Contract: Explosion",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/47/Cq2IxltWDlGAPiitAABXj5zSOAg651.png",
+            "tips": "Aldous assumes a defensive stance. During this time, Aldous is immune to basic attacks, while damage from other forms of attacks are reduced. After 1 second, he can reactivate to end it immediately, his scute will explode, dealing damage to surrounding enemy units."
+        },
+        "ultimate": {
+            "name": "Contract: Chase Fate",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/47/Cq2IxltWDl2AO5vtAABSltSiFFY357.png",
+            "tips": "Aldous gains the ability to see the positions of enemy heroes for seconds. During this time, if Aldous uses this skill a second time while it is still in effect, then he permanently sees the position of one enemy hero. When Aldous hits that enemy hero, he will deal damage and cause knock back. Ending this ability early results in a decrease in cool-down time."
+        }
+    }
+}

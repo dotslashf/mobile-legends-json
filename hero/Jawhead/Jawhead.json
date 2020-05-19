@@ -1,0 +1,33 @@
+{
+    "name": "Jawhead",
+    "type": "Fighter",
+    "story": "Clandestine organizations have existed throughout the many ages of the Land of Dawn's history. No one knows the true purpose of these organizations, but one thing is for sure: whenever a crisis is at hand, mysterious figures emerge from the shadows to restore order to the world. Professor Henry and his wife worked for the Dawn Council, known for its research in cutting-edge technology, providing an endless and varied stream of high-tech products to government agencies and mysterious, anonymous clients. But when they finally finished developing the \"SMART-01\", all this changed, as their new creation was more intelligent and powerful than any android the world had seen before. It was designed so that once a genetically matched host controlled him, he could act according to the controller's consciousness. The leaders of the Dawn Council saw the potential of this technology for warfare and ordered the Henrys to transfer the technology to selected government agencies for a mass production program. The Henrys refused. After ordering their Prototype One to destroy all of the experiment's data, the Henrys mysteriously disappeared. To this day, little Alice has no knowledge of these events. All she knows and cares about is that this special robot has always been there to protect and accompany her, and that he calls her \"Honey\" like her father once did, while she affectionately calls him \"Jawhead\" in return. The only clue left behind by her parents was a pocket watch she carries with her wherever she goes. Eventually, Alice decides to journey with her robot friend to track down her parents' whereabouts...",
+    "status": {
+        "durability": "64",
+        "offense": "78",
+        "ability_effect": "82",
+        "difficulty": "77"
+    },
+    "skills": {
+        "passive": {
+            "name": "Mecha Suppression",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/01/Cq2IxlpwKuOALTveAACFs9Kqozo6274551",
+            "tips": "Try to focus attacks on the same target, as this can quickly stack your passive, resulting in higher attack damage."
+        },
+        "first_skill": {
+            "name": "Smart Missiles",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/01/Cq2IxlpwKwWAZIjvAACGSOWwVtI0878233",
+            "tips": "Make sure there are no minions or monsters around you, then attack an enemy hero. All 12 missiles will be fired within 3 seconds, causing huge damage and stacking up your passive."
+        },
+        "second_skill": {
+            "name": "Ejector",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/01/Cq2IxlpwKvyAaCuKAAB_m9zzMkk9581263",
+            "tips": "This is Jawhead's core skill, and how you use it will separate the amateurs from the pros. Assess the battle situation and select an enemy to throw back to your teammates, or throw an ally with control skills into the middle of the enemy team to start a team fight."
+        },
+        "ultimate": {
+            "name": "Unstoppable Force",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/01/Cq2IxlpwKvCAAkurAACH4NOhP9Q2451268",
+            "tips": "Jawhead is immune to control effects when using this skill. Use it to catch enemies off guard and throw them to your team for maximum utility. When they find themselves in this situation, all they can do is rely on invincibility or dash and blink skills to escape, otherwise they'll definitely be controlled and killed."
+        }
+    }
+}

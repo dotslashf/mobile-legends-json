@@ -1,0 +1,33 @@
+{
+    "name": "Carmilla",
+    "type": "Support",
+    "story": "Many years ago, Carmilla was born in the House Ansaac in the Castle Aberleen. As the only daughter of the Earl, she was loved by all her family since birth. When she grew up, her eminent family background coupled with her captivating beauty made her one of the most popular noble ladies around the Castle Aberleen, and maybe even the whole Empire. However, her royal origin was inevitably bound to the tragedy as was to become a political tool of her father Earl Anssac, consolidating power by betrothing her to another family of power.Though countless aristocrats tried to court Carmilla, none of them pleased her. Her innate pride made her refuse to bow down to mediocrity. What she wanted was someone who could connect with her soul. But, her father Earl Ansaac had already made his decision. As the threat of the abyss was getting closer, he knew that the new class of military-nobles would dominate the politics of the land. Thus, he had to establish good relations with them in order to sustain the social status of his family.However, a man who was a rather insignificant to the old Earl foiled this plan. This man was Cecilion, the best opera singer in the southern Empire. Carmilla became his most loyal audience since the first day he came to the Castle Aberleen. In Carmilla\u2019s eyes, he was just so elegant and talented, but she could also read the melancholy and the mystery from his eyes. For every performance of Cecilion, Carmilla would sit in the right middle in the auditorium, quietly enjoying his song performance. One day, as the curtains called, Cecilion and Carmilla's eyes met. The flames of passion ignited between them. And like a bolt of lightning cracking open the dark night sky, they instantly fell in love.The days that followed were the happiest ones in Carmilla's life. When night fell, Cecilion dressed up and came to invite her to the opera house, singing songs he composed for her. And Carmilla watched his performance intently, never taking her eyes off him. When the performance ended, they dated at the backstage, dancing in the moonlight. And in the early morning, Cecilion would put a rose on Carmilla's windowsill that was nourished by the morning dew and leave quietly.As time went by, Carmilla noticed something unusual about Cecilion. He lived in solitude and never had needless contact with others. His skin was always pale, even when he didn\u2019t makeup; and it seemed that he always tried to avoid something. From his eyes, Carmilla could feel his desire for a normal life, and she could vaguely see that Cecilion might have some connection to the legendary blood demon species. Though Cecilion never talked about his origins with her, she still chose to believe in him, because she could feel his love was real. No matter he was man or blood demon, it was just about love between them, and Carmilla believed that she would always belong to Cecilion, and would spend the rest of her life with him.Though they loved each other so deeply, Carmilla\u2019s father the Earl forbade her to marry this humble singer. He imprisoned her and forced her to marry Baron Tawil, the general of the imperial army, who was stationed near the Castle Aberleen. In order to make Carmilla forget Cecilion, the Earl even sent his men to close the opera house. In Cecilion\u2019s mind, he knew that the love between the blood demon and mankind would never be true. Though he loved Carmilla, he finally decided to give up. At the day he left, he wrote a letter to her, in which he told her everything, about his origins, his story, and left it with a rose at her windowsill.Carmilla didn\u2019t stop fighting, she was not willing to succumb to her father's will. But her heart broke when she read his parting letter. To Carmilla, it didn't matter what species he belonged to. She loved him, and without him, her life would become meaningless.She stood at the window, watching the direction Cecilion left to. As the dawn was raising, she slit her wrist with a sharp dagger. The world fell into endless darkness. And Carmilla buried her love in her own way.When Carmilla awoke, she found herself once again in Cecilion\u2019s arms. His eyes were full of kindness, and he was looking at her. Then she found that her touch was so cold, as if she was lifeless, and her skin looked just as pale as Cecilion's. She knew, her lover didn\u2019t abandon her, he returned and revived her with his blood. These two lonely souls finally were together again and could live with each other forever.After that day, the people of Castle Aberleen never saw Cecilion or Carmilla again, only the legendary tales of the night, which passed from mouth to mouth over time. When night came, Carmilla nestled in Cecilion's arms above the top tower of Castle Aberleen, as if time stood still.",
+    "status": {
+        "durability": "90",
+        "offense": "40",
+        "ability_effect": "45",
+        "difficulty": "55"
+    },
+    "skills": {
+        "passive": {
+            "name": "Vampire Pact",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/9E/Cq2Ixl4XLMeAXrWwAABQ8-kC_wo354.png",
+            "tips": "This skill increases Carmilla\u2019s defense and grants her an edge when fighting. Combined with the regen effect of Crimson Flower, Carmilla\u2019s durability could be increased."
+        },
+        "first_skill": {
+            "name": "Crimson Flower",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/9E/Cq2Ixl4XLKWAJ3FVAABUQFg7CsE045.png",
+            "tips": "This Skill is Carmilla\u2019s core damage dealing skill. Once the Crimson Flowers hit enemies, their circling speed will increase. Therefore, Carmilla could deal more damage and restore her HP more quickly. That increases Carmilla\u2019s durability in Team Fights."
+        },
+        "second_skill": {
+            "name": "Bloodbath",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/9E/Cq2Ixl4XLLCARQjgAABXnIGj8WA588.png",
+            "tips": "With Bloodbath, Carmilla could control enemies with relatively high hit rate when roaming and therefore, assist her allies to slay targets."
+        },
+        "ultimate": {
+            "name": "Curse of Blood",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/9E/Cq2Ixl4XLLuAO42YAABJelFtADc414.png",
+            "tips": "This Skill is a masterstroke in Team Fight. Carmilla and her allies could deal massive Damage once she chains her targets. It also grants Crowd Control effect to a Control Skill. With this Skill, Carmilla and her allies could be invincible in Team Fight."
+        }
+    }
+}

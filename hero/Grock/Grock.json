@@ -1,0 +1,33 @@
+{
+    "name": "Grock",
+    "type": "Tank",
+    "story": "Deep within the mountains of the Land of Dawn sits an ancient fortress. Though the owner is unknown, it is rumored that it could be a descendant of the legendary race that once walked the Lands of Dawn. It said that this race is older than the earth itself, and having a special affinity for nature, they were able to build deep connections and relations with various beings of nature, especially the Stone Titans. These amiable giants possess rocky skin that is almost impervious to all physical force, but due to their kind nature, they mainly use their physical prowess to sleep safely. These stony giants love sleeping so much that they will hibernate for up to half a year sometimes, however once they are awakened, it is hard for them fall asleep again. One day when Grock awoke again, he found himself to be alone with the guardians of the fortress long gone. He proceeded to saddle the fortress onto his back to find the owners, setting out all over the Land of Dawn to find any news of their whereabouts, so he may one day return their home to them.",
+    "status": {
+        "durability": "60",
+        "offense": "54",
+        "ability_effect": "81",
+        "difficulty": "45"
+    },
+    "skills": {
+        "passive": {
+            "name": "Ancestral Gift",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7lkeAfk--AABIztmEL10155.png",
+            "tips": "Try staying near a turret when roaming in lanes or escaping, using of his passive wisely will help you tank extra incoming damage from enemies."
+        },
+        "first_skill": {
+            "name": "Power of Nature",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7lhmAfv8YAABERv-EIXo710.png",
+            "tips": "Charging his first skill will deal a lot of damage to enemies. The more time of charging, the more damage it will dealt. Use this on waves of minion for fasterclearing of lane.Charge his first skill when enemies are trying to disable you (stun,hold,morph,slow,knockback airborne) to be Immune from Crowd Control (CC) spells."
+        },
+        "second_skill": {
+            "name": "Guardian's Barrier",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7liGAW3-xAABDjT_ILs8722.png",
+            "tips": "Using this ability to block enemies from destroying turrets and to prevent themfrom escaping when low health. "
+        },
+        "ultimate": {
+            "name": "Wild Charge",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7lkGAPHwkAABNBiKZzoY047.png",
+            "tips": "Charging forward onto enemies will knock the enemies airborne on path. This will help you when chasing enemies. Also Try hitting the wall behind an enemy to utilize the extra damage."
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Fanny",
+    "type": "Assassin",
+    "story": "Despite being just a human, Fanny never gave up on her dream of flying. She fashioned a kind of steel grappling hook for herself in the hopes of using it to grab onto cliff faces and soar between mountain peaks. After countless training sessions in live environments, Fanny finally mastered this technique. Folks who have seen her soaring through the air refer to her as the Blade of Freedom.",
+    "status": {
+        "durability": "50",
+        "offense": "85",
+        "ability_effect": "60",
+        "difficulty": "100"
+    },
+    "skills": {
+        "passive": {
+            "name": "Air Superiority",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VZKAOq1AAAA9GRLcDUQ886.png",
+            "tips": ""
+        },
+        "first_skill": {
+            "name": "Tornado Strike",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VXyAPjXxAABE1QSTYDk582.png",
+            "tips": "Use this skill to clear jungle or lane. You have to keep in mind to save your Energy. Don't only spam this skill to kill Jungle Monster faster, because you will miss the opportunity to kill the enemy or to cover the turret."
+        },
+        "second_skill": {
+            "name": "Steel Cable",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VYOAYx04AABWPcCyfVk381.png",
+            "tips": "This skill will be synergied with Tornado Strike to the enemies nearby in your flying area and deals damage to them. The skill is a must in a battlefield and to master using Fanny, you have to master the skill."
+        },
+        "ultimate": {
+            "name": "Cut Throat",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VYuAR6qyAABRjtMoNeA723.png",
+            "tips": "This skill is used to kill enemy. After you give a Prey Mark to your enemy, using the skill will deals lethal damage. But, without Prey Mark, the skill is useless, unless to get a kill to enemy with low HP."
+        }
+    }
+}

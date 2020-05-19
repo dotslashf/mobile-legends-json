@@ -1,0 +1,33 @@
+{
+    "name": "Hanzo",
+    "type": "Assassin",
+    "story": "Long ago, the members of the House of Akakage were hailed as \"the Gods of Ninja Arts\". For generations, the Akakages researched and taught advanced ninjutsu. In order to reach the pinnacle of ninja arts, the Akakages used a forbidden ninjutsu to rid their hearts of evil, anger, and greed by condensing them into a demon called, Hanekage. No one expected that Hanekage would have consciousness, despite lurking within their bodies.When the legendary One Hundred Ghosts attacked the House of Akakage, the demon within them merged with the ghosts to become a single entity. Thus began a bloody feud between the Akakage and the powerful demon, Hanekage. At a grave cost, the Akakage used the ninjutsu, Blood Shadow, to temporarily seal the demon. In order to permanently seal Hanekage, the Akakages used their sacred tools to create a legendary sword, known as Ame no Habakiri. Not long after, the forefathers of the Akakage perished from the world. Their grieving disciples hid Ame no Habakiri in an unknown place that only members of the Akakage family could reach. Little did the Akakage know, the cunning Goddess of Death, Izanami, observed these events and secretly inserted a part of her soul in one of their progeny to one day resurrect Hanekage. After many generations, the House of Akakage was divided into the Crimson and Shadow factions. The Shadow Faction gave birth to strongest Akakage the clan has ever seen \u2014 Hanzo. As one would expect, Hanzo became the head of the Shadow Faction.However, one day, Hanzo's team discovered his secret. All this time, Hanzo secretly fused Hanekage's power with his own body, feeding the demon with the blood of his enemies. When confronted by the Akakage's Crimson Faction, Hanzo killed them all in cold blood. Absorbing the blood of such powerful people, Hanekage regained consciousness once again. Hanekage told Hanzo that his noble clan hid the powerful Ame no Habakiri, as well as sacred ninjutsu, in a secret location only the Akakage could reach. The power-hungry Hanzo abused his blood right to acquire the forbidden ninjutsu and the fabled sword, Ame no Habakiri. The remaining members of the Akakage furiously chased after the clan's traitor.Emboldened by the power of Hanekage, Hanzo used his own clan's sword against them and tore the powerful energy from their flesh. Desperate, the two Akakage factions came together once again to take on Hanzo as one. Heavily wounded, the final members of the noble House of Akakage could only watch Hanzo escape. Hanzo secretly took refuge to recover from his injuries. Night and day, Hanzo practiced the Akakage's forbidden ninjutsu with Ame no Habakiri. After a decade, Hanzo could not achieve the pinnacle of ninjutsu like his forefathers. Hanekage consumed the flesh and blood of fallen ninjas and transformed into a magical armor for Hanzo. Hanekage struck a deal with Hanzo. In exchange for feeding Hanekage more blood, the powerful demon will help Hanzo reach the pinnacle of ninjutsu. Possessing the ability to reach the pinnacle of ninjutsu and the Ame no Habakiri, Hanzo brought a bloodbath to the world.",
+    "status": {
+        "durability": "50",
+        "offense": "90",
+        "ability_effect": "52",
+        "difficulty": "60"
+    },
+    "skills": {
+        "passive": {
+            "name": "Ame no Habakiri",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/6B/Cq2IxlwPgVyAboD-AABLB1lTw94531.png",
+            "tips": " Even when Hanzo is in a defensive status, he can also recover Demon Blood depending on his Passive. The sufficiency of Demon Blood is a must for Hanzo to perform attack or escape."
+        },
+        "first_skill": {
+            "name": "Ninjutsu: Demon Feast",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/6A/Cq2IxlwPgTmAHzscAABQ0Uid6qw081.png",
+            "tips": "This skill provides powerful jungling ability for Hanzo. If the Attack Speed is fast enough, each attack of Hanzo can unlock two stacks."
+        },
+        "second_skill": {
+            "name": "Ninjutsu: Soul Reap",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/6A/Cq2IxlwPgUSAIdrvAABPqDR2z1s455.png",
+            "tips": "This skill ensures the laning ability of Hanzo, try to make full use of it when Hanzo takes back the area in order to obtain Demon Blood faster"
+        },
+        "ultimate": {
+            "name": "Kinjutsu: Pinnacle Ninja",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/6A/Cq2IxlwPgVKABx6WAABJww-cEl4961.png",
+            "tips": "Try to hide Hanzo's body in the safe area. When facing Hanzo, to find his body and kill him is also a good way to counter him."
+        }
+    }
+}

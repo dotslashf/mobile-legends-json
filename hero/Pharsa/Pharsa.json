@@ -1,0 +1,33 @@
+{
+    "name": "Pharsa",
+    "type": "Mage",
+    "story": "The Crow people of Askati Forest are one of the oldest races to still exist in the Land of Dawn. This race was united by the Crow King Osana, under whose venerable leadership they perfected the art of Sky Magic.This unique school of magic allows its wielder to soar across the skies, and grants the ability to strike from enormous distances, however, only those who have had their blood \"awakened\" can use it. The noble Princess Pharsa was born with an unknown type of blood which was said to hold enormous potential if awakened, but as hard as they tried, the baffled people of her tribe failed to unleash its true power. Soon enough, Pharsa's special blood became a burden, as ill-intentioned opportunists from across the land sought to reap it for their own benefit. On the day of Pharsa's wedding, the tyrannical witch Alice invaded the Askati Forest, mercilessly slaying countless Crows and leaving a smoldering trail of ruin in her wake. Numbed to the core by the carnage surrounding her, Pharsa dropped Osana's ancient crown to the floor. Her appearance began to change, as unprecedented power coursed through her veins -- her blood had been awakened. Pharsa's eyes clouded over, as one side of her hair turned pure white, and she soared into the sky to unleash a torrential assault of horrifying magical power fierce enough to drive Alice away. Verri, the love of her life, couldn't bear to see his betrothed suffer a life of blindness alone, and chose to accompany Pharsa wherever she went, utilizing his own magic to become permanently linked to Pharsa, and allowing her to see through his eyes. Pharsa wishes her power had never been awakened, she wishes even more that her home had not been destroyed, but that witch took everything from her, and now it is time for revenge...",
+    "status": {
+        "durability": "90",
+        "offense": "40",
+        "ability_effect": "53",
+        "difficulty": "75"
+    },
+    "skills": {
+        "passive": {
+            "name": "Spiritual Unity",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2IxlplgkGAbkhgAABQLzTpizY9141014",
+            "tips": "Try to ensure verri's hits land on heroes!"
+        },
+        "first_skill": {
+            "name": "Curse of Crow",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2IxlplgeOATysnAACBwuLzm4k0619729",
+            "tips": "After using this skill, Pharsa will still take damage, and the effect will be interrupted immediately when controlled. <br>Timing is vital to using this skill correctly."
+        },
+        "second_skill": {
+            "name": "Energy Impact",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2IxlplgfiAESsWAACIcnn4r4w2645505",
+            "tips": "Deals moderate damage, but can cause high damage to a single enemy hero when used with Pharsa's passive."
+        },
+        "ultimate": {
+            "name": "Feathered Air Strike",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2IxlplgjOAQtCOAABLVO6F3so7396916",
+            "tips": "Her ultimate has a very short cooldown, so it can be used frequently. You can use Flicker while casting to adjust your position and ensure your own safety."
+        }
+    }
+}

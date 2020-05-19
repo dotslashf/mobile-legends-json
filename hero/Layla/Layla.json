@@ -1,0 +1,33 @@
+{
+    "name": "Layla",
+    "type": "Marksman",
+    "story": "Layla was born to a family of guns. Lively and outgoing as a child, she was always optimistic and full of a sense of justice and adventure. She dreamed of becoming an emissary of the Land of Dawn who would fight to protect its peace. Her father was the most famous firearms master in the Land of Dawn's City of Scholars, but as a child Layla wasn't interested in the inventions of her family. As she grew up, she desired to become a famous mage and study at the Magic Academy, where she could study the magic of her dreams. But alas, reality was cruel. Her dreams were heartlessly rejected by her father, who himself dreamed of a day when the City of Scholars would surpass the Magic Academy in fame and power. He spent his time researching the ultimate firearm technology that would be more powerful than anything possessed by the Magic Academy. In his research he consulted many ancient records before discovering that deep within the Southern Abyss lied a magic stone that, if harnessed, could be used to produce firearms of incredible power. His goal of surpassing the Magic Academy was now within reach.Paying no mind to the concerns of his daughter and wife, he embarked on a dangerous expedition into the abyss. The road was far, but her father finally found the magic stone he was looking for on the edge of the abyss. Seeing that he would soon succeed in creating his ultimate weapon, Layla's father brimmed with excitement. After returning home he worked dawn to dusk on his final creation, not stopping even to eat or drink. But his joy did not last long. Excessive contact with the magic stone caused him to lose his mind, and his temper worsened as his actions became strange and erratic.Strange creatures silently entered the City of Scholars in search of their lost magic stone. These stones belonged to the Lord of the Abyss, who did not allow anything to be taken from his realm. The creatures could sense the stone's location, and they ambushed Layla's house within the City of Scholars. Her mother was killed, and her father completely lost all reason. The young Layla was terrified as it seemed that she, too, would fall victim to the claws of these strange beings. At the last second her father appeared and drew off the attackers, leaving Layla with no hope except for her father's newly-created Malefic Cannon. Layla pulled hard on the trigger, and the gun sprung to action just as the monsters leapt to attack her. The energies from the gun were so strong that their blast waves hit her father too. No longer of a reasoning mind, he looked silently at Layla before holding onto his injured arm and jumping out of the window. It was then that Layla's father left the City of Scholars. Layla decided she would learn the technology behind the Malefic Cannon and represent the City of Scholars throughout the land as she searched for her father. She trained constantly, and at the age of 16 embarked on her path to become a hero.",
+    "status": {
+        "durability": "62",
+        "offense": "95",
+        "ability_effect": "18",
+        "difficulty": "25"
+    },
+    "skills": {
+        "passive": {
+            "name": "Malefic Gun",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VcKARbCyAABiuT4w5KY212.png",
+            "tips": "Keep a long distance from your foe if you want to beat your foes easily. This is quiet useful for her by the way."
+        },
+        "first_skill": {
+            "name": "Malefic Bomb",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VZyAXSLoAABswL97-yo410.png",
+            "tips": "This skill can shoot in a straight target. This is perfect if you want to slowly cut down your foe. But take note that you will need to use this skill wisely."
+        },
+        "second_skill": {
+            "name": "Void Projectile",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VaaAWT9AAABUPyksXLY278.png",
+            "tips": "The Range of this skill will surely increase whenever the skill is being upgraded. This is totally useful when you want to slow your opponent's movement speed when pursuing it."
+        },
+        "ultimate": {
+            "name": "Destruction Rush",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VbGAGUl0AABe6w9Ncog942.png",
+            "tips": "The beams can go through walls or rocks. So this is useful if you are stealing your teammate's kills. Just joking. You can use this to reduce your foe's HP greatly. Whenever the skill is upgraded, its basic attack range or basic attack distance will be increased by 0.4%. Use this wisely."
+        }
+    }
+}

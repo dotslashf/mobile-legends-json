@@ -1,0 +1,33 @@
+{
+    "name": "Lunox",
+    "type": "Mage",
+    "story": "As the final battle started, the Twilight Orb devoured the energies within the Mage and opened up, allowing a girl who was surrounded by the power of Chaos and Order to step out. Her eyes were as deep as the ancient lake.  The mysterious atmosphere she created then put all of the heroes into a dreamland...... The powers of Chaos and Order have been struggling against each other since ancient times, and the struggle had driven the world into desperation. Lunox, the mysterious maiden, is the one who survived the desperation. With her unique talent, she can project her dream into reality and change it.  One day, a sound whispered to her, and told her to balance the two powers with her dreamland ability. But the cost would be larger than ever. For the world she loves, she accepted this fate, channeled the two powers into dreamland and became one with the \"Twilight Orb\", at the cost of falling into endless sleep. But the sound also told Lunox that one day, she will wake up to proceed to her fate - to find other Twilight Orbs that have been forgotten by history.",
+    "status": {
+        "durability": "78",
+        "offense": "40",
+        "ability_effect": "66",
+        "difficulty": "65"
+    },
+    "skills": {
+        "passive": {
+            "name": "Order & Chaos",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/57/Cq2IxluNLeqAVJ6vAABUnkFyG-U173.png",
+            "tips": "Chaos Assault is recommended when there\u2019s advantage in attack, which grants magic PEN for higher damage dealt. Select Starlight Pulse in laning to boost double resist."
+        },
+        "first_skill": {
+            "name": "Starlight Pulse",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/57/Cq2IxluNLbaAENNBAABJToDbMXo517.png",
+            "tips": "The best laning skill in early game. Start the attack with Chaos Assault, then deal damage and heal Lunox with Starlight Pulse, keeping her in Brilliance status all the time."
+        },
+        "second_skill": {
+            "name": "Chaos Assault ",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/57/Cq2IxluNLcSAUT5KAABKxfjyBpQ553.png",
+            "tips": "The attack-oriented skill in laning. Tap to release and it will lock on enemy within target area first. It shares cooldown with Starlight Pulse. You are suggested to use the skill to strike the first 2 attacks in laning."
+        },
+        "ultimate": {
+            "name": "Cosmic Fission",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/57/Cq2IxluNLdmAB55GAABXlS_3J38335.png",
+            "tips": "Lunox gets the ultimate skill in the Darkening status. When the ultimate skill is on, she could use Chaos Assault with no limit for 4s. Learning how to cast Chaos Assault as many as possible makes you a good Lunox user.<br>Lunox gets the ultimate skill in Brilliance status. When the skill is on, Lunox is invincible for 3s. The extremely short cast time of the skill could help Lunox escape most directional skills if you are fast enough."
+        }
+    }
+}

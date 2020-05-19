@@ -1,0 +1,33 @@
+{
+    "name": "Ruby",
+    "type": "Fighter",
+    "story": "It was another peaceful night in a remote village among the Dark Forest before it was interrupted by the vicious howling of the wolves from afar. In a small cabin, a little girl was kneeling on her bed, praying. Next to her stood disproportionately giant scythes. She was praying for the return of the legendary hunter - Roger. Only he could save the village from being vandalized by the wolves. Years earlier, Roger saved her family by accident when he was wandering in the Land of Dawn. His bravery took a huge toll on the wolves. At the request from the elderly in the village, Roger finally stayed to train the villagers. One day, he left the village without any notice and no trace to be found. What happens in the fairy tales can seldom be the same in reality. On a silent, moonless night, Pale Tusk, the wolf king, caught the village off guard and sneaked in with his pack. In the end, her grandfather and grandmother died trying to protect Ruby, who in turn made a narrow escape by hiding under the corpses of her grandparents. No one could imagine that from the moment she witnessed her grandparents' death, her character would completely change. Outraged, she got back on her feet, picked up the scythes, rushed into the wolves, and slaughtered almost all of them. Under her seemingly weak appearance now lies an unsettling, irritable soul. Pale Tusk was the only survivor among the wolves. Staring at the skyline, Ruby decided to make a happy ending for all the good people in every story. Pale Tusk was never defeated before but this time it came in the severest way. Ruby gradually regained consciousness after Pale Tusk left. Now, whenever the wolves howl, her eyes become once more filled with rage.",
+    "status": {
+        "durability": "65",
+        "offense": "45",
+        "ability_effect": "78",
+        "difficulty": "70"
+    },
+    "skills": {
+        "passive": {
+            "name": "Let's dance!",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7ci2AepeuAABPDJCQ24I069.png",
+            "tips": "It can pass through base walls for real..as long as the walls is not too thickother than that is useless so use it wisely if you're in Pursuit or Escaping saw a wall.Just cast your skill nearby walls and just move foward because when you use a flicker you might be dead twice before you can use it again."
+        },
+        "first_skill": {
+            "name": "Be good!",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7chmALWe1AABGnwKT6d8265.png",
+            "tips": "S1 Slashed in frontal direction and dealing a 75 PHYSICAL DAMAGE to enemies and slowing their movement.It does not really give a high damage to enemies and it does not hurt all all for tanks in early game maybe but it quite useful a bit to clear up lanes helping your minions and harrasing your enemies a little.But if you happen to be countering a ranged attack heroes in early games its good enough for you to stay out of their hotspot or area of attack..it won't cost much of mana if you use it wisely..But when you Lifesteal Gear is finished,it might be as well as healing stuff if you have the lifesteal.<br>"
+        },
+        "second_skill": {
+            "name": "Don't run, Wolf King!",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7ciCAGI4nAABLaYwoGwA137.png",
+            "tips": "Second skill is come in handy in Many..Many ways.When the skill is triggered,she will attack twice and stunning the enemies for at least 0.5 second at first level and slowly pulling them towards her and it deals additionals 30% damage when the enemy at outer ring.For the new players,This skill can stop any swift assassin as long as you caught the great timing.You might be able to pursuit enemy and slowing them down for your allies to catch up."
+        },
+        "ultimate": {
+            "name": "I'm offended!",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7ciaACdrnAABXjvJLijY139.png",
+            "tips": "Her third skill can pull all of enemies in front.I'M OFFENDED.When triggered she able to attack horizontally in a Wide Range.Dealing 205 pts of Physical Damage at first level and able to pulling them towards hero positions plus stunning them for 0.5 secs at first level.Its quite similar to Franco's hook but this one is a little short but able to be pulling all enemy in the area of attack."
+        }
+    }
+}

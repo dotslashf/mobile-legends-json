@@ -1,0 +1,33 @@
+{
+    "name": "Harith",
+    "type": "Mage",
+    "story": "Legends say that an ancient race of elves reside in the Land of Dawn's Enchanted Forest. The stories often depict this cat-like race as small in stature, agile, playful, independent, and highly intelligent. However, few are aware of the longstanding alliance between the Leonin Elves and the Moon Elves. From a young age, Harith surpassed his peers in talent and wisdom. He quickly became the strongest mage among the Leonins, perhaps as strong as others in the Land of Dawn. Although, the Leonins never step foot outside of the Enchanted Forest, living a peaceful and safe life on their own. The Leonins became so complacent with their blissful existence that they no longer pursued the magic arts, a hallmark of their people. Harith became very discontent with this trend and confidently set out of the Enchanted Forest to see the outside world at the young age of 15. Harith was driven by his ambition and passion for the magic arts, aspiring to become his people's leader in magic. Harith arrived the Land of Dawn's capital, where he joined human armies to fight off the invading orc tribes. Proving himself in battle, Harith gained the recognition of Tigreal, who came to appreciate Harith's lively spirit and strong abilities. People say, Harith was given the rank of lieutenant and will soon be appointed as an Imperial Master of Magic of the Moniyan Empire. With that said, Harith has imperial authorization to use magic to control space and time to unlock the Secrets of Dawn. Since then, Harith proudly served on an expedition through the Land of Dawn to seal away evil and protect justice. Full of excitement and fervor, Harith also knew that once he is appointed the title of Master of Magic that he will become a target of public criticism. Committed to his dream of becoming his people's leader in magic, Harith fearlessly marched forward alone. Over time, Harith discovered that his life was consumed by his mission and by the empire. Harith slowly grew lonely and reclusive. Even when he met his fellow Leonin, Nana, he was unable to maintain a normal conversation. Despite Nana showing signs of affection towards him, he could not express his feelings, believing that the best way to protect her from criticism was for him to be alone. After all, whenever the empire needed magical assistance, the Master of Magic was on the job to seal away the dangers of evil.",
+    "status": {
+        "durability": "82",
+        "offense": "50",
+        "ability_effect": "48",
+        "difficulty": "76"
+    },
+    "skills": {
+        "passive": {
+            "name": "Key Insight",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/66/Cq2IxlvhO1eAbaU9AABYJ-RfDS8679.png",
+            "tips": "This skill can minimize the debuffs when being controlled, so his survivability is ensured."
+        },
+        "first_skill": {
+            "name": "Synchro Fission",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/66/Cq2IxlvhOzWADsbbAABXtu7iUWo361.png",
+            "tips": "Try to keep enemy units in the explosion range, which causes huge damage to them."
+        },
+        "second_skill": {
+            "name": "Chrono Dash",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/66/Cq2IxlvhO0GARj3JAABSaSaR1AQ810.png",
+            "tips": "Make sure Harith dashes to the correct direction. With the shield to be gained after the dash, Harith should be able to take less damage than he is suppoesed to be."
+        },
+        "ultimate": {
+            "name": "Zaman Force",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/66/Cq2IxlvhO02ARV1nAABIxby0O5g847.png",
+            "tips": "After using \"Synchro Fission\", make sure to pass through rifts every time using Chrono Dash. It enables Harith to use the \"Chrono Dash\" skill infinitely within the duration."
+        }
+    }
+}

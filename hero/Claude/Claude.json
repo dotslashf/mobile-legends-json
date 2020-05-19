@@ -1,0 +1,33 @@
+{
+    "name": "Claude",
+    "type": "Marksman",
+    "story": "If you often go to the tavern, then you must have heard of Claude. His story is a favorite for tipsy travelers\u2014One of the most famous legends in the Land of Dawn. Rumor has it, that this teenage human has a special talent for thievery. To Claude, thievery is an art from rather than a crime. In fact, Claude would often send his victims a notice to let them know in advance. Much to everyone's surprise, Claude always succeeded in acquiring his targeted objects, regardless of how strong or prepared his victims are. Whether the target is king's a well-guarded treasure, a magic library protected by powerful spells, or an dark fortress filled with the undead\u2014Nothing can stop Claude from taking what he wants. It is said that this young \"Thief King\" has a mysterious partner in crime. Some say his partner is a beautiful maiden, other's say it's his twin brother. However, most people believe in the version of the story where Claude's partner is a wizard who practices black magic\u2014This version quickly gained support after one of Claude's victims recalled hearing an odd laughter. In recent times, Claude is said to be eyeing the latest research of the famed machine specialist in the city of Antoinerei, Dr. Rooney, who's said to have invented a device that would allow its user to freely travel across the planes of existence and create mirror images.The Captain of the Guard, Bruno, caught wind of Claude's hallmark notice and installed monitoring devices all over Antoinerei to catch him. As soon as Claude entered the city, he was caught by the City Guards and placed in an inescapable prison that utilized some of the best technology. Just when everyone thought this was the end of the Thief King's reign, Claude's mysterious partner helped him escape from the prison. Not only that, but they also successfully stole Dr. Rooney's new invention from his lab, just as promised on Claude's notice. As a triumphant Claude left Antoinerei, he noticed that Dr. Rooney's device had a small note: \"I hope you make the best use of this device. If you happen to have any ideas for improvement, you must write to me! \u2014Rooney\"",
+    "status": {
+        "durability": "46",
+        "offense": "88",
+        "ability_effect": "46",
+        "difficulty": "87"
+    },
+    "skills": {
+        "passive": {
+            "name": "Battle Side-by-side",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/51/Cq2Ixlt6xKiAZf6eAABU0DmkVnc660.png",
+            "tips": "Due to this skill, equipments that boost basic attacks should be Claude's major concentration"
+        },
+        "first_skill": {
+            "name": "Art of Thievery",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/51/Cq2Ixlt6xIKAEPkBAABTcsk0R1c722.png",
+            "tips": "Due to this skill Claude is able to utilize his mobility to poke enemies from a safe distance."
+        },
+        "second_skill": {
+            "name": "Battle Mirror Image",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/51/Cq2Ixlt6xJSAcZ2fAABSqhZN8LQ859.png",
+            "tips": "This skill can be used for multiple purposes. Claude can either dash into enemies to reap or flee from ambush. Use it unpredictably!"
+        },
+        "ultimate": {
+            "name": "Blazing Duet",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/51/Cq2Ixlt6xJ6AeK6xAABPZrMsf1E598.png",
+            "tips": "The ultimate triggers the effect of basic attacks. So it works perfect with Demon Hunter Sword when facing single heroes. The skill hit 2 enemies at most at the same moment, so Claude should release this skill to an area with less than 2 enemies. The ultimate also provides a shield so Claude's durability is ensured in all conditions."
+        }
+    }
+}

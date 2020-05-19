@@ -1,0 +1,33 @@
+{
+    "name": "Gusion",
+    "type": "Assassin",
+    "story": "The Paxley family is one of the most powerful and prestigious magic families in the Land of Dawn, and each member is raised to become a mage of the finest order. In their eyes, the path of the magician is the most sacred and noble vocation there is, and all those who brandish a sword in battle are merely weak, dim-witted fools. Gusion, however, is determined to break the mold. The patriarch's fourth son, Gusion, exhibited a high affinity towards light elements at a very early age, but rather than spend his days with his nose buried in a book, Gusion would use his control over light to imbue himself with the speed to run laps of the family estate in mere minutes, and to enchant old ceremonial swords with powerful light energy. He always believed that the family elders were incurably stubborn and rebelled against their wishes at every opportunity. Finally, Gusion was given the chance to prove himself, when the time came for him to take the Paxley family's most important test -- a rite of passage into adulthood. With Gusion's blistering speed in battle, his opponent was unable to lock onto his position, and with his light-charged blade, he claimed victory before his opponent even had a chance to launch a single spell. The elders were in awe of his incredible form and fighting technique, but with their deep-rooted prejudice against physical combat and their strict adherence to tradition, they gave Gusion two choices: to either abandon his fighting style or be banished from the family. Facing such adversity and unable to control his rebelliously independent nature, Gusion chose to leave the family, convinced that soon the entire Land of Dawn would know his name and understand the true extent of his power.",
+    "status": {
+        "durability": "90",
+        "offense": "50",
+        "ability_effect": "55",
+        "difficulty": "87"
+    },
+    "skills": {
+        "passive": {
+            "name": "Dagger Specialist",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/Cq2IxlqP7oeAADOuAABJFeTOZYs1687799",
+            "tips": "Because this skill's damage is based on the target's missing HP, it's suitable for finishing off enemies."
+        },
+        "first_skill": {
+            "name": "Sword Spike",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/Cq2IxlqP7meAa9AiAABWij7j4_g0550122",
+            "tips": "Using Sword Spike after using Incandescence when near the target will greatly increase its hit rate."
+        },
+        "second_skill": {
+            "name": "Shadowblade Slaughter",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/Cq2IxlqP7nWAexGJAABPM6cHSFM8580821",
+            "tips": "After using Incandescence, you can use this skill again immediately and recover 10 daggers, dealing high damage."
+        },
+        "ultimate": {
+            "name": "Incandescence",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/Cq2IxlqP7n6AQB13AABYCth157s6994405",
+            "tips": "Incandescence's second cast can not only be used to escape, but can also be used to get closer to a fleeing target and finish them off."
+        }
+    }
+}

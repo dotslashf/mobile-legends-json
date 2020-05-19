@@ -1,0 +1,33 @@
+{
+    "name": "Karrie",
+    "type": "Marksman",
+    "story": "Alaghat is a mysterious technique empire. There lives a strange humanoid race - Yasson. They are in human form while having a pair of deformed feet. They are agile and born to fight. They are also good at techniques that allow them to create a significant civilization and to invade others. Since Karrie was a child, she was very talented and trained into an excellent and arrogant warrior leader. But at the same time, she lost her feelings and became a machine. During one battle, she was overconfident and got seriously injured. But a prophet from another race saved her and injected his consciousness into her brain. Since then there has been a voice in her head; the prophet told her that the ruin of her empire is about to come and there will be no Yasson anymore. After her escape from death, Karrie didn't believe the voice in her head. But she started to suspect it was right after returning to her empire. In order to save her empire, and for her own redemption, Karrie chose to believe and came to the Land of Dawn. What kind of destiny is waiting for her?",
+    "status": {
+        "durability": "46",
+        "offense": "88",
+        "ability_effect": "31",
+        "difficulty": "87"
+    },
+    "skills": {
+        "passive": {
+            "name": "Lightwheel Mark",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7d1uAMrlYAABANbJh2I8088.png",
+            "tips": "Because this passive skill deal percentage damage instead of static damage , it is best used to enemy with high health . The bigger the maximum HP , the bigger the damage."
+        },
+        "first_skill": {
+            "name": "Spinning Lightwheel",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7d0eAU0PrAABCMVxSswc238.png",
+            "tips": "This skill is really useful to fight against a crowd of minion , because it will do damage to minion with / without your presence , especially when the enemy is surrounding the minion and you cannot use basic attack to hit them . It is also effective against Lord and Holy Lord that is going toward your turret because it will slow his movement speed , allowing you to kill him before he can do damage . "
+        },
+        "second_skill": {
+            "name": "Phantom Step",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7d06ALkDBAABJY7avjC0326.png",
+            "tips": "When it comes to battle , this skill is really good at creating distance between you with your enemy or to dodge their attack while damaging them , but be careful , any mistake when using this skill will only make you become closer to your enemy and allowing them to kill you easier . "
+        },
+        "ultimate": {
+            "name": "Speedy Lightwheel",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7d1SAWWMJAABDF3Qrpag847.png",
+            "tips": "Usually , using this skill at max level to the enemy is equal with normal basic attack , but if your enemy maximum HP is really big , this skill is very deadly , so remember to not use this skill to enemy with low maximum HP and only use it when you are fighting against enemy with big maximum HP . "
+        }
+    }
+}

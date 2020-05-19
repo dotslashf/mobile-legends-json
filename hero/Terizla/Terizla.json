@@ -1,0 +1,33 @@
+{
+    "name": "Terizla",
+    "type": "Fighter",
+    "story": "\"If belief could bring love, hope, and salvation to the world, then how come there are still hurt souls lingering about?\" - a saying carved on the stela of the Monastery of Light in the Moniyan Empire. Deep in the Monastery stands an iron cage, called \"the door to rebirth.\" Within this cage, hides the dark and secret history of the Empire.When the guards opened the lock, all they could see were startling sentences written on the wall: \"Break the BELIEF\" \"It's time to pay ten years off\" \"The world should be enshrouded in darkness!\". Suddenly the cryptic news went around the entire Moniyan Empire - Terizla escaped!Feeling reborn, Terizla stops walking, and takes a deep breath of fresh air; enjoying the freedom while his eyes remain closed. Suddenly, his body begins to hurt as if he were being punched by thousands of needles, and his veins begin to bulge around his eyes. His skin turned pale. There are only two emotions he can feel right now: pain and rage. Half-conscious, he loses control of his actions. He accidentally sees his ugly face, and old memories come flooding back into his head - It was indeed, a disaster.Terizla was once the leader of the smiths in a small village near the Moniyan Empire. They could insert life into swords; thus, with the help of these powerful weapons, even a common soldier could slay some of the strongest enemies. Soon, they received good graces from the Empire. The emperor sent out envoys under the name of \"Belief in the Lord of Light.\" The emperor asked the smiths to surrender the Empire, mimicking the tradition of instruction passed down through generations. Terizla kindly refused them. Baffled by his decision and repeated refusal to surrender, the Empire paid them a visit with a bloody surprise. All their blueprints were robbed, and all the smiths were wiped from history.Terizla was captured in the Monastery of Light and was forced to endure many experiments. He was suffering mostly from the experiment, \"Rebirth\", which made the death of the other smiths seemed appealing. His memories kept being cleared, but Terizla knew that someday the Empire would pay for what they had done. Consumed by rage and misery, Terizla feels once again that his head would break apart any time. Suddenly, he is surrounded by a warm feeling, and a cute girl is standing in front of him. \"Don't fight it. Let the hatred spread and explode in this land! If you need any help, remember me - Abyssal Witch.\" His body no longer paining, Terizla calms down, confused and pensive.After a while, Terizla shows a hint of a smile. Staring at the Moniyan Empire far away, he knows that the real danger for the Empire is just about to arrive.",
+    "status": {
+        "durability": "59",
+        "offense": "82",
+        "ability_effect": "68",
+        "difficulty": "65"
+    },
+    "skills": {
+        "passive": {
+            "name": "Body of Smith",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/8B/Cq2Ixlz-OeyAK6DIAABTm8Cra58688.png",
+            "tips": "\"Terizla's lost HP will be converted to a limited amount of Damage Reduction. His Attack Speed can't be increased. Every 1% increase in Attack Speed will be converted to Physical Attack. <br>The lower the HP of Terizla, the more damage resistant he becomes. This could enable him to draw fire more effectively in team offensives. \"<br>"
+        },
+        "first_skill": {
+            "name": "Revenge Strike",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/8B/Cq2Ixlz-Of-AHxtxAABWXXBasX4077.png",
+            "tips": "Terizla smashes the ground with his hammer, causing a fissure with cracks that spreads out and deals Physical Damage to enemies in contact with it. The first enemy in contact with the fissure will suffer a loss in Movement Speed, while Terizla gains an increase in Movement Speed. The affected enemy will then suffer an explosion with Physical Damage equal to 10% of the enemy's lost HP. <br>This is a poke skill as Terizla's Movement Speed increases while the enemy's Movement Speed decreases, enabling Terizla to easily escape or chase the enemy. "
+        },
+        "second_skill": {
+            "name": "Execution Strike",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/8B/Cq2Ixlz-Og2Aa7e8AABL-_0Khjs284.png",
+            "tips": "\"Terizla swings the hammer in a fan-shaped area, which could be dealt 3 times for Physical Damage. The first 2 times will deal Physical Damage to enemies while the 3rd time will deal increased Physical Damage with a Movement Speed slowing effect. This slowing effect could be stacked. <br>Execution Strike is Terizla's main offensive skill as it deals tremendous damage to enemies. This skill can be manually controlled to better afflict damage, which could be enhanced when combined with Revenge Strike or Sprint.\"<br>"
+        },
+        "ultimate": {
+            "name": "Penalty Zone",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/8B/Cq2Ixlz-OhyAOeNcAABTJjCXdJY212.png",
+            "tips": "\"Terizla leaps into a designated area, causing Physical Damage and slowing down enemies caught in the blast. Then, he summons the Guillotine several times to pull enemies in while causing Physical Damage. <br>This skill could be useful in Team Fights or in solo combat. However, the timing must be carefully measured as it comes with a long cast time. As this skill has a strong control effect, it could be combined with Execution Strike to deal extreme damage. \"<br>"
+        }
+    }
+}

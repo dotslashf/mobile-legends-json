@@ -1,0 +1,33 @@
+{
+    "name": "Alucard",
+    "type": "Fighter",
+    "story": "Alucard was born in the capital of the empire. His parents were once mentors to Tigreal's Order of Knights. In one of his trials, Tigreal's overconfidence led to Alucard's parents sacrificing their lives in order to save him from demons. Unable to accept this harsh reality, Alucard went into the territory of the demons in order to search for his parents. All he found on the battlefield, however, was the family crest worn on his parents' chest. He was then suddenly ambushed by the demons, who captured and tortured him for months. He was eventually freed by a demon hunter, after which he took up refuge as a resident of the Temple of Light.Alucard's youth was full of tragedy. During his captivity his mind was consumed with surviving moment to moment, and the rage within his heart was buried. Though he was humiliated countless times by his demon captors, he never gave up his desire for revenge. It was this desire that gave him strength to survive the months of imprisonment. Alucard became drawn to the abilities of the demon hunter who rescued him. Unwilling to return to the Order of Imperial Knights that him feel nothing but sadness, he went with the demon hunter to the Temple of Light. He trained there for many years, becoming an exceptional demon hunter himself. He spent his days researching how to better hunt and kill demons. Holding nothing but hate for demons in his heart, he follows the three principles of the demon hunters: independence from all organizations and territories; no mercy for even a single demon; and no \"last\" missions. The most mysterious things about him are the demonic claws on his right hand as nobody knows what they are or how they got there",
+    "status": {
+        "durability": "50",
+        "offense": "87",
+        "ability_effect": "50",
+        "difficulty": "45"
+    },
+    "skills": {
+        "passive": {
+            "name": "Pursuit",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U4eAWBtUAABeV7gMl0w796.png",
+            "tips": "This passive gives Aluchan the \u201cchasing effect\u201d using your AA after every skills will move you to the target you\u2019re trying to attack.<br>This works on all targets, including Towers so do take note.<br>Always use your AA after every skill to make use of passives extra damage."
+        },
+        "first_skill": {
+            "name": "Groundsplitter",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U2uAECJ2AABXd6fXNg0662.png",
+            "tips": "Escape tool, you can use this to jump over the wall<br>Engage tool, you can use this to get closer to the backline<br>Pair this up with your passive to do a \u2018Gap Closer\u2019 or \u2018Retreat\u2019<br>Has a pretty neat slow built in, so that you can give chase."
+        },
+        "second_skill": {
+            "name": "Whirling Smash",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U3iAGvigAABdeXRlEVs184.png",
+            "tips": "AOE damage skill made to target surroundings enemy<br>Pretty standard skill with no other effects lolol.<br>Super Low Cooldown at 5 seconds, make use of this skill to always proc your passive"
+        },
+        "ultimate": {
+            "name": "Fission Wave",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U4CABVCGAABWLQmYBhk366.png",
+            "tips": "Gives you insane lifesteal<br>Pretty Dope damage on the last attack<br>Your one skill that allows you to have higher sustain compared any other heroes.<br>Both parts of the skill allows you to proc your passive<br>Lifesteal on different targets differs."
+        }
+    }
+}

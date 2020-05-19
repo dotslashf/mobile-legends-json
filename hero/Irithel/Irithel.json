@@ -1,0 +1,33 @@
+{
+    "name": "Irithel",
+    "type": "Marksman",
+    "story": "Irithel was abandoned in the jungle by her parents when she was a little girl. Under the guidance of the God of Jungle, a female smilodon that had just given birth adopted her. Being protected by the mother smilodon, the little smilodon Leo and Irithel learned to hunt, survive, and grew up like an animal. During a territory fight, the mother smilodon was badly injured. When Irithel and her \"brother\" Leo went to a town for help, they were captured as \"smilodon children\" by a slaveholder. When the cat elf mage - Nana - passed by and couldn't watch them get beaten to death, she suddenly had the super power inside her that allowed her to save these two poor children. With the help of Nana, Irithel was able to understand human languages and combat skills while Leo grew up to become a strong adult smilodon. But Irithel still hates humans and trusts her only friend - Leo.",
+    "status": {
+        "durability": "44",
+        "offense": "80",
+        "ability_effect": "42",
+        "difficulty": "66"
+    },
+    "skills": {
+        "passive": {
+            "name": "Jungle Heart",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7lg6ANPuyAABOHxJdVbk405.png",
+            "tips": "Jungle Heart is a passive skill that makes Irithel to hit enemies while running or moving.<br>This passive is so benefical that you can attack enemy who are chasing at you while running.<br>but its attack speed is quite slow ,so you need some attack speed items."
+        },
+        "first_skill": {
+            "name": "Strafe",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7eFiAMm1YAABR51uDo20542.png",
+            "tips": "This skill should be used as initial when you attack enemy, this skill reduce enemies defense armor greatly,so you can deal even more damages to heavy armor heros esspecially tanks.This skill can give great damage while cleaning lanes.<br>You can use this skill as initial on monsters to reduce their armors."
+        },
+        "second_skill": {
+            "name": "Force of The Queen",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7lgCAa_auAABQozUEpIY140.png",
+            "tips": "You can use this skill to slow the enemies and deal some damage during battle.<br>You can use this skill to slow the enemies while you are chasing them<br>or escaping."
+        },
+        "ultimate": {
+            "name": "Heavy Crossbow",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7lgmASHi1AABVVyr5cpY998.png",
+            "tips": "Heavy Crossbow is the ultimate skill of irithel, you should use this skill before team battle.<br>This skill's basic attack Critical damages are REALLY CREEPY , dealing 1500-2400 dmg to the target and nearby enemies! ( the situation with only 4 items/gears.)<br>You only need 3-5 hits to kill a mage. If enemies are stick together, it will deal damages to all of them!<br>It's also good in dealing damage to turret too, it only take a bit of time to destory a turret with her ulti's basic attack.<br>You can use this skill to escape from enemy too."
+        }
+    }
+}

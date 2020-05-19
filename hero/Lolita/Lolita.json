@@ -1,0 +1,33 @@
+{
+    "name": "Lolita",
+    "type": "Tank",
+    "story": "Lolita was born in a distant elven village, living a happy, uneventful life. That is, until war brought an end to those peaceful, safe days. Her whole village was destroyed in the war and her family torn apart. Just as her own life was in grave peril, Dr. Rooney, the master machinist of the City of Scholars, found her when he was passing through and took her back to Eruditio. To show her gratitude to the city, Lolita joined the City Guard and swore an oath to the death to defend its honor. Bruno very much admired and understood this young elf maiden's spirit, and so he put in a request with the city scholars for their most advanced tech crystal-- the Noumenon Energy Core-- and bestowed it to Lolita. This powerful energy core endows Lolita's tiny frame with the ability to discharge massive Bursts of force, even allowing her to control a giant mechanical hammer with ease.",
+    "status": {
+        "durability": "75",
+        "offense": "52",
+        "ability_effect": "83",
+        "difficulty": "50"
+    },
+    "skills": {
+        "passive": {
+            "name": "Noumenon Energy Core",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cHyAFmahAABgI8abj7Y659.png",
+            "tips": "If Lolita already has a shield and shield is fully charged, nearby Allies will receive the shield. So if there are 4 allies around you that doesnt have a shield, they will all receive it at the same time."
+        },
+        "first_skill": {
+            "name": "Charge",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cC-APjMUAABlEKSfaTM468.png",
+            "tips": "At skill level 1 its 350 + 2.5%hp , at skill level 6 its 650 + 5% hp of damage. This will hurt quite alot when you are hitting enemy with high amount of HP, it even works with lord."
+        },
+        "second_skill": {
+            "name": "Guardian's Bulwark",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cGqAYlbdAABc9Z_NnXU564.png",
+            "tips": "Try to use your shield only when you really need it, like blocking cyclop's ultimate.After blocking the damage, try to aim the Energy Blast to hit the lowest health target. You don't need to use it immediately as you have 4s to fire it."
+        },
+        "ultimate": {
+            "name": "Noumenon Blast",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cHSAKKG2AABnh84M5fI750.png",
+            "tips": "Your ultimate chargeup animation will not be visible by the enemy team if they cannot see you while you are in the bush, so the stealth ult is stiill here after the remake."
+        }
+    }
+}

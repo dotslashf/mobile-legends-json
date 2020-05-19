@@ -1,0 +1,33 @@
+{
+    "name": "Tigreal",
+    "type": "Tank",
+    "story": "Tigreal is the Captain of the Moniyan Knights\u2019 Order of the Imperial Empire. Even as a child, he wanted nothing more than to become a great knight of the Empire. Since his youth, Tigreal was a loyal believer in the Lord of Light. He swore to become a member of the Knight's Order to defend the status and symbol of the Moniyan Empire throughout the Land of Dawn. He dedicated all his time to training. In each of their training simulations and tests Tigreal's performance became the benchmark that no other knight's could surpass. His mentors were the most revered of all the Imperial Knights. In order to prove himself and surpass them, he dedicated more time and energy than others to his betterment; even the smallest mistakes in his training would be corrected and practiced repeatedly in his free time. Eventually, his mentors declared him the Captain with the highest potential in all of the Knight's Order.His mentors' comments gave Tigreal complete confidence in his abilities. Even the strongest of heroes, however, is not without weakness. While hunting demons during one of their trial missions Tigreal showed the slightest amount of compassion, hesitating to make a kill. In that moment of hesitation, he was ambushed by the demons and was gravely injured. He watched helplessly as his mentors sacrificed themselves to save him. It was this mission that made Tigreal understand that he still had a long path ahead of him if he wanted his name to be recorded in the history of the land, . After the returning to the empire, Tigreal became even more strict with himself. He required each of his men to come back from every mission without a single loss, and wouldn't tolerate a single mistake from any of his subordinates.Ever since then the Paladin Tigreal can be seen at the frontlines of the battle, where he has never been defeated. Even the most evil of enemies didn\u2019t dare to provoke Tigreal in battle, because they knew to do so would be to suffer his merciless assault. A staunch believer in the Lord of Light, he became a pillar of the Knights\u2019 Order, and his name synonymous with bravery and fearlessness. In order to recognize his courage, the empire bestowed upon him the title of Warrior of Dawn.Tigreal constantly sought out the bravest warriors of the land, and in his mind there was none better than Alucard. For a long time, however, he has been unable to convince Alucard to leave the Temple of Light and join him. He knows that Alucard was unable to move on from the death of his parents. Each time he walked up the steps to the Temple of Light, he did so with a heart full of regret.",
+    "status": {
+        "durability": "62",
+        "offense": "34",
+        "ability_effect": "90",
+        "difficulty": "25"
+    },
+    "skills": {
+        "passive": {
+            "name": "Fearless",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U16ANVcPAABNWbodpkE152.png",
+            "tips": "Remember to do basic attacks between spells to harden you even more. You don't need to hit enemies to activate your passive so do it before Teamfights, or when you considerate it is necessary."
+        },
+        "first_skill": {
+            "name": "Attack Wave",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UyyAS_DDAABFILpi140403.png",
+            "tips": "A Straight wave that is useful for killing minions, slowing down running enemies from battles and useful to stop enemies' HP regen. Try not to spam it a lot because it consumes a lot of mana, just waste it while having enemies in front and you make sure that you will hit them. "
+        },
+        "second_skill": {
+            "name": "Sacred Hammer",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U0OAYyP3AABhxHBZc_o840.png",
+            "tips": "The most important Tigreal's ability, being hard to master at the begining but easier to manipulate after playing several games with Tigreal. This ability complements well with the battle spell Flicker by dragging the enemy team to your side where your team awaits for them. Anyway, it costs even more mana than the 1st ability so use it wisely."
+        },
+        "ultimate": {
+            "name": "Implosion",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U0qASq9NAABiIhWFpf8361.png",
+            "tips": "The perfect complement for the 2nd ability and flicker. It is one of the best crowd control abilities on the game, so you have a great power in your hands and a really useful weapon for teamfights."
+        }
+    }
+}

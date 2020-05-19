@@ -1,0 +1,33 @@
+{
+    "name": "Kimmy",
+    "type": "Marksman",
+    "story": "Kimmy grew up in a military family. She was encouraged by her father, a renowned general of the Moniyan Empire, to be straightforward, self-disciplined, and obedient. As a result, Kimmy developed a tomboy-ish character which everyone could see, be it in the way she dressed or in the way she spoke. Since childhood, Kimmy possessed a natural talent for research and innovation. Kimmy was always keen on analyzing and reforming chemical energies. However, her father felt differently about his daughter's passions. He wanted her daughter to completely stay away from war and everything related to the military and to live life like a normal person. Like all the teenagers, she rebelled against her father. In her opinion, except for the mechanical technology from the Eruditio and the mystifying magic power of the Magic Academy, a fusion of biotic and chemical energy could be the solution to many problems in the Land of Dawn. Over time, Kimmy's interests drove a wedge between her and her father. Beyond the minor quarrels between Kimmy and her father, Kimmy had achieved many great things. She had a passtion for creating new inventions. She believes that the shooting backpack she invented could finally make sense one day. Kimmy decided to take her inventions and enroll in the Empire Army to prove to her father that she was right.",
+    "status": {
+        "durability": "82",
+        "offense": "70",
+        "ability_effect": "45",
+        "difficulty": "72"
+    },
+    "skills": {
+        "passive": {
+            "name": "Chemist's Instinct",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/63/Cq2IxlvRYV6AFPGLAABNUuJjVKk103.png",
+            "tips": "Kimmy is still in movement while using skills. Keep the distance from enemies and attack them at the same time."
+        },
+        "first_skill": {
+            "name": "Energy Transformation",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/63/Cq2IxlvRYUCAQsx6AABTLcpXOrI391.png",
+            "tips": "Use 1st skill to attack enemies at a long distance. When enemies are around you, attack as many enemies as possible."
+        },
+        "second_skill": {
+            "name": "Chemical Refinement",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/63/Cq2IxlvRYUqAe0iKAABM7Z0bhNI571.png",
+            "tips": "When chased after by enemies, use 2nd skill to slow them down."
+        },
+        "ultimate": {
+            "name": "Maximum Charge",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/63/Cq2IxlvRYVWASmDoAABLh-ZlnDU602.png",
+            "tips": "3rd skill is of long range. When enemies intend to attack you, you can target them in advance; when enemies try to run away, use it to reap them. "
+        }
+    }
+}

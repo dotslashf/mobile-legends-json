@@ -1,0 +1,33 @@
+{
+    "name": "Valir",
+    "type": "Mage",
+    "story": "In the southwest of the Land of Dawn lies an active volcano that brought deadly peril to all who dared approach. \u201cInferno of Fire\u201d, was what people called this place. It was also known as the place of trial for Mages eager to master flame spells. After leaving the magic academy, Valir dwelled himself there for five years while carrying a ten-year promise with Vale. He hoped that day would come more quickly, but at the same time, he also hoped that day would never come. One day, Valir cast his arcane flame magic towards the volcano but the result was not to his expectationIn the western desert, there was a man who was looking for Valir. The betrayal of years was something he could never forgive. With great anger and hate, and to maintain the reputation of the magic academy, he decided to track down the traitor. The moment he felt an unusual arcane power releasing from the volcano, he smiled.The long-term inhabitance in this \u201cInferno of Fire\u201d brought changes to Valir\u2019s body. His skin was burned by the flames of the volcano, but in order to become the Son of Flames, he had to combine the power of his arcane flame magic with the volcano\u2019s inferno fire. His body and his will must withstand the trials of these scalding lava. Suddenly, a strong wind blew, bringing a familiar sense to Valir. Vale had come! They had never met each other since childhood. This encounter led to the first fight between them, between fire and wind. The Windtalker and the Son of Flames cast their all magic to attack each other. No words were exchanged, but they shared a common thought \u2013 they didn\u2019t want to kill each other. However, their fight generated great power, which was aggravated the volcano. If the volcano burst, they would surely die in an inferno.Five years left - can\u2019t you wait Vale!? Before Vale said anything, Valir heard another familiar voice, it was Gord. Gord\u2019s presence interrupted this fight between these brothers. He wanted to abolish the arcane magic of Valir, because in his mind, his pure arcane wisdom should never be tarnished. However, the arcane spell he cast to Valir was stopped by Vale. Vale turned to sympathy upon looking at Valir\u2019s tortured body. He didn\u2019t want anyone to hurt his brother. However, Valir didn\u2019t need such sympathy. One of them was his master who wanted to destroy his apprentice for his apparent betrayal.  Another one of them had been his closest brother. However, he was also the son of the one who killed Valir\u2019s father.The sacred flame would never be quenched. Valir successfully combined the power of his arcane flame magic with the inferno fire and burst out a powerful energy. With this power, the lava became unstable. Meanwhile, Valir gained a mighty body while his eyes became scarlet flames. At that time, Vale could understand his father\u2019s worries. This kind of power astonished Gord, and as his teacher, he would rather kill his student than to let him be possessed by this crazy power. Valir\u2019s flame, Vale\u2019s wind, and Gord\u2019s arcane power aggravated the volcano, which led to a great collapse. After that, Vale and Gord tried to find Valir, but they couldn\u2019t find him. Vale knew that in his heart Valir was still alive,and that their ten-year promise was not yet broken. The five-years made Valir formidable, what was to happen after another five years? Vale knew the next time they encountered each other, it would no longer be as friends and brothers. Rather, it would be about the greatest fight for their lives.",
+    "status": {
+        "durability": "88",
+        "offense": "40",
+        "ability_effect": "46",
+        "difficulty": "55"
+    },
+    "skills": {
+        "passive": {
+            "name": "Ashing",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/Cq2IxlqmM1yASAYrAABRmHp2Cvk2592864",
+            "tips": "This is Valir's core skill. When your passive is cooling down, try using Burst Fire to chase down enemies with your teammates. If you'd rather play it safe, you can also try using Searing Torrent continuously to interrupt enemy skills."
+        },
+        "first_skill": {
+            "name": "Burst Fireball",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/Cq2IxlqmM0GAAKXqAABIQVIN3A05592614",
+            "tips": "The very short animation before casting means that this skill can hit its target almost 100% of the time. Combined with Arcane Flame, this skill is great for melting down the enemy's HP in the early stages of a game."
+        },
+        "second_skill": {
+            "name": "Searing Torrent",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/Cq2IxlqmM0yAZypBAABF-7C2-oU9681021",
+            "tips": "With a large damage range and knock-back effect, this skill can easily interrupt the vast majority of hero skill casts in the game. If you can judge your cast to hit targets with the end of your torrent, you can rack up very high damage."
+        },
+        "ultimate": {
+            "name": "Vengeance Flame",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/Cq2IxlqmM1SAMhAiAABSWFFyBb49922661",
+            "tips": "The extremely large damage range makes this an invaluable skill in team fights. When used with Burst Fire and Arcane Flame's double slowing effects, Hellfire stands a higher chance of hitting targets and dealing maximum damage."
+        }
+    }
+}

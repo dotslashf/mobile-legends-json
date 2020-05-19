@@ -1,0 +1,33 @@
+{
+    "name": "Akai",
+    "type": "Tank",
+    "story": "A clumsy panda from a far away Eastern village dreamt every night of becoming a mighty warrior. Akai was fat and clumsy even for panda standards and most people said that all he's good for was rolling round. However, this never fazed Akai, as he trained daily, hoping to one day achieve his dreams of becoming a respected warrior. His friends mocked him, his parents discouraged him but Akai persisted. Soon one day, a mysterious old monk noticed Akai's persistence and took him under his guidance. Akai flourished under the training of the monk, mastering the arts of the flail. He is now ready to get onto the world stage and prove that he is a worthy member of the martial arts world!",
+    "status": {
+        "durability": "55",
+        "offense": "65",
+        "ability_effect": "90",
+        "difficulty": "45"
+    },
+    "skills": {
+        "passive": {
+            "name": "Tai Chi",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U86AVDnHAABV_y-ux0E454.png",
+            "tips": "Getting a Shield on every skill cast makes Akai rathertanky during the early game, as well as provides a lot of opportunities foroutplays. The extra shield makes Akai a very formidable opponent in a 1v1scenario. When jungling, space out the usage of Skill 1 and Skill 2 to allow your shield to tank the damage from the jungle monsters, as Akai's passive shield has an internal cooldown."
+        },
+        "first_skill": {
+            "name": "Thousand Pounder",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U7iADFgyAABfbPKSiHo561.png",
+            "tips": "The long-ranged jump allows for a strong engage into the enemy back line, a narrow escape across walls or just a really good ambush. Remember that when enemy's are marked by Blender (with the Froggy symbol floating on their heads) jumping on them will stun them."
+        },
+        "second_skill": {
+            "name": "Blender",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U8CASAnWAABMrdigNhM660.png",
+            "tips": "Blender is Akai's poking skill. The projectile explodes upon impact or at maximum range, and has a relatively wide AoE, making it very easy to mark targets. The most important part of this ability is that attacking targets marked by Blender allows Akai to deal extra 5% of Akai's Max HP as physical damage, which is A WHOLE LOT OF FREAKING DAMAGE."
+        },
+        "ultimate": {
+            "name": "Hurricane Dance",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U8eAKqKiAABNaWWI2Hw053.png",
+            "tips": "Hurricane Dance is Akai's disruptive skill. Aside from the annoying knock back and wall pinning, Akai is immune to slowdown effects and has increased movement speed during the ULT duration. Akai's ULT also works as a Purify which clears all CC and Stun effects on him."
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Faramis",
+    "type": "Support",
+    "story": "Far from the Moniyan Empire stands an ancient castle. This castle has a glorious history comparable to the Moniyan Empire. Unfortunately, the castle collapsed overnight, as if it had suddenly disappeared. The tall gray walls were covered with dark black vines, which were more horrifying and strange under the moonlight. The breath of death makes the creatures close to this ancient building shudder and keep away. It seemed that the owner of the castle had set up a trap, waiting for prey to fall for it.  A man wearing feathers stood on a distant hill, looking at this deadly castle. He silently read the name of the castle, \"Necrokeep\". He tried to recall the memories of the past, only to be filled with pain over all his body. This pain awakened his inner hatred. As the most prominent magician of the time, Faramis was the only survivor of the disaster.  A few years ago, the Queen of this castle - Vexana cursed her soul to save the fallen king, her husband. After gaining the ability to dominate the abyss, the whole castle was shrouded in dark energy, and the country was in chaos. Regardless of Faramis's efforts to save Vexana, she still didn't get better. Faramis kept trying all kinds of methods, hoping to cure the corrupted kingdom. Over time, it did nothing to alleviate the disease. On the contrary, Vexana gradually became eroded by this energy and became a full-fledged monster. Gradually this terrible rumor spread throughout the Land of Dawn.  The Moniyan Empire led the army to capture this place. For the peace of the mainland, the Imperial Knights had to destroy all the infected people here. Faramis pleaded with the Empire, but was rejected by the Empire. Instead, the imperial knights ignored the infected lives, and chained Faramis in a heavily guarded laboratory, Faramis could only watch the whole castle being smeared with charcoal, when the army of the empire retired three days afterwards, Faramis climbed out of the ruins of the castle miraculously. The castle was already unrecognizable. In order to survive, Faramis found the magic book of his life record in the ruins.  In the days of exile, he tested crazy dark magic on himself, constantly exploring the ways he could live within his own body and creating more aggressive magic. The years of suffering had also turned him into a vengeful creep who had never forgotten any of the warriors of the empire. With the book of resurrection in hand, he understood that he was using forbidden and unkonwn magic. Still, the chains in his body reminded him of the suffering from the empire, pushing him to plot against the Empire for the rest of his life...",
+    "status": {
+        "durability": "80",
+        "offense": "36",
+        "ability_effect": "72",
+        "difficulty": "66"
+    },
+    "skills": {
+        "passive": {
+            "name": "Vicious Retrieval",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/88/Cq2IxlzmpR2ARjYHAABCy7ICO3I832.png",
+            "tips": "The main regeneration skill for Faramis. He can collect souls nearby to restore himself. Meanwhile, the souls he collects will shorten the time of his next respawn so that he can come back to the battlefield quickly."
+        },
+        "first_skill": {
+            "name": "Shadow Stampede",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/88/Cq2IxlzmpPGASDOgAABZOGSEZ28159.png",
+            "tips": "A skill used to start a team fight. Cast this skill with Flicker or Sprint. Join the battle and stack advantages."
+        },
+        "second_skill": {
+            "name": "Ghost Bursters",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/88/Cq2IxlzmpPqAIIgyAABV7nFttRI874.png",
+            "tips": "Core damage skill. The outburst can split so use this skill when there are multiple enemy units. With Shadow Stampede, Faramis can pull multiple targets together and deal high split damage."
+        },
+        "ultimate": {
+            "name": "Cult Altar",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/88/Cq2IxlzmpQaAPOTCAABMRxfI7no018.png",
+            "tips": "Good choice for team fights. Cast this skill no matter who is dying to protect teammates and himself. Faramis and his teammates can also deal great damage during this time."
+        }
+    }
+}

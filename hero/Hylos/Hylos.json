@@ -1,0 +1,33 @@
+{
+    "name": "Hylos",
+    "type": "Tank",
+    "story": "Amidst the misty mountains within the northern reaches of the Land of Dawn, resides an ancient and mysterious race of centaurs. These centaurs guard a fountain that rests on the highest mountain peak. This fountain is said to give the gift of life. Dark forces have relentlessly tried to gain the power found within the waters of this fountain, but only to be time and time again thwarted by the centaurs. However, as time went on, the centaurs tired and attrition soon took hold. Then Hylos arrived, and through his mastery of nature's wrath he was able to punish all the invaders of the fountain, thus becoming a legendary figure within the annals of the Land of Dawn.",
+    "status": {
+        "durability": "62",
+        "offense": "34",
+        "ability_effect": "90",
+        "difficulty": "25"
+    },
+    "skills": {
+        "passive": {
+            "name": "Thickened Blood",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7l4-AEpqfAABV_rJ_H3g406.png",
+            "tips": "It is recommended to build mana providing equipment, as it will also give you health at the same time. In some situations if you run out of mana, you may use health to cast skills and finish off enemies."
+        },
+        "first_skill": {
+            "name": "Law and Order",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7l3WAE7ugAABS2OuM954513.png",
+            "tips": "The range is rather short, best to use it as soon as possible in order to control the target."
+        },
+        "second_skill": {
+            "name": "Ring of Punishment",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7l36ABU44AABZLUlysdQ455.png",
+            "tips": "This is Hylos' core damage ability, a AoE ring damaging ability that is immune to CC, pay attention to your mana when using it, take notice of the enemy's HP when utilizing health to cast this ability."
+        },
+        "ultimate": {
+            "name": "Glorious Pathway",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7l4WAR9VhAABE5A-iaEo796.png",
+            "tips": "This is Hylos's signature move, it's a teamfight machine, this is the skill that separates the best Hylos players from the good ones."
+        }
+    }
+}

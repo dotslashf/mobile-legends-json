@@ -1,0 +1,33 @@
+{
+    "name": "Harley",
+    "type": "Mage",
+    "story": "There lived a famous young mage, Harley, in the Lion Academy of Magical City. He is blessed by the Magical Goddess and as the star of the Academy, he is able to learn quickly and master any magical spell. Kids need adventure and when Harley and his friends were exploring the jungle in the middle of the night, they overheard the evil conspiracy of the organization called the \"Dark Wizards.\" The brave young men decide to stop them! First, they need to find the secret base of Dark Wizards and then report to the headmaster. But during the investigation, he accidentally activated the space portal and teleported to the other side of the Land of Dawn - Scholar City. With the help of the mecha master - Rooney, the brave and energetic boy and his partners Lolita, Bruno, Alpha and Saber, they went back to the Magical City to destroy the core of Demorte, the Boss of Dark Wizards. To improve his battle techniques, Harley started his adventure in the Land of Dawn.",
+    "status": {
+        "durability": "75",
+        "offense": "65",
+        "ability_effect": "40",
+        "difficulty": "66"
+    },
+    "skills": {
+        "passive": {
+            "name": "Magic Master",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7d7yAG1txAABL3zt1Yao122.png",
+            "tips": "Use basic attack on the enemy during the Ultimate, increasing the damage."
+        },
+        "first_skill": {
+            "name": "Poker Trick",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7d6eAbEjXAABSeDdNwBc590.png",
+            "tips": "Use this skill to spam enemies.<br>Use this skill to jungle in early game.<br>You could use this skill while walking, making it possible to hit enemies while walking."
+        },
+        "second_skill": {
+            "name": "Space Escape",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7d6-AaXzkAABNXSB5kQM072.png",
+            "tips": "Using this skill may get a little tricky, if an enemy chase you and faster than you, ran as fast as possible and teleport back to the hat. Ran to nearby forest and escape. "
+        },
+        "ultimate": {
+            "name": "Deadly Magic",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7d7aAHyOSAABTqfJ3Fds545.png",
+            "tips": "Get rid of minions, you need skill 1 to hit your target directly. Next, use skill 3. When the ring is on the enemy, deal as much damage as possible to the enemy. More the damage, more deadly is the skill. "
+        }
+    }
+}

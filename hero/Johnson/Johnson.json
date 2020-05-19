@@ -1,0 +1,33 @@
+{
+    "name": "Johnson",
+    "type": "Tank",
+    "story": "Johnson, with a hardy constitution as solid as a rock, ran through the dome stadium like a heavy truck, the cheers of girls bursting from everywhere. He led his team to lift the champion's trophy and achieved the highpoint of his life as a superstar quarterback with millions of fans. However, fortune is always fickle. A little girl suddenly rushed into the road while Johnson was driving his sports car. To avoid hitting the little girl he swerved and severely crashed his car. A massive hemorrhage was going to take his life quickly. At that moment, a miracle occurred. The wreckage of the sports car started to combine with Johnson's body by a mysterious force. Because of this, he not only survived the crash but also became a magical new human who could transform into a sports car.",
+    "status": {
+        "durability": "60",
+        "offense": "39",
+        "ability_effect": "92",
+        "difficulty": "55"
+    },
+    "skills": {
+        "passive": {
+            "name": "Electro-airbag",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/01/Cq2Ixlp0XpyAYeVNAABY0Pcd3cg6853960",
+            "tips": ""
+        },
+        "first_skill": {
+            "name": "Deadly Pincers",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/01/Cq2Ixlp0XnyACoqqAABW_lYzk8A5060072",
+            "tips": ""
+        },
+        "second_skill": {
+            "name": "Electromag Rays",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/01/Cq2Ixlp0XoeACaS9AABW0_TP1f87380135",
+            "tips": "As you can continue using basic attacks while this skill is active, you can use basic attacks to adjust this skill's direction, and thus greatly increase its hit rate."
+        },
+        "ultimate": {
+            "name": "Rapid Touchdown",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/01/Cq2Ixlp0XpOANlZWAABlRTOQ-gc9587967",
+            "tips": "Take full advantage of Johnson's car form to gank often. You can also carry a teammate with you to steal the enemy's base."
+        }
+    }
+}

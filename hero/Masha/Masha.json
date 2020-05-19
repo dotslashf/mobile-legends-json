@@ -1,0 +1,33 @@
+{
+    "name": "Masha",
+    "type": "Fighter",
+    "story": "There was a land in the far north called Northern Vale, which was covered by winter snow all year round. It was also known as the land closest to the Frozen Sea. In their long history, the Sarmi Tribe and the Bears shared their land. Having a common ancestor, they never attacked each other and lived in harmony. As time passed, they developed a spiritual bond. Such peace was maintained for a long time. Nobody would have thought that the perilous natural environment of the Northern Vale would still invite invaders to this land. Large numbers of pirates from the Frozen Sea came to the Northern Vale. They brought not only endless plunder but also bitter wars. Formidable as they were, the pirates pillaged and occupied this land. As if that was not enough, the invaders started to hunt the Bears. Every tribe of Northern Vale was threatened by those invaders - some of them were conquered, some of them were expelled from their homes, having to struggle homeless in the cold. As the leader of Sarmi Tribe, Masha protected her tribal from waves of attacks. As a tribal hunter, she had a great talent in battle, and this was the reason why she could defend the dignity of the Northern Vale. She never forgot the vow of Sarmi - to \"Protect the Bears!\" She endeavored to find the Bears. But when she found the habitat of the Bears, she found only death and signs of violence everywhere. Suddenly, Marsha heard a loud roar. It was a familiar roar. As expected, there was a group of invaders trying to hunt down the Bear King, who was constantly saying \"Beast Power\". They launched attacks with their advanced weapons and unique hunting skills. The Bear King tried to protect the injured little bears by shielding them with his body, though he had been badly hurt by those iron spears. Masha dashed into the battlefield to assist the Bear King, but was in vain. The Bear King perceiving Masha's intentions, decided to divert the attention of those hunters by moving away. Masha understood the purpose of the Bear King and rescued the little bears and ran into the mountains. She used her own cloth to bind the wounds sustained by the bears and placed them safely in a secret cave. She went back to assist the Bear King who was gravely injured. Those hunters beat him down and tried to capture him. This irritated Masha who descended upon them and tore them up while attempting to save the Bear King. The Bear King then mustered all his remaining strength and unleashed his final \"Beast Power\". Masha and the Bear King fought together and let the hunters pay in blood for their invasion. It was the first time the Sarmi and the Bears fought together, and the victory belonged to all of Northern Vale. What Masha didn't expect was that the Bear King was down to his final moments. Masha could feel the grateful trust from the Bear King's eyes. It seemed that the King was showing his deepest respect for what she had done. Finally, the King closed his eyes and endowed Masha with powerful energy. Masha felt this energy coursing through her body and she realized that this was the \"Beast Power\". Her body became extremely powerful. It seemed that she could withstand any kind of attack with this body and could beat any opponent with her superb attack speed. Masha successfully saved the little bears, in hopes that the bears would rise again in future. From that day onwards, Marsha vowed to guard the Northern Vale with her \"Beast Power\" and no invaders would escape the wrath of her wild fists.",
+    "status": {
+        "durability": "75",
+        "offense": "85",
+        "ability_effect": "80",
+        "difficulty": "81"
+    },
+    "skills": {
+        "passive": {
+            "name": "Ancient Strength",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/93/Cq2Ixl2EgIOAKDEdAABRy1Hzc-I487.png",
+            "tips": "Masha gets the Ancient Strength from the Bear King and has 3 HP bars. Each time she loses 1 HP bar, she can block the damage once. However, she will die after she loses the last HP bar. Each time Masha loses a certain amount of HP, her ATK Speed will be increased. (Based on total HP of 3 HP bars.) Masha will get Physical Lifesteal when she loses her first HP bar. Her Physical Lifesteal will be enhanced, and she will enjoy reduced time-controlled effects after she loses her second HP bar.With less HP left, Masha can deal more damage and have a greater regen ability. So when going as Masha, don't be afraid when your HP is running out, you should dive into battle! After killing targets, you can restore HP rapidly by using \"Life Recovery\"."
+        },
+        "first_skill": {
+            "name": "Wild Power",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/93/Cq2Ixl2EgFKANbEWAABY6nLjX48274.png",
+            "tips": "Masha awakens her Wild Power, increasing her Movement Speed and dealing extra Physical Damage according to the target's Max HP with Basic Attacks. When Wild Power is awakened, Masha will lose a certain amount of her current Max HP every second. (Based on total HP of 3 HP bars).This is Masha's core skill. When this skill is activated, Masha's chasing ability and DPS will receive massive enhancements. Though Masha has to continuously pay with her HP for activating this skill, the Lifesteal ability and Attack Speed boosted by her passive \"Ancient Strength\" more than compensates her loss - making her almost invincible in battles."
+        },
+        "second_skill": {
+            "name": "Howl Shock",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/93/Cq2Ixl2EgGCAHv4SAABaVlWI50E750.png",
+            "tips": "Masha roars forward and unleashes an energy shockwave to targets, dealing Physical Damage and slowing them. The hero in contact with the shockwave can be disarmed. (Picking up weapons in advance can end the disarming effect.)This skill provides Masha with a great advantage while fighting against opponents. It can disarm the target and inflict a slowdown debuff, which will be very useful for launching an offensive or a retaliation."
+        },
+        "ultimate": {
+            "name": "Thunderclap",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/93/Cq2Ixl2EgG2AVOMXAABYKY2i0IY607.png",
+            "tips": "Masha launches a powerful charge after sacrificing a certain amount of her current HP. When she gets close to targets, she will release Thunderclap, dealing Physical Damage according to the targets' Max HP and slowing them.This is a burst skill that can be used to launch a fight. By using this skill, Masha can approach the enemy rapidly, deal great damage and inflict slowdown debuff."
+        }
+    }
+}

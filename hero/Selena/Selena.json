@@ -1,0 +1,33 @@
+{
+    "name": "Selena",
+    "type": "Assassin",
+    "story": "In the Southern Moniyan Empire, a bottomless abyss is carved into a barren landscape\u2014As if a demon had used a powerful blade to permanently scar the Land of Dawn. The local populace call this place, the Shadow Abyss. Little does the world know, sealed away at the bottom of the Shadow Abyss lies the Land of Dawn's most terrifying demon\u2014The Abyss Dominator. Over the many centuries, the seal on the abyss has slowly faded, giving way to the hungry will of the Abyss. The demons tirelessly schemed of ways to strengthen their power over the darkness. Many misguided believers offer sacrifices to the Abyss, unknowingly feeding the demons, created from dark energy in its purest form, always lurking in the darkness waiting to devour the carcasses of sacrifices.One day, Selena, a young dark elf, was sacrificed by fanatic believers in exchange for dark energy. Elves being the demon's favorite sacrifice, Selena was mercilessly thrown into the abyss. The Abyss Demon filled Selena with pain and despair, which coursed through every vein of her young body. Just as Selena was about to be consumed by the darkness, a miracle happened. A mysterious, warm-blue light enveloped her and appeared to be battling with the darkness for control over her body. When Selena woke, she found herself still lying in the Abyss, but her skin was now exuding some strange blue glow, and her once lavender eyes were filled with a majestic scarlet glow. It was the Abyss Demon resting within her. The demons frantically wondered what happened.The Will of the Abyss then spoke: \"This girl is loved deeply, and this love has protected her from being consumed by darkness. The abyss and the moon god, two opposing forces, have reached a balance within her body.\" An ancient and deep voice echoed through the minds of the demons, \"Leave this girl to me. She will become the strongest warrior of the Abyss!\" The Demons obeyed the commands and left Selena as she was. When Selena stood before the demonic inhabitants of the abyss, with the Abyssal Demon at her side, she had completely forgotten her past. Selena quickly discovered that she could manipulate the dark magic of the Abyss. She could absorb the power of the Abyss into her body to transform herself into a demoness, capable of tearing her enemies into shreds. The Will of the Abyss appointed her as its voice, giving Selena uncontested rule over the demons of the Abyss. Even Alice, the proud Queen of Blood Magic, felt unsettled when she laid eyes upon the young dark elf\u2014Not only because the Abyss chose Selena, but also because Alice could sense a terrifying power lying within this seemingly-cute and mischievous maiden named, Selena.",
+    "status": {
+        "durability": "84",
+        "offense": "56",
+        "ability_effect": "49",
+        "difficulty": "75"
+    },
+    "skills": {
+        "passive": {
+            "name": "Symbiosis",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/3F/Cq2IxltEWGmAHw7SAABTHCxR024668.png",
+            "tips": "Selena uses the power bestowed upon her by the Moon God and the Abyss to switch freely between her two forms. When using skills in her Elven form, Selena attaches one Abyssal Mark to her enemies (when Abyssal Trap hits an enemy, it immediately adds an Abyssal Mark). Up to 2 Abyssal Marks can be added to an enemy. Skills used in Abyssal form will consume 1 of these marks to deal bonus damage."
+        },
+        "first_skill": {
+            "name": "Abyssal Trap",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/3F/Cq2IxltEWEmALkhhAABaAhzUb1M120.png",
+            "tips": "Selena summons an Abyssal Devil to lurk in a designated location. The Abyssal Devil smothers a nearby enemy with its body. Within several seconds, the enemy\u2019s movement speed is reduced. After some time, this skill deals damage to the target and other nearby enemies, slows enemies for several seconds. Selena can summon up to 3 Abyssal Devils. Damage will decay when a target takes damage from multiple devils at the same time."
+        },
+        "second_skill": {
+            "name": "Abyssal Arrow",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/3F/Cq2IxltEWFSAedjOAABX9Ju_dtA910.png",
+            "tips": "Selina channels the power of the Abyss into magic arrows, firing them in a specified direction. Enemies hit are stunned for several seconds and take damage. Stun duration and damage increase the further the arrows fly. The arrow absorbs Abyssal Traps as it travels to the target enemy, effects of the traps will be inflicted to target enemy upon hit."
+        },
+        "ultimate": {
+            "name": "Primal Darkness",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/3F/Cq2IxltEWF6AHcVJAABdYFJh0lo786.png",
+            "tips": "Selena melds with the Abyss, entering Abyssal Form and gaining movement speed for a short time. She also gains access to new skills while in Abyssal Form and her basic attacks deal additional damage"
+        }
+    }
+}

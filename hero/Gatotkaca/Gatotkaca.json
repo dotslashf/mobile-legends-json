@@ -1,0 +1,33 @@
+{
+    "name": "Gatotkaca",
+    "type": "Tank",
+    "story": "Gatotkaca 'The Iron Bone' was the son of Bima and Arimbi from the Arcapada universe. Since his childhood, he's been a champion of Gods who fights the vicious enemies of his homeland. Once lost and beaten near death, Gatotkaca arose as a mighty warrior from the Pandava clan who possessed a supernatural power he got from the ultimate training within the cauldron of heaven, Candradimuka. With his Antakusuma armor and Brajamusti-Brajadenta twin gauntlets, he can fly across the skies like lightning and hunt down his enemies, the furious Ashuras. Gatotkaca, the Knight of Priggadani is a symbol of bravery and devotion. Based on 'Garudayana' comic series created by Is Yuniarto, inspired from Indonesian traditional shadow puppets.",
+    "status": {
+        "durability": "70",
+        "offense": "49",
+        "ability_effect": "92",
+        "difficulty": "70"
+    },
+    "skills": {
+        "passive": {
+            "name": "Steel Bones",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7d56AEbO7AABNp0-euls744.png",
+            "tips": "Skill regenerasi utama Anda. Steel Bones membuat Gatotkaca bisa bertahan di Lane lebih lama dan lebih sering melakukan Tanking. Dengan Skill ini walaupun HP Anda di bawah 50%, Anda tidak perlu takut untuk maju dan menahan serangan dari lawan saat sekutu Anda ingin menghabiskan atau mengejar lawan."
+        },
+        "first_skill": {
+            "name": "Blast Iron Fist",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7d2uAQlU2AABFElrrgeA753.png",
+            "tips": "Arahkan skill 1 ke lawan agar lawan mendapatkan damage dan efek slow."
+        },
+        "second_skill": {
+            "name": "Unbreakable",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7d4-AS6erAABMGZPEUac024.png",
+            "tips": "Gunakan skill 2 ini dengan bijak, terlalu dekat dengan musuh pun bisa membuat skill 2 gatot ini menjadi skill bunuh diri untuknya."
+        },
+        "ultimate": {
+            "name": "Avatar of the Guardian",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7d5eAMFLIAABWMnrPzFI953.png",
+            "tips": "Hati-hati pada saat menggunakan skill ultimate karena musuh yang memiliki Crowd Control dapat menggagalkan Ultimate gatot ( walaupun hanya memperlambatnya mengeluarkan Ultimate ).<br>Maka agar tidak digagalkan, Gatot dapat bersembunyi di semak-semak atau menggunakannya jauh dari musuh dan mengarahkannya tepat ke arah lawan, <br>Skill ini juga dapat digunakan untuk mengejar lawan atau membantu Gatot melarikan diri."
+        }
+    }
+}

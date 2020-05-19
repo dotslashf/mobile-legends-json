@@ -1,0 +1,33 @@
+{
+    "name": "Chou",
+    "type": "Fighter",
+    "story": "Chou was born in a secluded slum deep in the hearts of poverty, living the lowest quality of life. Despite the dreadful conditions, Chou kept his heart of kindness, as day in and day out he continued to look after the old and the young there with passion. During this time, there was great turmoil and unrest in the Land of the Dawn; mayhem spread throughout the land and eventually started to affect this small remote area. One day, Chou rescued a mystic monk under pursuit by his captors and took him back to his slum to care for him. In return, the monk imparted the ancient Asian Kung-Fu skill to Chou and told him that the world needed a real hero to stand up and end the chaos. Chou made a vow right then and there that he would start on his journey in the Land of Dawn to become a true hero without looking back. As Chou was leaving, the monk nodded and disappeared into the shadows.",
+    "status": {
+        "durability": "52",
+        "offense": "82",
+        "ability_effect": "78",
+        "difficulty": "64"
+    },
+    "skills": {
+        "passive": {
+            "name": "Only fast",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cbuAXUNDAACQW322W4Q473.png",
+            "tips": "Chou's passive skill is used when Chou's hand has flared which indicates his passive ability is active so that it can produce 200% Basic attack."
+        },
+        "first_skill": {
+            "name": "Jeet Kune Do",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7caCAVA_LAACftGD2YBI212.png",
+            "tips": "Maximize the use of Jeet Kune Do (skill 1) since the beginning of the game. This is mainly because when we can use the skill 1 three times and cause Knock Up to the opponent in the palm of the hand area that hit the ground during the third hit."
+        },
+        "second_skill": {
+            "name": "Shunpo",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cayAcGdBAACbCaEiFLI464.png",
+            "tips": "With this 2nd skill, Chou can be immune from almost all the disabling skills of the opponent. But keep in mind that timings are the key to this skill."
+        },
+        "ultimate": {
+            "name": "The Way of Dragon",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cbSAbDRnAACdkm40EXM502.png",
+            "tips": "Use Ultimate to kick your opponent towards your teammates.<br>This skill can also be used to kick your opponent away when you escape or save your teammates.<br>Tap quickly this skill 2 times to maximize the damage and getting the Knock Up effect.<br>Tap Skill 1 time when you run away or save a teammate."
+        }
+    }
+}

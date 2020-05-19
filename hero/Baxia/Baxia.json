@@ -1,0 +1,33 @@
+{
+    "name": "Baxia",
+    "type": "Tank",
+    "story": "In the east of the Land of Dawn, between the old village Stream Valley and the Scarlet Shadow, a huge totem ruin stands among the mountains and forests. Some believe that it symbolizes a kind of faith or, as an oracle claimed, is guarding the land. Not far from it, there are mysterious stone steps covered by some leaves. The winding stone steps reach to the sky. Its destination is the Land of Xuan'ao, also known as the Land of Mystic Tortoise.In a hundred-mile radius, the stone land is fringed by a cloud forest with an enormous shadow sitting in the center. It seems that he is cultivating himself. Meditation makes one keep away from disputes. However, the cloud begins to grow gloomy. There is a feeling of tension in the air. Suddenly, dozens of chains penetrate the clouds and some assassins land on the stone land. There is a word on their masks, \"Cyan\". They want to lock Baxia with their chains. Fortunately, with the protection of his steel shield made with black ore, Baxia can safely release his power. Those assassins are beaten down, moaning in anguish. However, when one of these assassins mentions \"Cyan Finch\", Baxia is astonished. He knows that it is the name of the best assassin of the Cadia Riverlands and how powerful he is. He knows that Cyan Finch is on his way to kill the Great Dragon. Baxia realizes that he must make an important decision now. This causes him to recall the unforgettable war that occurred hundreds of years ago.\"Peace makes people weak, only fighting can awaken the inner courage!\" He vaguely remembers that this was once the life motto of Black Dragon. Baxia and Black Dragon used to be perfect mates when they were apprentices of the Great Dragon. Black Dragon had a great talent, and no matter how hard Baxia trained himself, he couldn't become as good as him. However, the man he most admired went astray. Black Dragon dreamt of traveling out from the Hidden Land of Dragons. He wanted to adventure around the world and make people accept the Dragons. Gradually, his dream also affected Baxia. However, although they were so close, Baxia was still weaker than Black Dragon. Black Dragon often snuck away from the Hidden Land of Dragons to go explore the world. Baxia was often blamed by the Great Dragon for assisting Black Dragon. One day, Black Dragon came back to the Hidden Land with a different spirit. He changed, both internally and externally. He was no longer the same as he used to be. The thing that the Great Dragon worried came to pass. Black Dragon became possessed by evil. Baxia could feel his intention of killing. Black Dragon violated the Great Dragon's orders and launched attacks. The betrayal of Black Dragon irritated Baxia. In a critical moment in the war between Black Dragon and the Great Dragon, Baxia knocked Black Dragon out of the clouds and protected his master. Black Dragon disappeared. Baxia still remembered Black Dragon's eyes at that moment and the voice that arose in the sky - \"I will come back!\"Now Black Dragon has assigned his best assassins to kill the Great Dragon. Baxia doesn't want this to happen. Baxia feels conflicted with his choice, saving his master who he is indebted to by confronting someone who was once his closest brother. Baxia tries to force the assassins' leader to tell him where Black Dragon is, but these assassins refuse to say anything and commit suicide by taking poison. Baxia wants to go back to the Hidden Land of Dragons as soon as possible to assist his master and make up for the errors of his ways.",
+    "status": {
+        "durability": "65",
+        "offense": "75",
+        "ability_effect": "90",
+        "difficulty": "75"
+    },
+    "skills": {
+        "passive": {
+            "name": "Baxia Mark",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/95/Cq2Ixl2R2MaAFRDdAABTxVOnjpk705.png",
+            "tips": "Baxia activates the Baxia Mark permanently, reducing the final damage received (the amount of DMG reduced increases with hero\u2019s level). At the same time, Baxia will reduce the regen effect of the hit target."
+        },
+        "first_skill": {
+            "name": "Baxia-Shield Unity",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/95/Cq2Ixl2R2KaAHaguAABWH7c5Al4121.png",
+            "tips": "Baxia retracts himself into his shield and accelerates forward. When hitting an enemy unit, he will deal Magic Damage to it and enemies nearby, stunning the target and slightly knocking other enemies nearby back.During the process of accelerating forward, use this skill again to launch Baxia upward so that he can cross obstacles and enemy minions. When leaping up, if there is an enemy hero under Baxia, he will strike at this hero, dealing Magic Damage to this hero and other enemies around, stunning the hit target, and slightly knocking other targets not far away back."
+        },
+        "second_skill": {
+            "name": "Shield of Spirit",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/95/Cq2Ixl2R2LGAUA5LAABM9yPcHns876.png",
+            "tips": "Baxia throws his shield forward (the shield will disappear upon hitting enemy Heroes or creeps), dealing Magic Damage to the target and enemy minions according to their Max HP, marking them and slowing them down.This skill can be used again in a short time. If the shield hits a marked enemy, the CD will be reduced."
+        },
+        "ultimate": {
+            "name": "Tortoise\u2019s Puissance",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/95/Cq2Ixl2R2LuASg4aAABJukaFdzs124.png",
+            "tips": "Baxia deploys a frontal shield and dashes forward crazily, increasing his Movement Speed incessantly. Meanwhile, he creates a lava path along the way, dealing Magic Damage to enemies on the path. During dashing forward, the final damage he receives will be greatly reduced as Baxia Mark is activated."
+        }
+    }
+}

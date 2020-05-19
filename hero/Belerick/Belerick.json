@@ -1,0 +1,33 @@
+{
+    "name": "Belerick",
+    "type": "Tank",
+    "story": "Legends say, the Ancient Ones of the Land of Dawn trusted mystical creatures with grand tasks. Belerick, a member of the tree people, was one of these creatures. Belerick's heart is filled with nothing but kindness\u2014He absolutely hates conflict. Within his ancient self, Belerick possesses a strong life force that provides strong resistance against attacks and also allows him to reincarnate. Due to his kind nature, wherever there is conflict, Belerick will be there to help the righteous and weak. One day, Belerick believed he heard the words of the ancient ones guiding him towards the desert. However, he was met with disaster. The great Minoan empire was left in ruins and Minotaur people were filled with despair. In order to save what was left of the Minoans, Belerick unleashed all of his life force to create a beautiful oasis. The Minoan people were filled with hope once more. Seeing this, Belerick's heart was at peace and fell into a deep slumber. Although Belerick can not pursue the task the Ancient Ones bestowed upon him, he felt no regret\u2014There's nothing more important than life after all.",
+    "status": {
+        "durability": "68",
+        "offense": "64",
+        "ability_effect": "85",
+        "difficulty": "45"
+    },
+    "skills": {
+        "passive": {
+            "name": "Deadly Thorns",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/51/Cq2Ixlt6xGKAXfo5AABR19MwIoY653.png",
+            "tips": "For Belerick, it is a passive as much as a DPS skill. Using the 1st skill, Belerick is able to control where to cast the passive. The 2nd skill is sure to trigger his passive. Players can utilize the combo to make Belerick a strong hero when laning."
+        },
+        "first_skill": {
+            "name": "Ancient Seed",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/51/Cq2Ixlt6xDeATFXNAABOSS7EuCI846.png",
+            "tips": "The skill is the major reason why Belerick is a strong laning hero. In a teamfight, by inflicting Nature\u2019s Seed on enemy heroes, Belerick is able to kill enemy core heroes sooner than ever."
+        },
+        "second_skill": {
+            "name": "Nature's Strike",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/51/Cq2Ixlt6xEGAemGUAABYLh7fU08090.png",
+            "tips": "With his strong ability to recover, Belerick is a strong laning and teamfight hero. With Brave Smite Belerick gets even harder to kill."
+        },
+        "ultimate": {
+            "name": "Wrath of Dryad",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/51/Cq2Ixlt6xEuAReOqAABXF1MehAw746.png",
+            "tips": "Even without aliies around, Belerick's durability can be secured with 10% Recovery and 40% DMG Reduction. So don't hesitate to use it when necessary."
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Thamuz",
+    "type": "Fighter",
+    "story": "Deep within the mountains, darkness reigns over everything. The only light is the crimson lava that flows in the bottomless crevices. Since the beginning of the abyss's reign on the mainland, countless demons became loyal followers of the Abyss. Fervent in their beliefs, the demons chant the will of the Abyss in these deep caverns \u2014 Only the strong deserve to rule! Guarding the Abyss for millenniums, a tribe of fire demons nearly became the rulers of the Abyss. Thamuz, the king of the fire demons, and his people made the Abyss into a formidable power. He was an excellent warrior, with a fierce temper, unabashed to use cruel methods in achieving his goals. Possessing ungodly natural strength, Thamuz was appointed chief of the abyss, who led the abyss to conquer all of the underworld. To Thamuz, all of his opponents were worthless scum, unworthy of living in this world. In his eyes, only he was worthy to lead. Thamuz could not accept the Blood Demon, Alice, as her bloodline was not pure \u2014 thus, unworthy to command and enter war.With the gates to the Abyss about to open, legions of demons eagerly await Thamuz's return. However, once the King of Fire Demons returns he will burn away all the weak demons\u2014Only the strong deserve to be a part of the Abyssal Army. Thamuz has been waiting for the day he leads the Abyssal Army across the Land of Dawn to let it be known \u2014 Only the strong shall reign!",
+    "status": {
+        "durability": "74",
+        "offense": "76",
+        "ability_effect": "71",
+        "difficulty": "56"
+    },
+    "skills": {
+        "passive": {
+            "name": "Grand Lord Lava",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/5A/Cq2Ixlugt7CAcs1_AABV0fuFbjc804.png",
+            "tips": "Deal more damage by triggering more puddles of lava in an area where enemies are concentrating."
+        },
+        "first_skill": {
+            "name": "Molten Scythes",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/5A/Cq2Ixlugt-eAVeH1AABLv60cHDg109.png",
+            "tips": "Thamuz's core skill. Approach the enemies with the speed boost after throwing the scythes and attack them with the enhanced attack. Retrieveing the scythes can also enhance his attack."
+        },
+        "second_skill": {
+            "name": "Chasm Trample",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/5A/Cq2Ixlugt9qAF7ByAABTPS5yiMg154.png",
+            "tips": "Use this skill to retrieve the scythes, collect the scythes, dash into the enemies or land on the path of the enemies to retrieve the scythes as well as pull enemies back to Thamuz."
+        },
+        "ultimate": {
+            "name": "Cauterant Inferno",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/5A/Cq2Ixlugt_KAI0s4AABHuR4wycw224.png",
+            "tips": "Regenerates a huge amount of HP in team fight by using this skill"
+        }
+    }
+}

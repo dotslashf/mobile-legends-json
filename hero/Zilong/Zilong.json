@@ -1,0 +1,33 @@
+{
+    "name": "Zilong",
+    "type": "Fighter",
+    "story": "There was a tale of a Great Dragon that had nine sons. They were unique to each other and responsible for their own duties. Seldom did the Great Dragon gather with his sons, however, as the adopted son, Zilong assisted the Great Dragon instead of the royal sons. In the eyes of the Great Dragon, Zilong was way better in his personalities and abilities, which made Zilong deeply trusted by him. Long ago, Zilong swore an oath to roam from world to world, assisting wise rulers by the Great Dragon's decree. Whenever a new king was in need of his strength, Zilong traverses space and time to remove all obstacles and enemies before the king, using spear fighting techniques endowed upon him by the Great Dragon. Now the Land of Dawn is in great danger and Zilong has come to its aid. With his sense of justice and bravery, Zilong defeated many enemies and his name spread among the land. Regardless of how strong the enemy was, Zilong's spear would not forgive any evil who tried to destroy this continent.",
+    "status": {
+        "durability": "40",
+        "offense": "80",
+        "ability_effect": "70",
+        "difficulty": "50"
+    },
+    "skills": {
+        "passive": {
+            "name": "Dragon Flurry",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VWOAdlzRAABmW0ToEAc175.png",
+            "tips": "During early laning phase, attack enemy minions to trigger his passive ability that allows him  to attack the hero behind minions"
+        },
+        "first_skill": {
+            "name": "Spear Flip",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VUSAKF-MAABcIU22te8275.png",
+            "tips": "Early laning phase, wait for enemy soldiers to push to tower, and when soldiers are gone, try to hook enemy into tower"
+        },
+        "second_skill": {
+            "name": "Spear Strike",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VUuAY_hpAABXSg3rXnk410.png",
+            "tips": "Use with 1st skill, otherwise can be used to jump walls for escape, such as using enemy jungle minions."
+        },
+        "ultimate": {
+            "name": "Supreme Warrior",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VVSAWXJTAABmISgFdDA135.png",
+            "tips": "Can be used to chase enemies or to run away. Can be used on cast to remove crowd control."
+        }
+    }
+}

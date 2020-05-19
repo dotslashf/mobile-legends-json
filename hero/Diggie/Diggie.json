@@ -1,0 +1,33 @@
+{
+    "name": "Diggie",
+    "type": "Support",
+    "story": "Scholars and thinkers from all over the world gather at the city of Antoinerei. It is here where the commonly overlooked Diggie lives. Many don't give a second look to Diggie due to his small frame, until they come upon his researches in chronoscience. Diggie loves clocks, he believes that within these little mechanical toys lies many more yet to be discovered secrets. Through the use of his \"Time Nest,\" Diggie can control the flow of time. He is also able to release his friends from the physical shackles of time, taking them along with him. Beware though, for if you anger him, be prepared for the taste of a Hoot Hoot \"Time Bomb!\"",
+    "status": {
+        "durability": "75",
+        "offense": "46",
+        "ability_effect": "59",
+        "difficulty": "28"
+    },
+    "skills": {
+        "passive": {
+            "name": "Young Again",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7lz2Adc9SAABUp0C_2uA088.png",
+            "tips": "Waktu akan terbalik setelah mati dan Diggie akan berubah menjadi Telur, ia dapat dikendalikan dan Diggie akan mendapatkan kemampuan baru saat berubah. Mode telur tidak dapat diserang, setelah beberapa waktu, Diggie akan hidup kembali.<br>Mode Chick tidak hanya bisa untuk mengalihkan musuh, namun bisa juga digunakan untuk mengintai musuh. Damage yang tidak terlalu signifikan dapat digunakan untuk menggangu Recall dan Regen."
+        },
+        "first_skill": {
+            "name": "Auto Alarm Bomb",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7lyqAXisfAABdUTXmH7Y142.png",
+            "tips": "Saat hitungan waktu berjalan, tekan lagi untuk meledakkan dengan segera. Ledakan lebih awal hanya akan menimbulkan efek Slow sebagai pengganti Stun. Sebaiknya dibiarkan selama mungkin, tetapi jangan terburu-buru untuk mengincar Damage dan membiarkan musuh meninggalkan jangkauan ledakan."
+        },
+        "second_skill": {
+            "name": "Reverse Time",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7lzCAKLCeAABTHrbiRmw777.png",
+            "tips": "Kemampuan CC yang kuat, gunakanlah pada musuh dengan kemampuan mobilitas yang kuat agar lebih efektif."
+        },
+        "ultimate": {
+            "name": "Time Journey",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7lzaAStiyAABXp0DoRxo725.png",
+            "tips": "Gunakanlah setelah teman satu tim terkena CC, ini akan memberikan mereka shield. Ini adalah kemampuan Team Fight yang sangat hebat."
+        }
+    }
+}

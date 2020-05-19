@@ -1,0 +1,33 @@
+{
+    "name": "Lesley",
+    "type": "Marksman",
+    "story": "Lesley grew up in the Vance household, where her father presided over the noble family's security. During an attack by a rival family, Lesley's father was killed. As the assailants approached the Vance household, Lesley took up her father's black long rifle and fulfilled her late father's mission. Tears rolled down Lesley's cheeks as she fired shot after shot, each one taking down an assassin. The final tear came as the final shot took down the last of the rival family's men.  Lesley was adopted by the Vance family, with the patriarch of the noble house even putting their sole heir, Harley, under her tutelage. Harley was a natural troublemaker who used his talents in magic to cause trouble for the Vance household. Only Lesley could keep Harley under control. Harley's troublemaker streak was the last part of warmth within Lesley's conscience. After hearing about how Harley had travelled to the dangerous Land of Dawn, Lesley followed along with her trusty heirloom rifle. After a long arduous journey, she found that Harley, the once immature young boy, had changed through the numerous life experiences he had endured. She decided it would be best to have her adopted little brother train here, while she silently protects him from the shadows. From that day on, all the monsters that were inflicted with Harley's magic would also be struck with a black bullet. Stories of the magical youngster that was followed by a mysterious black sniper soon spread.",
+    "status": {
+        "durability": "49",
+        "offense": "80",
+        "ability_effect": "38",
+        "difficulty": "65"
+    },
+    "skills": {
+        "passive": {
+            "name": "Lethal Shot",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2IxlplgrGAAt2gAABVfFzzfx40909228",
+            "tips": "Try your best to avoid taking damage and use her extreme long-range attacks to wear down enemies."
+        },
+        "first_skill": {
+            "name": "Master of Camouflage",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2Ixlplgo-ABE1TAABVfc8-A308082194",
+            "tips": "Combine stealth with her passive's increased crit damage to launch a devastating opening on your enemies."
+        },
+        "second_skill": {
+            "name": "Tactical Grenade",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2IxlplgpqAKY5CAABWRA7dxVY0920337",
+            "tips": "Survival skill -- try saving it for when you need to escape."
+        },
+        "ultimate": {
+            "name": "Ultimate Snipe",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2IxlplgqiAN73hAABOfSDJq0E9454809",
+            "tips": "Use this skill to finish off enemies with low HP, and be sure to keep a safe distance."
+        }
+    }
+}

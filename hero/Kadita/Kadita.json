@@ -1,0 +1,33 @@
+{
+    "name": "Kadita",
+    "type": "Mage",
+    "story": "The Queen of the Southern Seas, Kadita, was once the princess of a small island nation. Admired by everyone, Kadita was considered by all to be genuine, intelligent, and kind-hearted. However, fate often times finds its way to hit people with strife. Kadita was no different. As the heir apparent to the king, a member within the royal family grew jealous of Kadita and conspired to ruin her \u2014 An unknown mage wielding the power of black magic viciously attacked the princess. Kadita came under a powerful spell that robbed her of all her beauty, giving her a strange skin disease in the process.The kingdoms people tried everything they could think of to help their beloved princess, but no one could break the spell. Overtime, people's love for Kadita faded, causing her to lose power and confidence. Out of tremendous despair, Kadita threw herself into the stormy Southern Seas. However, Kadita was rescued by the ocean demons. Using the trident of the seas, the ocean demons were able to break Kadita's powerful spell, but due to her skin disease her skin was never able to return to its original complexion. On that day, Kadita become the legendary Queen of the Southern Seas. Assuming all new powers, Kadita became adept at controlling the ocean waters and the weather. Sailors from all corners of the world came to fear the Southern Seas as they were bound to suffer the wrath of Kadita \u2014 No one dared to conquer the Southern Seas any longer. Survivors recant their experiences facing Kadita. Some say she had the appearance of a strange mermaid, while others said she was more beautiful than the princess they knew before. As stories of Kadita began to spread, legends say that she possesses seven legendary spears, each with its own unique abilities, used to punish any invaders who intended to violate the Southern Seas. As the story goes, Kadita collected the seven spears while guarding the Southern Seas. No one has the power to use all seven spears at once, except for Kadita.",
+    "status": {
+        "durability": "84",
+        "offense": "40",
+        "ability_effect": "56",
+        "difficulty": "66"
+    },
+    "skills": {
+        "passive": {
+            "name": "Thalassophobia",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/6D/Cq2IxlwYsD-AARloAABVFM52c6U000.png",
+            "tips": "Use her 1st skill when the passive is stacked and poke enemies while taking no damage."
+        },
+        "first_skill": {
+            "name": "Ocean Oddity",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/6D/Cq2IxlwYsFCAA82JAABUEAl6Ul4684.png",
+            "tips": "During this process, use the 2nd skill and Ultimate and surround enemies with her waves."
+        },
+        "second_skill": {
+            "name": "Breath of the Ocean",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/6D/Cq2IxlwYsFuAJ4K5AABZMVgSSgU970.png",
+            "tips": "It's a skill that takes time to reach a strong effect and needs proper prediction and teammate's cooperation. If you manage to knock an enemy hero up, use Kadita\u2019s 1st skill or her ultimate to eliminate them."
+        },
+        "ultimate": {
+            "name": "Rough Waves",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/6D/Cq2IxlwYsGqAbbwyAABeSsF0C-w298.png",
+            "tips": "The high AOE burst damage and her invulnerable state make her one of the best in teamfights."
+        }
+    }
+}

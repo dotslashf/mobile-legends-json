@@ -1,0 +1,33 @@
+{
+    "name": "Martis",
+    "type": "Fighter",
+    "story": "The Shura clan have thrived in isolation for countless generations, their men renowned for being the world's bravest fighters, and their women famed for being the world's greatest beauties. At the heart of the Shura clan's beliefs lies the legend of the Three Thousand Worlds. The legend speaks of three thousand secret worlds, which upon entering, one must face various levels of psychic trials and advance to world after world upon victory. The people of the Shura clan have discovered a way to enter these worlds, and only those who have conquered over three hundred worlds are granted the title of \"Ashura\", raising them to the level of a demigod in the eyes of their people. However, in the innumerable eons of Shura history, none managed to conquer the fabled three thousand worlds, until Martis appeared. With ambition and determination capable of shaking the very heavens, Martis trained every day of his life to become stronger, tirelessly advancing through the secret worlds, with each personal breakthrough against the legions of demons granting him a sense of unique personal satisfaction. No one knows how many years passed before Martis reached the final secret world, but his desire for glory drove him onwards. After numerous defeats, he fell into despair, but even then, he refused to give up. He transformed his sheer thirst for victory into twin blades of righteous fury, now known as the Ashura's Teeth, and for countless days and nights, battled against the demons of the final world with strength and determination never seen before on the mortal plane. He finally became the first Ashura to defeat the three thousand secret worlds and has since been regarded as 'King Ashura', ruling tens of millions of aspiring Ashura.",
+    "status": {
+        "durability": "59",
+        "offense": "82",
+        "ability_effect": "68",
+        "difficulty": "56"
+    },
+    "skills": {
+        "passive": {
+            "name": "Ashura's Wrath",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/05/Cq2Ixlq6NP-AOlsAAABNuXDx9pU7353720",
+            "tips": "Try to keep this passive up as much as possible to supplement damage when your skills are cooling down."
+        },
+        "first_skill": {
+            "name": "Ashura Aura",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/05/Cq2Ixlq6NKaAN3WNAABajYPUGEk9154775",
+            "tips": "This skill gathers as many enemies as possible within range, functioning as a small-scale group control effect that has a big impact on the flow of battle."
+        },
+        "second_skill": {
+            "name": "Mortal Coil",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/05/Cq2Ixlq6NMaAaq_XAABXfpCK_tc4394880",
+            "tips": "This is an offensive and defensive soul skill. During the first part, you can move the analog stick to change direction, and the second part is perfect for chasing down enemy heroes. Proper use of this skill will leave enemies totally suppressed by your twin blades."
+        },
+        "ultimate": {
+            "name": "Decimation",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/05/Cq2Ixlq6NO6AA6aUAABbfXAtTgQ8438662",
+            "tips": "The execution mechanism, combined with the acceleration effect, can allow Martis to pick up five kills when facing a team of low-HP heroes."
+        }
+    }
+}

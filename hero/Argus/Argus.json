@@ -1,0 +1,33 @@
+{
+    "name": "Argus",
+    "type": "Fighter",
+    "story": "The Moniyan Empire of the Land of Dawn once enjoyed the blessings of angels. The Angel of Light, Rafaela, shone down on the people and healed all of their illnesses; the Angel of Dark, Argus, became the punisher of crime. Together they maintained peace and balance throughout the land.Rafaela and Argus were originally angelic partners who operated with a tacit understanding. Though Argus was in charge of punishment and possessed an extreme personality, he still established the Temple of Light to show the people of the realm that there was more to the world than war and conflict; that kindness, comfort and encouragement should also fill their lives. As such, he did not always resort to punishment and death while managing the affairs of the empire. As time passed, those who Argus had to punish increased in both evilness and strength. In order to face these opponents, it was necessary for him to become increasingly stronger himself. But even Argus was late to realize that he had become addicted to the rush of defeating strong enemies in battle. He had once acted purely to punish those who sinned, but now sought only his own strength and glory. It was in this way that Argus fell from grace.Argus' situation had long been watched by the Lord of the Abyss, who intentionally caused crimes that pushed Argus further into his corruption. He promised Argus that using dark powers would increase his strength, and in order to win himself such a strong servant even baited Argus with knowledge of an ancient seal of power. Completely driven by his lust for power, Argus broke the ancient seal and released from within it the evil sword Demise. Argus fell completely under the Abyss Lord's control, acting as his most loyal servant.Legend states that the user of the sword Demise will be drained of all lifeforce until taken by death. Consumed by his desire for power, Argus sacrificed his life to the blade and coexists with it in dark equilibrium. He hungers for battle and chaos, thirsts for worthy opponents who can satisfy his taste for combat. He is an angel whose blade blackens souls.The Angel of Light Rafaela has never stopped searching for him. She knows that the corruption of an angel is far worse than the corruption of any man. In each of her attempts to heal the corruption and desire in Argus' heart, she is inevitably attacked and chased away. Faced with the new Argus, a stranger to his former self, she cries tears of regret. Argus, however, holds nothing back in his attacks against Rafaela. The redemption of the Angels of Dark and Light will influence the fate of the realm.",
+    "status": {
+        "durability": "72",
+        "offense": "85",
+        "ability_effect": "46",
+        "difficulty": "46"
+    },
+    "skills": {
+        "passive": {
+            "name": "Warmonger",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7lmaAPbpAAABG4ixJJdY957.png",
+            "tips": "-This skill is what helps Argusto be overpowered, especially when low in health.<br>-Gives extra burst of damage.<br>-The more HP that are missing,the faster the rage bar gets filled."
+        },
+        "first_skill": {
+            "name": "Demonic Grip",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7llKARaVUAABPjyS3mz8110.png",
+            "tips": "-This skill is needs to be usedwell since it greatly helps Argus\u2019 mobility in the battlefield.<br>-Can be used to catch enemyheroes since it inflicts stun and propels Argus towards the enemy hero.<br>-The second activation of thisskill can help you position yourself on your enemy and deal additional damage.<br>-The grapple goes throughterrains, which gives you better a chance of a successful pursuit or retreat.But, if your final travel point is a terrain, you won\u2019t get through the terrainand just bump into it."
+        },
+        "second_skill": {
+            "name": "Meteoric Sword",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7llmAcNiHAABFNGGgD3I491.png",
+            "tips": "-This skill greatly helps Argus\u2019early game damage and can enhance the whole team\u2019s mobility.<br>-Can be used to quickly killminions and creeps. For best effect in lanes, hit the minions in a straightline.<br>-The skill\u2019s actual AOE and rangeis bigger than you think it is.<br>-It also slows heroes down."
+        },
+        "ultimate": {
+            "name": "Eternal Evil",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7ll-ALFGVAABRzXGOOBA461.png",
+            "tips": "-This skill is what makes Argusspecial since it gives 5 seconds of death immunity, full rage bar (Instantdouble attack) and will convert 100% of damage done while the skill is active, intoHP after 5 secs.<br>-Can be used even when stunned,transformed, silenced, airborne or while being pushed/pulled. But, it can\u2019t beused while the other skills are in use.<br>-Can turn the tide of a clashwhen used properly."
+        }
+    }
+}

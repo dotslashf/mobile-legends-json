@@ -1,0 +1,33 @@
+{
+    "name": "Kaja",
+    "type": "Fighter",
+    "story": "The Celestial Palace, home of the gods, was once a bustling city patrolled by innumerable Nazar guardians. Any demon who dared approach the city would be overwhelmed by their unrivaled flying speed and bound by their frightening lightning whips which would strip their victims of all magical abilities. No demon could escape when pursued by these divine warriors, and thus perpetual peace was maintained in the Celestial Palace. As their leader, Kaja was able to refine the power of lighting into pure energy to control as he so desired, inflicting catastrophic damage to all enemies who faced him, and was charged with directly protecting the ruler of the city. Countless eons ago, after the city's ruler created the Nazar guardians and departed, the city gradually fell into a state of ruin. When Uranus was activated, the ruler of the Celestial Palace handed down new orders to the Nazar -- to drive the evil demons from the city and rebuild the Celestial Palace in anticipation of the master's return.",
+    "status": {
+        "durability": "80",
+        "offense": "49",
+        "ability_effect": "75",
+        "difficulty": "60"
+    },
+    "skills": {
+        "passive": {
+            "name": "Wrath Sanction",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/30/Cq2Ixlsoqp2AGdBvAABNiDY0vTs809.png",
+            "tips": "Receiving damage from enemy heroes increases Khaja\u2019s movement speed by 40%, quickly decreasing within 1 second. Effect can be triggered every 5 seconds. "
+        },
+        "first_skill": {
+            "name": "Ring of Order",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/30/Cq2IxlsoqnKAfz3lAABYZzBdOmg734.png",
+            "tips": "Kaja releases a ringed, electric blade that quickly expands and contracts. Deals magic damage to enemy targets and briefly slows them. When the electric current hits the enemy target, Kaja will unleash a bolt of lightening that briefly deals continuous magical damage to the nearest enemy target. Damage gradually increases when the bolt of lightening continuously hits the same target."
+        },
+        "second_skill": {
+            "name": "Lightning Bomb",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/30/Cq2IxlsoqqeAMRNPAABWK8b0_EE644.png",
+            "tips": "Kaja charges in a specified direction, dealing magic damage to enemies in his path. If Kaja encounters a friendly unit while charging, he moves again in their movement direction and provides himself and allied heroes with a shield, while also increasing movement speed."
+        },
+        "ultimate": {
+            "name": "Divine Judgment",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/30/Cq2IxlsoqpGAfcmnAABP9o_TWNw621.png",
+            "tips": "Kaja pulls and suppresses a target enemy hero. Deals magic damage for 2 seconds. During that time, the enemy hero\u2019s magic resistance is reduced. Kaja absorbs the target enemy hero\u2019s lost magical resistance, making it his own."
+        }
+    }
+}

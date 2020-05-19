@@ -1,0 +1,33 @@
+{
+    "name": "Badang",
+    "type": "Fighter",
+    "story": "Long ago there was a small village resting in the southern regions of the Land of Dawn. The villagers were very hardworking, fishing day and night for a living. Among them was a strong man, named Badang. Enthusiastic and brave, he tirelessly helped everyone solve their difficulties in life. However, a strange thing happened in the village not long ago. The villagers got up early every day to catch fish. In the evening, they returned empty-handed, even the tools for fishing were broken. Everyone was upset, thinking it was the curse of a mystical water monster. As food supplies ran low, Badang decided to give them a hand to find out the truth. He did not believe in the water monster. In the early morning, Badang went out to fish as usual. He came to the river near the village to set up a fishing trap. He not only placed a lot of fish, but also hid it with a giant fishing net prepared in advance, trying to find out who or what was causing the village's problems. Shortly after, the river suddenly began to bubble, and a strange creature in the river appeared next to his trap. Devil-like and fearsome, it began to steal the fish and destroy the trap. Its eyes were fiery, with long hair and a long beard. Badang decisively threw a giant fishing net, trying to trap the monster. However, the monster pierced the fishing net with its giant teeth and started to break free. It constantly attacked him, but the fearless Badang jumped into battle with this fearsome beast without hesitation. The power of this monster was surprisingly strong and Badang's arms were severely injured. When the beast was about to devour Badang, he used his remaining strength to insert the fishing spear into its body, and then pulled it to the river shore. After leaving the river, the monster gradually lost its moisture and began to dry. It couldn't breathe for long. Badang had never seen such a creature. Badang noticed a magical gem sparkling in its body. Struggling to speak, the water monster begged Badang to let it go, swearing it was the elf who lived in the river but suffered a horrible transformation. Once the beast headed to the southern mountains to prey on the fish but accidentally ate fish corrupted by evil energy. As it spoke, the beast's body gradually began to change. The water beast began to regurgitate all the fish it consumed, along with the evil energy. Having returned to its natural state, the water elf deeply appreciated Badang. After that, Badang got a stream of powerful energy and his injured arms were also restored and were way more powerful than before. Badang's kind heart drove him to finally let go of the monster. Badang started helping the villagers day and night, whose lives slowly returned to normal. However, Badang couldn't let go of the southern mountains that the monster spoke of. For the safety of his village, Badang was determined to find the source of the evil energy within the mountains and travelled across the islands, towards the Land of Dawn.",
+    "status": {
+        "durability": "59",
+        "offense": "82",
+        "ability_effect": "68",
+        "difficulty": "65"
+    },
+    "skills": {
+        "passive": {
+            "name": "Chivalry Fist",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/70/Cq2Ixlw9mfaAVviuAABRB2NtIe8923.png",
+            "tips": "Better use the control effect with Fist Break and slay enemies with ease."
+        },
+        "first_skill": {
+            "name": "Qigong Fist",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/70/Cq2Ixlw9mduATba1AABHFzQrqHY568.png",
+            "tips": "Try to use Qigong Fist and trigger Passive and control enemies at some important moments."
+        },
+        "second_skill": {
+            "name": "Fist Break",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/70/Cq2Ixlw9mdGATm7DAABGmM_aEgc969.png",
+            "tips": " This skill can be stacked. It's Badang's core skill. Try to better use Qigong Fist and slow enemies down to increase the hit rate of Fist Break. With the help of the obstacles, his Passive can deal more damage and better control the enemies."
+        },
+        "ultimate": {
+            "name": "Fist Crack",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/70/Cq2Ixlw9mgGAXvpgAABNCDi8Jlo886.png",
+            "tips": "Fist Crack's fist wind can trigger the explosion of his Passive."
+        }
+    }
+}

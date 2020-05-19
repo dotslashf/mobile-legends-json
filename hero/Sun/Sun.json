@@ -1,0 +1,33 @@
+{
+    "name": "Sun",
+    "type": "Fighter",
+    "story": "Sun, born from a rock, has been extraordinary since the very beginning. Long ago he was pinned down under a mountain by gods, where he was trapped and unable to move. He watched time changing and the world being changed by the time. Although his body was covered by the freezing snow, the yearning for freedom in his heart never melted away. Waiting for the right opportunity to escape, he chanted 'freedom' repeatedly and finally broke his imprisonment, laughing as he flew away. Now, Sun has finally arrived in the Land of Dawn where this stone-born monkey's soul can be held down no more and he will start his own legend again.",
+    "status": {
+        "durability": "47",
+        "offense": "75",
+        "ability_effect": "70",
+        "difficulty": "42"
+    },
+    "skills": {
+        "passive": {
+            "name": "Simian God",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7ceyAfC9PAABRK_X4SCE171.png",
+            "tips": ""
+        },
+        "first_skill": {
+            "name": "Endless Variety",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7ccOAeAg4AABeOmJvFns121.png",
+            "tips": ""
+        },
+        "second_skill": {
+            "name": "Instantaneous Move",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cd-AHwTDAABZCkorqvs764.png",
+            "tips": ""
+        },
+        "ultimate": {
+            "name": "Clone Techniques",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7ceaAFW_fAABcC-Q6g48012.png",
+            "tips": ""
+        }
+    }
+}

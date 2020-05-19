@@ -1,0 +1,33 @@
+{
+    "name": "Guinevere",
+    "type": "Fighter",
+    "story": "The Baroque family is one of the few nobles on the Land of Dawn. The most prestigious skill of theirs, fencing, the family's forte, discourages countless opponents from even thinking about attacking. In addition, beauty and wisdom are also the most perfect genetic signs of the Baroque family, just like the eternal beauty and love of Violet.  World-famous as Baroque family's fencing is, young Guinevere doesn't like it at all. Just like other girls, she is naturally fond of gorgeous things. From youth, she was sent to the Magic Academy. Relying on her own sensitive spiritual perception and anti-gravity magic, when Guinevere was 10 years old, she successfully combined mental perception with super energy and invented multiple magic effects - magic superpower. Such a breakthrough made Guinevere more passionate about magic, and she often experimented with her new magic on her brother Lancelot. No matter how Lancelot hid, he would always be found by his sister. Therefore, Lancelot was often caught in out of nowhere. During his childhood, his sister was always causing him headaches, but Lancelot still loves Guinevere. He always shows a smile to his beloved sister. But every time Lancelot thinks of his little sister's magic experiment, he would wear a bitter smile.  Recently, something has been plaguing Guinevere, making her uneasy. It is said that the Paxley nobles who have a very high magical status have proposed marriage to the Baroque family. Guinevere is undoubtedly the most suitable choice and Guinevere's father seems to be very willing to go through with the marriage. But the reluctant Guinevere suddenly thinks of an idea - She hopes to find her brother Lancelot...",
+    "status": {
+        "durability": "50",
+        "offense": "85",
+        "ability_effect": "37",
+        "difficulty": "65"
+    },
+    "skills": {
+        "passive": {
+            "name": "Super Magic",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/78/Cq2IxlxuTBOAWN0UAABOoBgoMDU986.png",
+            "tips": "Try to deal damage to enemies while they're knocked up."
+        },
+        "first_skill": {
+            "name": "Energy Wave",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/78/Cq2IxlxuS-iAHM7iAABLch2KBgc511.png",
+            "tips": "It's the main damage skill of Guinevere. The strong slowing effects can increase the hit rate of other skills. Meanwhile, this skill provides CD Reduction to other skills. It's also a poke skill when Guinevere is laning."
+        },
+        "second_skill": {
+            "name": "Spatial Migration",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/78/Cq2IxlxuS_iAFAKqAABVhVygw4I911.png",
+            "tips": "As the core skill of Guinevere, How many enemies are knocked into the air determines the success or failure of the teamfights."
+        },
+        "ultimate": {
+            "name": "Violet Requiem",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/78/Cq2IxlxuTAWAdWsiAABQ32PRjEE427.png",
+            "tips": "Other than the knock-up effect of Magic Thump, you can also use this skill to cooperate with teammates' knock-up skills."
+        }
+    }
+}

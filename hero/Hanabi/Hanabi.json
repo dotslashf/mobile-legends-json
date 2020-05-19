@@ -1,0 +1,33 @@
+{
+    "name": "Hanabi",
+    "type": "Marksman",
+    "story": "Hanabi received the teachings of the Scarlet Shadow ninja sect's Supreme Grandmaster from a young age, exhibiting natural talent that far exceeded any of her peers, until she met a young shadow ninja called Hayabusa. This was the very first time the proud Hanabi came across anyone who could hold their own against her. Whenever the moon was full, Hanabi would try to find ways to provoke this young shadow ninja into dueling with her, however, she could never defeat this youngster, who fused spiritualism with shadow techniques to create a unique and powerful style. As the two of them slowly grew up together, it began to dawn on Hanabi that this young shadow ninja carried the burden of an inescapable fate -- Hayabusa was in fact destined to challenge and kill the legendary former Shadow of Iga for his betrayal of their clan. After the two young ninjas fought, Hayabusa would lie on the ground, staring up at the full moon in the sky, the reflection of the moonlight in his eyes quietly burning into Hanabi's heart. Having never felt this kind of feeling before, Hanabi became very distressed. Whenever she saw Hayabusa and the young spiritualist girl known as Kagura smiling and laughing as they greeted each other, her heart would fill with inexplicable rage and vexation. When she heard that Hayabusa would become the clan's next Shadow, she decided to take on the name Scarlet, and from the secret vault of the Supreme Grandmaster, she stole her sect's forbidden weapon - the Higanbana. Hanabi decided that she would challenge her age-old rival to one final competition, and now her one aim in life is to find and kill the disgraced former Shadow before Hayabusa does.",
+    "status": {
+        "durability": "52",
+        "offense": "90",
+        "ability_effect": "50",
+        "difficulty": "65"
+    },
+    "skills": {
+        "passive": {
+            "name": "Ninjutsu: Equinox",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/09/Cq2IxlrV0EKARQAXAABX5tjumJo9272487",
+            "tips": "The Scarlet Shadow\u2019s secret technique. When Hanabi has full HP, health that would have been granted from Lifesteal is converted into a shield. When this shield is active, Hanabi is immune to all control effects."
+        },
+        "first_skill": {
+            "name": "Ninjutsu: Petal Barrage",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/09/Cq2IxlrV0EyATsutAABRyLEgg3Q9317242",
+            "tips": "Hanabi consumes mana to unleash the flower demon sealed within the Higanbana, firing petal blades at her enemies. After each basic attack hits, a new blade will spawn and deal physical damage to the enemy. Consecutive hits deal less damage. Passive: This skill grants Hanabi a certain amount of Lifesteal, which increases each time Petal Barrage is upgraded."
+        },
+        "second_skill": {
+            "name": "Ninjutsu: Soul Scroll",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/09/Cq2IxlrV0CyAYbnBAABWmLqAY_o1779251",
+            "tips": "Fires a kunai in the specified direction, attached with a scroll sealed by demonic flower energy. Deals physical damage to enemies it hits along the way and slows them. Hanabi will recover Mana for each enemy hero hit (this Mana regeneration effect will decay when hitting multiple heroes)."
+        },
+        "ultimate": {
+            "name": "Forbidden Jutsu: Higanbana",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/09/Cq2IxlrV0DaAQjVlAABPgZLdB0U2845986",
+            "tips": "When the flowers blossom, the leaves are forgotten. Hanabi completely unlocks the Higanbana\u2019s seal and launches it at the enemy. After hitting an enemy, the Higanbana blooms, dealing physical damage and immobilizing them, and then spreads to nearby enemies. After a certain period of time, if the enemy is still within range of the Higanbana, a new flower will appear, causing the same damage and immobilization effect. The spreading effect only works once per hero."
+        }
+    }
+}

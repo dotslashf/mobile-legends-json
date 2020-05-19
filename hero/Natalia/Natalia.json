@@ -1,0 +1,33 @@
+{
+    "name": "Natalia",
+    "type": "Assassin",
+    "story": "Natalia was raised from a young age by the Church of Light and trained to become one of the Church's assassins. This young phenom rose to become the top assassin for the Church via her outstanding talents. Unfortunately, on one assassination mission she failed causing her companion to meet with unprecedented disaster. Although she was able to escape danger with Tigreal's help, this was undoubtedly a severe blow to Natalia's pride. To prove herself again, she exiled herself to the outskirts of the land, far from the Empire and the Church, to carry out more dangerous missions. Who is her target? Will she be able to win back all that she once possessed?",
+    "status": {
+        "durability": "43",
+        "offense": "94",
+        "ability_effect": "55",
+        "difficulty": "54"
+    },
+    "skills": {
+        "passive": {
+            "name": "Assassin Instinct",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cViAbJsjAABLkebJ0Us047.png",
+            "tips": "Natalia's passive skill is the most powerful of all Hero Passive Skills in the Game, especially her ability to disappear and giving the Silence effect. Use the passive skill as often as possible to provide additional damage by attacking your opponent from behind and giving the Silence effect for 2 seconds. Finally, remember to always move places. Use additional speed and disappearance to put pressure on opponents in each Lane."
+        },
+        "first_skill": {
+            "name": "Claw Dash",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cTSAJ3o8AABH-tsr21U492.png",
+            "tips": "Claw Dash is a very easy skill to use. Natalia attacks ahead and causes damage, Natalia can also attack twice if the first attack hitting on a Hero. Thus, this skill is very useful for Natalia as additional mobility that can be used to chase opponents who run away and also to escape if the situation gets worse."
+        },
+        "second_skill": {
+            "name": "Smoke Bomb",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cTyAQKlqAABS0mca5Ho890.png",
+            "tips": "Smoke Bomb is a special skill that will give her the Immune effect on all Basic Attack, which is certainly very effective especially against Marksman. Aside from being immune to Basic Attack, Natalia will also receive damage that is lower from Tower's attack, giving Natalia an additional strategy to crash into the Tower if needed."
+        },
+        "ultimate": {
+            "name": "The Hunt",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cU-AEvUTAABLlA0qqmE939.png",
+            "tips": "Natalia's Ultimate Skill is an Attack with a distance that is slightly larger than the Melee Range that attacks the opponent several times and slows down their Movement Speed. Among all Assassins, Natalia's Ultimate Skill is the weakest and is not a skill that can reverse the situation of the match, unlike Saber, Hayabusa, etc. However, this skill is still useful to slow down opponents who try to escape so that teammates can catch up with them."
+        }
+    }
+}

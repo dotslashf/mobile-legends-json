@@ -1,0 +1,33 @@
+{
+    "name": "Gord",
+    "type": "Mage",
+    "story": "Gord has always been the living proof of excellence in the magic academy. He was born with the gift to manipulate the mystic powers which allowed him to master several sophisticated spells at an early age. But this is clearly a double-edged sword as Gord became increasingly arrogant over time. Once he stumbled across a forbidden book in the academy which recorded the method to forge the pure mystic existence out of human body using mystic powers.The young wizard buried himself in the book and launched his study without respecting the opinions from the outside. It worked out successfully in the beginning, the pure mystic energy started to flow in Gord's veins, thus he was able to cast even more powerful spells. Unfortunately, Gord was not able to control this power and he became overwhelmed with mystic energy. Gord then tried to seek a solution from ancient magic sources. With the combination of the two different energies, Gord's body was almost devastated. Thanks to the help from Elward, the chief wizard, the turbulence in his body was finally able to be controlled. The incident took a huge toll on Gord, leaving his body half red and half blue. While he was saved, Gord can never again control the magic contained in pure mystic energy.Elward encouraged Gord until he finally got back on his feet. Elward then invited Gord to continue his career as a wizard and invited him to teach at the academy. After careful consideration, Gord accepted the offer. He wished to find a student who will carry on his studies without making the same mistakes. From that day, Gord started a new life as the strictest professor in the magic academy.",
+    "status": {
+        "durability": "90",
+        "offense": "50",
+        "ability_effect": "45",
+        "difficulty": "65"
+    },
+    "skills": {
+        "passive": {
+            "name": "Mystic Favor",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cRyADJ8dAAA5NT-KwQ4797.png",
+            "tips": "Selalu berlatih agar semua Skill dapat pas mengenai lawan, meskipun sulit namun Gord adalah Hero berbahaya yang dapat memberikan Damage terbesar pada musuh."
+        },
+        "first_skill": {
+            "name": "Mystic Projectile",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cPqAaBx1AABWt-z4eFc735.png",
+            "tips": "Skill 1 usahakan musuh terkena tepat dari lingkaran bola Gord karena ketika tepat musuh akan terkena Stun dan Damage lebih, selalu arahkan kemana musuh akan berada karena musuh juga akan selalu bergerak."
+        },
+        "second_skill": {
+            "name": "Mystic Injunction",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cQKAJie2AABL_Ldu6e0220.png",
+            "tips": "Gunakan skill ini selain untuk mencicil HP lawan juga bisa dengan cepat membuat Lane-mu bersih dari Creep lawan."
+        },
+        "ultimate": {
+            "name": "Mystic Gush",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cQmADqp_AABFAM3So0Y108.png",
+            "tips": "Berlatihlah agar Skill ini mengenai semua lawan, karena ketika War kita bisa menggunakannya untuk mencicil HP lawan atau juga membersihkan Lane. Namun gunakan dengan bijak dan ketika memang Skill harus di Cancel, maka kamu dapat meng-cancel Ulti dengan meng-klik Skill 3 lagi."
+        }
+    }
+}

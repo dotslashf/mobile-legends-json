@@ -1,0 +1,33 @@
+{
+    "name": "Rafaela",
+    "type": "Support",
+    "story": "Rafaela is an angel capable of miraculously healing anything. It is said that when she appears, all pain suddenly vanishes, all wounds instantly heal, and all evil disperses like rain clouds when the sun comes out. Now Rafaela has descended upon the Land of Dawn in the hopes of using her miraculous powers to restore peace to the land.",
+    "status": {
+        "durability": "75",
+        "offense": "40",
+        "ability_effect": "52",
+        "difficulty": "34"
+    },
+    "skills": {
+        "passive": {
+            "name": "Deity Penalization",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VPyAQO6YAABURRE_rjo647.png",
+            "tips": "This passive may be seems like a joke, but if you know how to take advantage of this, be sure that no enemy can run away from you, same as be sure that you can save your low-hp teammates!"
+        },
+        "first_skill": {
+            "name": "Light of Retribution",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VNSALxBaAABaDP0WGzM338.png",
+            "tips": "This is the main damage skill of Rafaela, and at the same time, is the biggest debuffs skill from her too. With the correct equipments, this skill is not only about revealing enemy's stealth and slow them down, it can also burn, reduce enemy's regen effects and even reduce enemy's defense too! "
+        },
+        "second_skill": {
+            "name": "Holy Healing",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VOKAC93RAABa-R0rBn8960.png",
+            "tips": "This the healing skill, in contrast of her damage-skill, there no equipment to give her better buffs, and yet, this is the skill what most people expect from her. "
+        },
+        "ultimate": {
+            "name": "Holy Baptism",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VOqAAt1GAABSb15XJYI116.png",
+            "tips": "In early game, you can trick you enemy to dive into your turret and stun him, then let the turret do its job, be aware of the enemy's minion, if there is any, wait for them to hit you once first."
+        }
+    }
+}

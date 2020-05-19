@@ -1,0 +1,33 @@
+{
+    "name": "Saber",
+    "type": "Assassin",
+    "story": "The birth of Saber traces back to the early years of Laboratory 1718. In the beginning, he was a scholar in one of the most famous invention teams in Scholar City. Dr. Rooney hoped that this team would be able to unlock the ultimate potential of mechanical invention and lead the world into a glorious age of technology. But the radically intellectual scientists became more and more obsessed with modifications to the human body. They engaged in insane experiments that ignored the limits of the human body. They were willing to try anything, use any combination of technology and power, so long as it enhanced human abilities that had not yet been unlocked by nature. Because of this, Dr. Rooney was forced to disband this team and banished the scientists.Though they had lost Dr. Rooney's favor, the scientists did not abandon their dreams. They established a laboratory of their own, a symbol of the reverence they held for their inventions. Laboratory 1718 was thus born, and it gathered radical scientists from all parts of the world to conduct strict and rigorous experiments on its subjects with the goal of creating stronger, and ever more advanced human weapons. The scientists gathered the genes of hundreds of sword masters of all different races, combining them with cutting-edge technology to create the first artificial man. As Laboratory 1718's first creation, they named him Saber.Saber's personality was proud and aloof, the sword he wielded was capable of cutting space-time itself. With his sword he traveled between the dimensions, his skill unmatched by any enemy he encountered. And because of this, Saber was extremely lonely. When he returned back to Laboratory 1718 to repair himself after each battle, he was no longer able to remember who his opponent was. This realization caused him to become curious about the origins of his creation. He also began to wonder about his true identity; another question he was unable to answer at Laboratory 1718, where all he did was submit to his battle instincts as he completed missions. Gradually, he grew tired of such an existence and decided to break free from Laboratory 1718's control to travel to the Land of Dawn, where he hoped to find answers through endless battles.",
+    "status": {
+        "durability": "50",
+        "offense": "87",
+        "ability_effect": "50",
+        "difficulty": "62"
+    },
+    "skills": {
+        "passive": {
+            "name": "Enemy's Bane",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UsiAIx_zAABcuRi8X9I712.png",
+            "tips": "Use Flying Sword to poke enemies as well as to apply passive stacks"
+        },
+        "first_skill": {
+            "name": "Flying Sword",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6Up2AFSnpAABR29OpmO0940.png",
+            "tips": "When standing together with the enemy, using flying sword will deal damage 4 times. You may control the range for long distance poking."
+        },
+        "second_skill": {
+            "name": "Charge",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6Uq2AVK7oAABVqcI3BN4250.png",
+            "tips": "Initiate with Triple Sweep, leave Charge as a escape, at critical moments use Charge to go through walls"
+        },
+        "ultimate": {
+            "name": "Triple Sweep",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6Ur2AKGLkAABWq83yjmM769.png",
+            "tips": "1. Target low health or squishy enemies, when Triple Sweep is about to end hold down the direction, this will cause you to move forward a step upon landing, then deal 4 times damage with Flying Sword.                                   2. When being tower dived by the enemy,use Triple Sweep on the enemy that is being attacked by the turret, knocking them up for extra tower hits."
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Chang\\'e",
+    "type": "Mage",
+    "story": "Chang'e is the youngest disciple of the Great Dragon. She exhibited amazing magical potential from an early age, quickly mastering the Great Dragon's greatest spell \u2014 The Sacred Satellite. From then on, Chang'e earned the eternal love of the Great Dragon. However, Chang'e's energetic and playful personality gave the Great Dragon quite a few headaches so he finally asked Zilong, his adopted son, to look after Chang'e. The Great Dragon was hopeful that Zilong's diligent and determined character could help guide Chang'e. Solemn as Zilong was, he came to love the lively and intelligent Chang'e as his little sister. They often spent countless hours together practicing magic. Zilong even managed to find the Moon Rabbit as a gift for Chang'e. Zilong was hoping that one day Chang'e would discover the strength of the divine rabbit and with its help improve her magic ability. Chang'e read Zilong's mind and took good care of the Moon Rabbit, accompanying it every day. During the second War of the Planes, Zilong assisted the wise rulers of the land, traveling between worlds. After he left, Chang'e returned to her naughty and childish ways, even the Moon Rabbit did something naughty from time to time. At one point, the Great Dragon was not sure if there would ever be another day of peace\u2014That is, until the Moon Rabbit accidentally swallowed one of his sacred pills, thinking it was candy. The Great Dragon immediately cast the Moon Rabbit out of his sanctuary. To everyone's surprise, the Moon Rabbit rebelled again the Great Dragon. At the very moment of the Great Dragon taking its life, Chang'e saved the Rabbit and decided to assist Zilong and make up for her mistake together with the Moon Rabbit. Even then, the Great Dragon felt compelled to give Chang'e his precious Crescent Moon to protect her.",
+    "status": {
+        "durability": "92",
+        "offense": "40",
+        "ability_effect": "42",
+        "difficulty": "70"
+    },
+    "skills": {
+        "passive": {
+            "name": "Trouble Maker",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/22/Cq2IxlsMxvaABlcrAABRqWVupUE879.png",
+            "tips": "While a skill is a active, Chang\u2019e gains 1 stack of Rabbit Blessing every time she inflicts damage upon an enemy hero. Once Chang\u2019e has accumulated 40 stacks, she can exchange them to permanently boost her magic attack by 30 points. Upon death, Chang\u2019e loses 15 stacks. (Stacks that were already exchanged are not affected.)"
+        },
+        "first_skill": {
+            "name": "Starmoon Shockwave",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/22/Cq2IxlsMxtKALuxBAABIMu5oYGE423.png",
+            "tips": "Chang\u2019e summons a circle of shimmering moonlight at a designated location that continuously reduces enemy movement speed. After some time, Chang\u2019e pulls enemy units to the center, dealing magic damage. Enemy units caught in this final attack briefly suffer a severe slow effect."
+        },
+        "second_skill": {
+            "name": "Crescent Moon",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/22/Cq2IxlsMxuCAG4TvAABKtOjxUAM509.png",
+            "tips": "Unleashes 5 Moon Blades in succession. Inflicts magic damage to the first enemy unit to be hit by this attack and 60% to surrounding enemies. Causes a temporary slow effect. When 3 Moon Blades hit the same target, they will cause a stun effect, once every 6 seconds."
+        },
+        "ultimate": {
+            "name": "Meteor Shower",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/22/Cq2IxlsMxu2ANU0hAABPMU9wXlU094.png",
+            "tips": "Chang'e launches a rabbit missile forward, which deals <Num1> points of magic to the first enemy hero hit and then immediately splits into 6 small missiles that continue chasing the target. Every small missile deals  points of Magic Damage. If the rabbit missiles do not hit an enemy hero, the missiles will travel to their maximum distance and then split into 6 missiles once more, randomly chase the nearest targets. When enemy units are hit multiple times, missile damage is reduced."
+        }
+    }
+}

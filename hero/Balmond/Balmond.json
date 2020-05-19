@@ -1,0 +1,33 @@
+{
+    "name": "Balmond",
+    "type": "Fighter",
+    "story": "In the Land of Dawn, from the Enchanted Forest to the Crack of the Abyss, the Blood Demons used their noble bloodline and extreme intelligence to enslave the Orcs whom were symbols of barbaric strength. The Orcs were in servitude to the Blood Demons and in addition to searching for their own food, the enslaved Orcs were also tasked with hunting for a very special food for their masters: Moon Elves.The Orcs suffered greatly during their 30 years of enslavement, and their great ancestor, the Crazed Savage, hoped for an early end to their slavery. The Orcs had organized rebellions against the Blood Demon rule in the past, but each time they were unsuccessful and were met with death and destruction. It was during one of the larger of these rebellions that the rebel leader's wife lost her life giving birth to Balmond. Balmond was raised by his father and their Orc clan. The unusual circumstances of his childhood led him to grow up with a violent temper and a love of battle. He achieved victories in all of his battles against the Moon Elves and Humans, and many became hopeful that he would continue in his father's legacy and eventually command the Orc army.Growing fiercer with each battle, Balmond became the strongest warrior in the Orc tribe. Years later, after his father had grown old and was near death, he told Balmond of his mother's tragic death. This caused Balmond to be even more determined to free his people from enslavement at the hands of the Blood Demons. Balmond led his Orc tribe in a night assault against the Blood Demon's main camp. He hoped to defeat the Blood Demon leader, Alice, and thereby break the contract of enslavement between them. The Blood Demons, however, proved to be too strong for Balmond. In a moment of desperation, Balmond decided to bite one of the Blood Demons to suck their blood to acquire their special strength. The few Orcs remaining followed Balmond and grew stronger as the strength of the Blood Demons fused with their own. With his new power, Balmond swung his bloody axe and slaughtered all the Blood Demons before him. Alice knew that he was no longer an ordinary Orc, but a hybrid creature that would come to be known as the Bloodaxe Orc. Alice smirked as Balmond approached with his axe raised in preparation of her slaughter. Alice showed no fear even as it swung down, preparing to sever her head from her body. The axe was stopped by a mysterious power just as it was about to meet Alice's skull. It was then that Balmond realized that by acquiring the power of the Blood Demons he had become subjected to Alice's control - denying him and his people the freedom they longed for.Even today these events still weigh heavy on Balmond's heart. He never intended to become an orc hybrid, and now unable to escape Alice's control. The Blood Demons have become more powerful than ever with this new unholy blood alliance. Every time the Blood Demons summon Balmond, he would be forced to honor the contract. Unable to bend the will of his masters, Balmond suffers in solitude in his own prison until he is summoned by the Blood Demons where his Blood Axe reigns supreme.",
+    "status": {
+        "durability": "40",
+        "offense": "68",
+        "ability_effect": "80",
+        "difficulty": "30"
+    },
+    "skills": {
+        "passive": {
+            "name": "Bloodthirst",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UoqAR3RWAABtXKK9ius120.png",
+            "tips": "On fighter build pls always remember ur passive skill. try to near enemy minions for fight/war on early game."
+        },
+        "first_skill": {
+            "name": "Soul Lock",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UjqAMlHfAABdBbBqWis698.png",
+            "tips": "This skill for u RUN or Open WAR. on early game balmond easy for run out on enemy gank u. when Open WAR, always try to charge to enemy's mage Heroes 1st."
+        },
+        "second_skill": {
+            "name": "Cyclone Sweep",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UkOABuQrAABXhWcG9uI423.png",
+            "tips": "The most easy for use is this skill. after u use jz walk around or follow enemy move. remember after u on this skill, u unable to use ur Skill 1 or SKill 3 (u still can use ur Battle Spell). but after u on this skill, after delay a second, u also can use again this skill for disable, so now u can use other Skill."
+        },
+        "ultimate": {
+            "name": "Lethal Counter",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UoGALjpnAABkx0Jh-ro643.png",
+            "tips": "This Ultimate skill has a Powerful damage to enemy, BUT the weakness is, pls dont try to use on when enemy is full HP. try to use on when got any enemy HP is below 1/4, if enemy not yet dead in this Skill, but still can slow down enemy's Movement Speed. on early game, u can use for kill turtle when turtle HP is below 1/3, try to help teamate kill turtle or u can go steal turtle when enemy fighting on there. BEST for steal Lord, when enemy fighting with Lord, Balmond is the BEST for stealing. when Lord HP is under 1/3."
+        }
+    }
+}

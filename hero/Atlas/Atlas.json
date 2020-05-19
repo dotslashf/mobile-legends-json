@@ -1,0 +1,33 @@
+{
+    "name": "Atlas",
+    "type": "Tank",
+    "story": "The dark, cold and mysterious deep sea is the last unexplored frontier in the Land of Dawn. All the way down from surface, the sun fades away and the temperature drops, then there is complete darkness. It is called the Abysmal Sea, where currents and the high pressure are strong enough to tear apart any advanced materials Eruditio has invented. This place is a forbidden zone of life, where no human has ever set foot in. Only the remains of those abandoned and eliminated civilizations have been sinking and piling up.Nevertheless, it is not only death here. Many unbelievable and indescribable creatures, including Atlas, have been struggling and multiplying for ages in this dangerous area. They were among the oldest living things on the Land of Dawn, devouring elemental creatures for power, which made them imprisoned in this deepest place by the Ancient Ones. The powerful Injunction blocked light, heat as well as their upward path. In order to adapt to the high-pressure environment, they removed their shells and redundant structures, and developed a variety of fluid shapes. In the endless darkness, there is no fight and strife, only the law of survival: existence, alternation and circulation.Ages after ages, however, some things have gradually changed. The changes did not originate beneath the ocean but came from above. The succession of civilizations and continuous wars affected not only the land but also the seas. Everything began to deteriorate. Creatures in the Abysmal Sea could no longer adapt to the even worse situation. Withering and death came without warning. The largest of them were the first to contend. These giant fibrous creatures wriggled their tentacles and bodies to rush upwards, but only to be torn apart due to the Injunction.The others could not understand their fate, but they knew they needed change - it's an instinct of all living things. Therefore, they started to think about workarounds. They started to try to break the Injunction. The only prisoner who eventually got rid of the Abysmal Sea, was Atlas. As the most experienced individual, he sensed the change sooner than any of his kind when the Abysmal Sea was involved. He was the first to prepare the escape.The fleshes torn apart warned the rest creatures that their bodies were vulnerable to the overwhelming power. To break the Injunction, he must regain a rigid shell. Atlas kept wandering and searching over the deep. Until one day, in a pile of those civilization remains, he found his destined shell - the Mecha Sentry, a set of giant ancient machinery armor. These big things were manufactured as war machines by the Iceland Golems who once ruled the Northern Vale. After the demise of the ancient golems, they were abandoned by the later civilizations, thrown into the ocean, and totally forgotten by the world.Atlas slowly approached the Mecha Sentry, found it decayed on the sea floor like a stiff scrap of iron due to the missing of the control core. He then entered the center of the machine, stretched his tentacles, injected them into each joint, and began to take control. Along with a rumbling noise, the Mecha Sentry who slept for thousands of years lit its eyes again. The forgotten body and the abandoned soul got perfectly combined and unified.The giant Mecha Sentry broke through the Injunction, rushed from the deep to the surface, then jumped up above the sea. It was the time the world welcomed a new player - Atlas, the Ironclad Kraken.Atlas felt strange and curious about this world. He visited everywhere seas can reach driven by the desire for learning and strengthening. He frantically drew knowledge from creatures, races and civilizations. Meanwhile, his control of the Mecha Sentry became more and more proficient. As if the machine was originally made for him. But no matter how long time passed, Atlas is always haunted by a thought - his kind are still struggling in the Abysmal Sea, the biggest jail and the remotest place in the world.Now, Atlas has not only a hard armor, but also a plan. He will break the Injunction between the Abysmal Sea and the world, save his kind from the eternal imprisonment. There is a secret treasure only the pirates believe that hidden somewhere in the sea of Northern Vale. It has the power to regenerate, powerful enough to change the ecology of an entire ocean. Atlas wants it, from the first time he learned the story.",
+    "status": {
+        "durability": "70",
+        "offense": "50",
+        "ability_effect": "80",
+        "difficulty": "60"
+    },
+    "skills": {
+        "passive": {
+            "name": "Frigid Breath",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/A2/Cq2Ixl54UbOAT7GiAABcs-yrMqk393.png",
+            "tips": "The CC and durability provided by this skill can significantly reduce the threats that Altas faces in close-quarter combats.               "
+        },
+        "first_skill": {
+            "name": "Annihilate",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/A2/Cq2Ixl54UYuAUz1NAABeCasO6KQ602.png",
+            "tips": "This is Atlas' most important source of damage, which inflicts double the damage when used in Ejected State.      "
+        },
+        "second_skill": {
+            "name": "Perfect Match",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/A2/Cq2Ixl54UZmAamYXAABIFdjKlPY173.png",
+            "tips": "This skill serves as Atlas' diving tool. The bonus movement speed allows him to dive into the enemy formation rapidly, while tanking a lot of damage with the Damage Reduction of this skill. When he enters the Mecha, he can control the surrounding targets again."
+        },
+        "ultimate": {
+            "name": "Fatal Links",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/A2/Cq2Ixl54UaSAaZUnAABSnqUAScQ295.png",
+            "tips": "This Ultimate is extremely powerful in teamfights, especially when combined with the fast movement speed in Ejected State. By controlling all the enemy targets in the affected area and throwing them towards your teammates, this skill can create instant wipe-out opportunities for your team."
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Leomord",
+    "type": "Fighter",
+    "story": "On a day much like today, Tigreal and his Expeditionary Forces of Light charged into the Fortress of Despair with all their might, and swiftly decimated many of the undead lurking within. After this devastating defeat, Vexana realized she needed to find a formidable ally, who could take on the Warrior of Light head on, or else she would face certain defeat. Vexana paced back and forth as she carefully pondered who had the strength to defeat Tigreal. Suddenly, a vivid image of a face from long ago seared across her mind\u2014Leomord. A long time ago, the Fortress of Despair was actually the center of a beautiful and rich kingdom. Leomord and his Royal Knights vowed an oath to protect their King and the Queen, who was in fact Vexana. Any invader who dared attack the kingdom could not avoid the fate of death by Leomord's sword. However, one day the kingdom came to ruin. That was the day Vexana transformed all of the kingdom's creatures into the undead. Lionhart fell into great despair. Even if he could single-handedly eliminate all of the evil from the kingdom, he could not raise his sword against the women who was once his queen. He could not bear to watch the kingdom he loved and swore to protect fall into ruin. Leomord took his own life out of sorrow and desperation. Leomord's strength and resolve burned so brightly in life, that Vexana could not control him as a spirit. However, since the Fortress of Despair was met with a great danger, she had no choice but to awaken him. When he rose from the dead, Leomord felt that his soul was filled with torturous amounts of pain and despair. Whispering sweetly into his ear, Vexana told Leomord that the undead that stood before him were once the beloved people he swore to protect. She warned that if he did not protect the Fortress of Despair, then all of these innocent souls would suffer eternal damnation. Leomord had no choice. He would rather be a slave to Vexana's sorcery than watch his compatriots suffer another day. Leomord summoned his beloved horse, Barbiel, and his famed sword, The Oath Keeper. Just as the Expeditionary Forces of Light stormed the horrific Fortress of Despair, Leomord and Barbiel struck the invaders with black lightening. Much of the Expeditionary Forces of Light were decimated. No one could withstand Leomord's sword, or so they thought. Tigreal stood there in defiance with the Sword of Dawn drawn against Leomord. As their swords clashed, Tigreal could feel Leomord's grief and despair coming from his sword. On that day, Tigreal knew he met one of the strongest opponents he had ever faced.",
+    "status": {
+        "durability": "58",
+        "offense": "84",
+        "ability_effect": "65",
+        "difficulty": "52"
+    },
+    "skills": {
+        "passive": {
+            "name": "The Oath Keeper",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/5C/Cq2IxluwyiuAZIcCAABKovrM1yo375.png",
+            "tips": "Passive effects make it easy for Leomord to finish off low-HP units. Making good use of 2 other skills in the mounted state, and Leomord could cut into fights and reduce enemies\u2019 HP to below 30% and slay them with basic attacks in combination with skill \u201cInspire\u201d."
+        },
+        "first_skill": {
+            "name": "Momentum",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/5C/Cq2IxluwygOAfK83AABMG1-Npn4069.png",
+            "tips": "The main DPS skill for human state Leomord takes a long time to charge but could be released early to ensure high hit rate. The shield gained by releasing the skill is surprising useful during a tight match or when Leomord is low in health."
+        },
+        "second_skill": {
+            "name": "Decimation Assault",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/5C/Cq2IxluwyhOAN6AbAABbJOsu_5Q447.png",
+            "tips": "Human state skill 2 and mounted state skill 2 are both teleport skills but they don\u2019t share CD. Take advantage of this and Leomord could teleport twice when summoning Barbiel with the ultimate, making it possible to cut into fights quicker."
+        },
+        "ultimate": {
+            "name": "Phantom Steed",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/5C/Cq2IxluwyhyAdA2hAABT_8whljg218.png",
+            "tips": "This is the strongest skill of Leomord. Mounting on Barbiel makes him incredibly strong. Barbiel could even knocks back enemies when running. But make sure Leomord comes in contact with Barbiel, otherwise the bonus will not be triggered."
+        }
+    }
+}

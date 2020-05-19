@@ -1,0 +1,33 @@
+{
+    "name": "Khufra",
+    "type": "Tank",
+    "story": "In the far reaches of the Western Desert, an ancient city lays hidden among the sands. Despite ages passing by, the desert sands were unable to devour this city, which stands proud and majestic in a sea of emptiness. Scholars of antiquities have long spoke of this fabled city, whose most infamous ruler was none other than Khufra.Khufra was a greedy ruler, colder than ice, and avaricious to limitless extents. In order to satisfy his personal desire to rule, he led the powerful army of Arnak to invade the city to conquer the Western Desert. Tirelessly, Khufra expanded his domain and riches beyond compare. Unfortunately, the Minoan Empire proved to be too difficult of a foe to conquer.  Even so, Khufra longed for more power. He sought the most famous astrologer in the Land of Dawn to help himself. Much to Khufra's dismay, the astrologer knew of Khufra's insidious goals and declined and was swiftly slain. Only the young Eslora felt deeply attracted to Khufra, who then became lovers. Khufra's callousness sent Eslora into a mess of internal conflict and love. Gradually, Eslora deeply loved Khufra and began to help Khufra with his rule. Over time, Eslora used her magical abilities to grant Khufra magical powers that were never before seen. However, Khufra became even more and more cruel and hungry for power. His conquests did not end with the Western Desert, he sought to conquer the entire Land of Dawn. Seeing the cruelty of her love, Eslora decided to save Khufra from the hate of the people.  Even then, Khufra continued to use magic to enhance his powers. He asked Eslora to give all the spells to him. He must completely eliminate the Minoan Empire. No one could question his power. One night, Eslora came to Khufra and she deeply embraced her lover. She began to place Khufra under a powerful curse, while Khufra was expecting the ultimate power given by Eslora. Suddenly, Khufra felt suppressed by a powerful force. He turned his head and looked at Eslora. No matter how Khufra tried to break free, Eslora did not stop chanting her curse. Khufra could not believe that his lover was punishing him. Eslora wept as she bound her love into an eternal slumber. She chose to personally seal her lover in the ancient city and built a grand monument. Eslora believed it was better to end Khufra before he became despised by the people, going down in history as the cruel king who loved nothing but power. Since then, the smoke of the war in the Western Desert disappeared.  However, hundreds of years later, a cataclysmic event occurred in the Western Desert. A wave of energy from an orb awakened Khufra from his slumber, who swelled with hatred and anger. Returning to the world, Khufra could not accept the betrayal of his lover in the past. His abilities and desires were stronger than ever before. He vowed to find Eslora and continue to pursue the centuries-old wish to possess the Land of Dawn within his hands.",
+    "status": {
+        "durability": "72",
+        "offense": "66",
+        "ability_effect": "78",
+        "difficulty": "60"
+    },
+    "skills": {
+        "passive": {
+            "name": "Spell Curse",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/7D/Cq2IxlyIxmyAIqFtAABLe7UtUJM862.png",
+            "tips": "It's the only recover skill of Khufra. The enhanced basic attack grants him strong poke abilities. It's smart strategies to use the skill and trigger passive twice in a short time and restore much HP."
+        },
+        "first_skill": {
+            "name": "Tyrant's Revenge",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/7D/Cq2IxlyIxk-AaNj5AABUM4Rnmec979.png",
+            "tips": "It's the main skill for Khufra to join the battle. The longer he charges, the longer the knock-up effect will be. Try to better use it with ultimate \"Tyrant's Rage\" and control enemy heroes much longer."
+        },
+        "second_skill": {
+            "name": "Bouncing Ball",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/7D/Cq2IxlyIxleAKtLoAABB_Ss7mqA825.png",
+            "tips": "Each time the magical bouncing ball hits the ground, it will deal Magic Damage to enemies nearby and reduce their movement speed. This skill counters the heroes that are good at blink skills - they can not move across the bouncing ball."
+        },
+        "ultimate": {
+            "name": "Tyrant's Rage",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/7D/Cq2IxlyIxmKAFHBMAABJN99UOG8554.png",
+            "tips": "Needs practice to well use this skill. Better use it with 1st skill and it would be easier for Khufra to deal huge damage and control enemies for a long time."
+        }
+    }
+}

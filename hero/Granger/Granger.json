@@ -1,0 +1,33 @@
+{
+    "name": "Granger",
+    "type": "Marksman",
+    "story": "There was once a tale going around the Land of Dawn about a musician. No one knew where he came from nor where he was headed. Everyone just called him \u201cthe vagrant poet, Granger\u201d. Granger was orphaned during the war between the Moniyan Empire and the Southern Mountains. He was picked up by the Imperial Army, then sent to the Monastery of Light. Similar to all orphans, Granger was silent and isolated. He never showed many feelings through his cold eyes. Only when the melody of violins emerged in the monastery would Granger show any interest in anything, getting lost until the music ended. Every orphan in the monastery had two options for their future as adults: to be a demon hunter, living by completing the secret tasks assigned by the Empire, or to be a servant of the monastery, doing the cleaning and washing for a lifetime. To everyone\u2019s surprise, Granger chose guns and violins at the same time, meaning that he would choose both options. More precisely, he would choose neither of them. He abhorred war and demons, to which he lost his family and home, thus he wouldn\u2019t hesitate to be a hunter. Violins, however, meant a lot to him as they soothed his misery and nightmares. Granger enjoyed music. He would turn a beautiful piece of music to a prelude of battle. In his own words, \"It excites me.\" Since he received his violin, Granger played lousy music wherever he went. The noise from the violins would be so bad that his opponents would lose focus. Granger would take this opportunity to shoot his enemies with his gun before they could realize it\u2019s a trap. Soon after, he took the lead among the demon hunters. Even the S-Level Tasks were not a big deal to him. Impressed by his efficiency and abilities, Alucard, one of the most well-known demon hunters, admired and respected Granger. The news about Granger soon spread among the demons. As soon as anyone heard a horribly sad melody, they would escape with haste - otherwise, it would not end up well for them. After all, a painful death awaits...",
+    "status": {
+        "durability": "55",
+        "offense": "80",
+        "ability_effect": "35",
+        "difficulty": "69"
+    },
+    "skills": {
+        "passive": {
+            "name": "Caprice",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/85/Cq2Ixly-xDyAOB5NAABS776mbTs320.png",
+            "tips": "Rhapsody is Granger's primary damaging dealing skill. The last bullet of this skill guarantees critical damage. So watch your aim to make sure the last bullet hits the target."
+        },
+        "first_skill": {
+            "name": "Rhapsody",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/85/Cq2Ixly-xBmAJozoAABQ_LZUeO0191.png",
+            "tips": "It's a great combo using this skill to change your position in battle and using \"Rhapsody\" to deal high damage. As it highly increases the Hit Rate of \"Rhapsody\" and reduces the CD time of this skill."
+        },
+        "second_skill": {
+            "name": "Rondo",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/85/Cq2Ixly-xCSAIT9DAABOOUHb01M709.png",
+            "tips": "Regardless of whether you are in pursuit of an enemy or on the run, take good advantage of this skill to reposition in battle."
+        },
+        "ultimate": {
+            "name": "Death Sonata",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/85/Cq2Ixly-xDKAJtCZAABS00d0BzM587.png",
+            "tips": "The \"lucky\" effect of Granger's 6th bullet is not limited to his basic attacks, but also work with his 1st skill and ultimate! Make sure you hit the enemies with the 6th bullet to deal massive damage no matter what!"
+        }
+    }
+}

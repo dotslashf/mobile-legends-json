@@ -1,0 +1,33 @@
+{
+    "name": "Esmeralda",
+    "type": "Mage",
+    "story": "The astrologers, who have constantly been observing astrospace, possess the occult abilities to explain and predict everything in the world, including both about their processes and results. To become an astrologer, candidates should pass rigorous assessments, which will test both their willpower and astrological abilities. Going down the generations, the elders finally select Esmeralda, a young girl living in the Western Desert, to be the new successor in the Land of Dawn. After becoming the successor of the astrologers, Esmeralda guards the Starmoon Casket that has been passed down for generations. With the hope of opening it and gaining the mysterious power from the ancient times, Esmeralda leaves off to the Minos Labyrinth to find the secrets of the Starmoon Casket. But unfortunately, on her way to the Minos Labyrinth, the ground suddenly shakes and the desert falls into pieces, followed by a black sandstorm. All of a sudden, the Starmoon Casket opens and a stream of mysterious power fills in Esmeralda. Under the protection of the mysterious power, Esmeralda gets no harm and feels old memories flashing back through her mind. She feels the Starmoon Casket is calling for her, reminding her that Khufra, the ruthless tyrant of the Western Desert long ago, has recovered himself. Following the lead of the Starmoon Casket, Esmeralda changes direction to the deep desert, where there stands an ancient city. After the Starmoon Casket opens, two streams of power coming from it begin centering around Esmeralda - \"Frostmoon\", enriched with magic, and \"Stardust\", filled with great power. Impressed by the might of the Starmoon Casket, which was only spoken of in tales before, Esmeralda recalls the memories from the first generation of astrologers. When Esmeralda approaches the ancient city, she vaguely feels an unknown love story between Khufra and some astrologer. Seeing the end of their love, Esmeralda somehow feels sad and sorry. But it's her mission to seal Khufra and return the peace to the Western Desert.",
+    "status": {
+        "durability": "65",
+        "offense": "65",
+        "ability_effect": "76",
+        "difficulty": "45"
+    },
+    "skills": {
+        "passive": {
+            "name": "Starmoon Casket",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/84/Cq2Ixlyh2cuARhM2AABVtOJRQlk754.png",
+            "tips": "With Passive, Esmeralda deals more damage than any other hero. However, it also provides her enemies with shield effects. Relying on Frostmoon to quickly transform the enemy's shield to herself is the key point of using Esmeralda."
+        },
+        "first_skill": {
+            "name": "Frostmoon Shield",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/84/Cq2Ixlyh2bCAZw_qAABbVjgYSAY322.png",
+            "tips": "This skill will last for a while. Since Frostmoon causes damage and also provides shields for enemies, it will deal damage to the enemies continuously. Esmeralda transforms shield from enemies to help herself survive. This skill is the key for Esmeralda to take huge amounts of damage."
+        },
+        "second_skill": {
+            "name": "Stardust Dance",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/84/Cq2Ixlyh2bqAJFuwAABVZpL-pVU360.png",
+            "tips": "This is her main damage dealing skill, causing a lot of damage while also reducing the cooldown of Frostmoon Shield. Cast Stardust Dance after Frostmoon Shield and it would be easier to survive."
+        },
+        "ultimate": {
+            "name": "Falling Starmoon",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/84/Cq2Ixlyh2cOAc_6CAABTrEe12Tk563.png",
+            "tips": "This skill provides the most important ability to get enrolled in battles, where it will also cause a temporary effect of control on enemies. Choosing the right time to take moves can change the final outcome of a teamfight."
+        }
+    }
+}

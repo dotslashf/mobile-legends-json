@@ -1,0 +1,33 @@
+{
+    "name": "Angela",
+    "type": "Support",
+    "story": "Dr. Baker was one of the founders of Lab 1718, an institution created with the aim of bringing peace to the world. But as his co-founders fell deeper and deeper into their depraved human weaponization experiments, Dr. Baker felt he had no choice but to leave and pursue a new project. Renouncing the questionable ethics of human experimentation, he endeavored to create a new kind of lifeform, solely from a mechanical skeleton, puppet strings, and synthetic skin, and finally, a new generation of artificial life was born. Dr. Baker firmly believed that love and hope were the greatest inventions of mankind, so he programmed the world's most moving stories into the heart of his new creation. One bright morning, Peace Android Prototype 1 awakened from her bed, and Dr. Baker bestowed upon this adorable mechanical angel, the name Angela. Angela followed Dr. Baker's tutelage, studying hard to understand the world, and hoping to meet the doctor's high expectations. However, their peaceful life together was soon cut short. When the mad scientists of Lab 1718 heard rumors that Dr. Baker had created a living soul outside of a human body, they couldn't believe it. They convinced themselves that Baker had betrayed them, keeping this knowledge to himself before fleeing, and so they ordered Dr. Baker's past creations, Alpha and Beta, to hunt down Dr. Baker and Angela. As their pursuers were just about to close in on them, Dr. Baker placed Angela into a flight capsule, instructing her to seek out his good friend Dr. Rooney. However, the flight capsule was struck down in a terrible thunderstorm, and landed in a remote corner of the Land of Dawn. Emerging from the wreckage, Angela began her journey to find Dr. Rooney and save her father.",
+    "status": {
+        "durability": "85",
+        "offense": "36",
+        "ability_effect": "49",
+        "difficulty": "32"
+    },
+    "skills": {
+        "passive": {
+            "name": "Smart Heart",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/Cq2Ixlp64UOAW9MiAABZArU1XVU0010580",
+            "tips": "Using skills increases her movement speed. Attached allies also benefit from this speed increase."
+        },
+        "first_skill": {
+            "name": "Love Waves",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/Cq2Ixlp64SOAH3o0AABLdiimYF82405696",
+            "tips": "Try to store as many charges as you can before attacking, as high stacks of Lover's Mark can result in very impressive damage."
+        },
+        "second_skill": {
+            "name": "Puppet-on-a-String",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/Cq2Ixlp64TKAGCSSAABS-UbBihw5713721",
+            "tips": "The follow-up damage dealt when connected is quite high, so try to stay as close to the target as possible."
+        },
+        "ultimate": {
+            "name": "Heartguard",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/Cq2Ixlp64TuAdjeCAABU6VpfY4w8313360",
+            "tips": "Protecting low-HP teammates in the nick of time can be very effective in turning the tide of battle."
+        }
+    }
+}

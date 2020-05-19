@@ -1,0 +1,33 @@
+{
+    "name": "Minsitthar",
+    "type": "Fighter",
+    "story": "In the mysterious village of the East there was once a hero, \"Holy Spear\" Minsitthar, who had saved his kingdom from danger. He was once the Prince of Mahar Pura and served in the Forces from his youth. After adulthood he was respectfully called one of the \"Four Great Generals\" of Mahar Pura with his remarkable achievements.  Minsitthar was invincible in wars, which earned the trust of the King and his people. They deeply believed that Minsitthar would be the King after his Father. Perseverant and courageous as he might be, yet he couldn't avoid falling for an unacceptable love, and it enraged his Father and dried out all the trust and expectation towards his son. Minsitthar knew that he had made an unrecoverable mistake and fled out of the Palace in the dark night with his servants.  It was the first time that he left his homeland. But his exile had just begun. Years flew by when Minsitthar heard that his Father had passed away and his kingdom was in great danger. When he was hesitating whether he should stand out and save the kingdom, the messenger of his brother found him. He tried to persuade Minsitthar to come back and help them. Minsitthar and his brother had some disagreement in battlefield strategies, and his paranoid brother failed in his own plan and got killed by the rebelling army. Minsitthar united the soldiers and slayed all the enemies with the Holy Spear his Father passed down to him. Mahar Pura was in peace again.  Shortly after, Minsitthar stepped onto the throne and became the new king of Mahar Pura. During the exile he had witnessed many methods of ruling and he brought revolution and innovation to his kingdom. Soon later Mahar Pura became a prosperous kingdom again.",
+    "status": {
+        "durability": "50",
+        "offense": "75",
+        "ability_effect": "65",
+        "difficulty": "40"
+    },
+    "skills": {
+        "passive": {
+            "name": "All United",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/69/Cq2Ixlv0ExyALmopAABgvjhWAE8977.png",
+            "tips": "With this passive, Minsithar can perform more ganks with his teammates without the worry of  his farming falling behind."
+        },
+        "first_skill": {
+            "name": "Spear of Glory",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/69/Cq2Ixlv0EyuAR6uRAABbnVejWqU028.png",
+            "tips": "Try to better use this skill and pull back the back-line heroes who are easy to slay even when they're hiding behind the tanks. "
+        },
+        "second_skill": {
+            "name": "Shield Assault",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/69/Cq2Ixlv0EzSAEg_LAABca6NQI3A504.png",
+            "tips": "The range of this skill is not too wide so better use it together with his 1st Skill, and by doing so the hit rate will be increased."
+        },
+        "ultimate": {
+            "name": "King's Calling",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/69/Cq2Ixlv0Ez2AAsGOAABi_-K73Vo846.png",
+            "tips": "Use the Ult directly when a teamfight with fewer than 3 players occurs. When facing more enemies, use \"Spear of Glory\" first and fast slay an ememy hero to increase the chances of winning the teamfight. "
+        }
+    }
+}

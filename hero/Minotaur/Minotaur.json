@@ -1,0 +1,33 @@
+{
+    "name": "Minotaur",
+    "type": "Tank",
+    "story": "The young Minotaur was the most talented and powerful one in the kingdom, who admired and worshiped by others, up until he was defeated by a youth from a far-off land. As a prodigy, his confidence has never been so knocked up and finally he blamed it on his own weakness. To become stronger and powerful, he chose to enter the Minos Maze and started his self-training with the help of Twilight Orb's power, never thought how hard it would become.",
+    "status": {
+        "durability": "53",
+        "offense": "64",
+        "ability_effect": "90",
+        "difficulty": "30"
+    },
+    "skills": {
+        "passive": {
+            "name": "Rage Mode",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VfSAf00yAABg36UuHN8243.png",
+            "tips": "Be always on the lead. Position yourself in front of the creeps and more often, in front of the hero you're sharing the lane with. This will force your enemy hero and creeps to attack you first which will help your rage meter to be filled. "
+        },
+        "first_skill": {
+            "name": "Despair Stomp",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6Vc-AXhyrAABiJKEX5Po979.png",
+            "tips": "As stated Despair Hammer deals great damage especially in rage mode. Maximize it first next to the ultimate for greater crowd control. Minotaur is a manaless hero so abuse using this skill for greater CS. "
+        },
+        "second_skill": {
+            "name": "Motivation Roar",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6Vd6AKULeAABZKrNpWgE960.png",
+            "tips": "Known as a healing ability, Very good sustain better than Rafaela wherein you don\u2019t need to spend mana to regen your HP. This skill is usually maximized during rage mode because aside from great heal, this will allow Minotaur to have a great Physical and magic defense."
+        },
+        "ultimate": {
+            "name": "Minoan Fury",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VeqAE9uVAABiHNpYJjg999.png",
+            "tips": "AoE damage and crowd control. This will makes your opponent helpless. With this skill they don\u2019t have a chance to disengage unless they are going to use flicker. With a full AD build, your ultimate can do an insta kill to marksman and other squishy hero. <br>"
+        }
+    }
+}

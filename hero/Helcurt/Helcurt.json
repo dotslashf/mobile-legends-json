@@ -1,0 +1,33 @@
+{
+    "name": "Helcurt",
+    "type": "Assassin",
+    "story": "In the historical records of the Land of Dawn, there is said to be a mysterious race who sacrificed their souls to the ruler of the Abyss in exchange for great power. Their bodies were transformed using dark magic, granting them the ability to swallow light and travel through space in the blink of an eye, allowing them to surprise their enemies with deadly sneak attacks. What was most terrifying about them, however, was the concoction of natural poisons emitted from their tails, for those unfortunate enough to come into contact with this poison would soon be saying their last words. However, this is what caused the ultimate demise of this race. In the annals, the specifics of how this race were wiped out are not made clear, but it is certain that this terrifying race definitely walked upon on the Land of Dawn. Since their extinction, humanity had progressed prosperously, however, the history books could not predict that one day these creatures would slowly creep out of the shadows once more...",
+    "status": {
+        "durability": "50",
+        "offense": "91",
+        "ability_effect": "48",
+        "difficulty": "58"
+    },
+    "skills": {
+        "passive": {
+            "name": "Race Advantage",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2IxlplgciAGMOWAABVZfFU3ZE6085106",
+            "tips": "A very sick passive skill. This allows Helcurt to take damage from skills and silenced targets. P.S: Hitting by a long ranged skill will not trigger this passive!"
+        },
+        "first_skill": {
+            "name": "Shadow Transition",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2IxlplgY-ARJ5YAABW7ng572A6491218",
+            "tips": "A skill with super high mobility. Using in the early game allows Helcurt to move through walls to speed up jungling. Using in middle-late game makes it a good initiating skill or escape by moving through terrains."
+        },
+        "second_skill": {
+            "name": "Deadly Stinger",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2Ixlplga6AGPGBAABGqY1dcZI5780103",
+            "tips": "Storing up to 5 stingers to maximize the damage as it's the core damage skill. Since it can penetrate the targets, choose a good angle to hit more enemies or jungle monsters to speed up the jungling."
+        },
+        "ultimate": {
+            "name": "Dark Night Falls",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2Ixlplgb-AAD1FAABMomwWshc7528608",
+            "tips": "Use it anytime anywhere to make all enemy heroes lose vision by 3.5s (except Helcurt). A very useful skill. The bonus movement speed allows him to go to the fight quickly or chase an enemy. The bonus attack speed substantially increases his burst damage. Let the enemies fear the invisibility. P.S: It's not effective on enemy Helcurt."
+        }
+    }
+}

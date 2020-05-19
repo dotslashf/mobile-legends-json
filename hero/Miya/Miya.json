@@ -1,0 +1,33 @@
+{
+    "name": "Miya",
+    "type": "Marksman",
+    "story": "Miya was born in the Temple of the Moon and studied hard to one day become the next Moon God. When the fires of war between Humans and Orcs engulfed the Moon Elves, the Moon Elf Hero Miya took a stand and led her fellow Moon Elves to resist the invasion. Despite their best efforts, Miya and her fellow elves were forced to make a last stand in the temple against the enemy. Miya knelt in the center of the temple to pray for one last time when all hope was lost.Then, a miracle occurred. The Moon God answered Miya's prayer and blessed her longbow with an ancient power. Miya grasped the newly endowed bow and fired an arrow, and with the power of the stars,turned into an eagle spirit and caused the enemy into chao. Miya led her people out of the temple, raining showers of star-wrought arrows upon the enemy with each pull of her bow. Meanwhile the magical eagle hovered over the enemy, singling them out and attacking them. Like a falling tide, the humans and orcs quickly started to retreat. Miya and her countrymen retook the shores of the Moon God, and the moon elves recognized Miya and her spirit eagle as the Moon God incarnated. The young Miya knew in her heart that if this problem was not stopped at the root, the wars would never end. With the Moon God's blessing, she set out on a journey to the land of dawn, hoping to find a king who could bring peace and order back to this world.",
+    "status": {
+        "durability": "62",
+        "offense": "95",
+        "ability_effect": "42",
+        "difficulty": "25"
+    },
+    "skills": {
+        "passive": {
+            "name": "Turbo",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UgOAHog5AABcU8mv2xY458.png",
+            "tips": "Miya\u2019s basic attacks increase her attack speed, so her damage will increase the longer she stays in combat. Before engaging a hero, try to build up and maintain your passive attack speed boost by continually attacking minions."
+        },
+        "first_skill": {
+            "name": "Fission Shot",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6T6uAYUANAABfHXx-Jww664.png",
+            "tips": "This is Miya\u2019s core late-game damage skill. After using it, Miya\u2019s basic attacks will deal damage to three targets. This skill can help Miya to deal heavy AoE damage in team fights. This skill benefits greatly from physical attack obtained through items, so you should only upgrade it to level 1 in the early game, until you get some gear."
+        },
+        "second_skill": {
+            "name": "Rain of Arrows",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UOSAO9buAABLcr9f_tM463.png",
+            "tips": "This circular slowing skill has a large range, and after hitting an enemy four times, the target will be frozen. Combine this with other teammates\u2019 control skills to leave your enemy feeling hopeless. This is Miya\u2019s main damage and wave-clearing skill in the early game, and is therefore a priority when upgrading skills."
+        },
+        "ultimate": {
+            "name": "Turbo Stealth",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UXCAJWAQAABUYCsPT90079.png",
+            "tips": "This displacement skill removes all control effects from Miya and puts her into stealth, significantly enhancing her survivability in team fights. When the enemy team suddenly launches an attack in the late game, Miya can retreat and find a safer position to attack from."
+        }
+    }
+}

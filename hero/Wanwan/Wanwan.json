@@ -1,0 +1,33 @@
+{
+    "name": "Wanwan",
+    "type": "Marksman",
+    "story": "In the south of the Cadia Riverlands lies a picturesque land where the civilization of Ba and Shu lived. \u201cThe Land of Abundance\u201d was what the natives called this place. Tangmen, a faction that was known for their hidden weapons and skilled craft, originated from this land. However, Tangmen\u2019s new leader found that many people often used Tangmen\u2019s crafts and hidden weapons to do evil, which was running against his will. Because of that, he decided to disband his faction and exiled himself to the forest, in a place of solitude with his daughter. Since birth, Wanwan lived together with her father. The forest was her home and she spent a lot of time hunting and training there. On her fifth birthday, her father gave her a set of needles as a birthday gift that was made from a particular silver found at the bottom of the sea. That day, he also revealed the history of Tangmen to her. This set of Needles was a valuable and secret weapon created by Tangmen, which consisted of a total of 81 needles. Tangmen\u2019s skilled craft forged the Needles into a lethal weapon, killing anyone who dared to challenge its power. Wanwan\u2019s father told her to use the weapon only if she was in danger. That\u2019s the first lesson her father taught her. One day, Wanwan and her father found Black Dragon at the bottom of a cliff. It is the first time that Wanwan saw a person who was injured so badly and she couldn\u2019t bear to leave him alone. With the help of her father, she carried the Black Dragon to their home and took care of him. The Black Dragon was moved by this kind-hearted girl and opened his mind to her. He spent many hours with the young girl, telling her his story, his dream, and his ambition, teaching her how to become more powerful. However, the Black Dragon left Wanwan a few months later without leaving any word, which made Wanwan sad for a long time. Ten years later, Wanwan grew up. Her skills with the darts became more pronounced, being able to split a drop of dew a hundred steps away into 2 with a single dart. Her father told her not to show her formidable skills to others and to keep away from trouble. But Wanwan was too curious and she wanted to travel the world. On the day Wanwan started her journey, her father gave her the most precious craft of Tangmen \u2013 the Crossbow of Tang, which could launch a rain of arrows to attack the enemy, and its power could scale along with the power of the handler. At the beginning of her journey, Wanwan heard a piece of astonishing news - The Black Dragon wanted to destroy the Dragon Altar and dominate the Cadia Riverlands. Wanwan couldn\u2019t believe that the once closest friend would do such a thing. She decided to find the Black Dragon and seek out the truth.",
+    "status": {
+        "durability": "78",
+        "offense": "88",
+        "ability_effect": "31",
+        "difficulty": "87"
+    },
+    "skills": {
+        "passive": {
+            "name": "Tiger Pace",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/9A/Cq2Ixl3c9JeAA015AABYtVI3gJQ563.png",
+            "tips": "Since she could move a short distance after attacking, she could easily dodge damage from the enemies and poke them while dealing damage."
+        },
+        "first_skill": {
+            "name": "Swallow\u2019s Path",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/9A/Cq2Ixl3c9GyAXO_0AABcF3c3sw4632.png",
+            "tips": "With this skill, Wanwan could deal damage to enemies and control them. As the Fire Swallow could return to Wanwan, she could quickly hit the Weaknesses of the enemies from their back."
+        },
+        "second_skill": {
+            "name": "Needles in Flowers",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/9A/Cq2Ixl3c9HeAWJkRAABT-l6lgZw452.png",
+            "tips": "The ability of removing all CC greatly increases Wanwan\u2019s chances of survival in battles."
+        },
+        "ultimate": {
+            "name": "Crossbow of Tang",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/9A/Cq2Ixl3c9IGAAUHNAABYdevsq0o670.png",
+            "tips": "The Burst Damage and the invincibility brought by the Skill make Wanwan unbeatable when she fights alone and also in team fight."
+        }
+    }
+}

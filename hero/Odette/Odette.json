@@ -1,0 +1,33 @@
+{
+    "name": "Odette",
+    "type": "Mage",
+    "story": "To the south of the Moniyan lies a sapphire like a speck admist the misty mountains. It is the Swan Lake, named after the beautiful yet authoritative Swan Castle that lies on the lake's shores. Many years ago the Regina family fled from the empire's capital to the lake in order to escape political conflicts and erected a Swan-like castle. According to legend, when Odette, the thirteenth generation scion was born, swans flocked to the castle to pay their respects. Princess Odette is said to have a contagious smile, leading people to say she is a goddess in human form. In order to match the praise that people have piled on her, Windor mastered the most difficult of noble magic. Despite being universally admired, Odette was lonely until chance brought her to Lancelot, whose wounds had led him to faint on the lakeshore. During Lancelot's recovery, the two soon developed a deep unconditional love.",
+    "status": {
+        "durability": "92",
+        "offense": "42",
+        "ability_effect": "37",
+        "difficulty": "62"
+    },
+    "skills": {
+        "passive": {
+            "name": "Lakeshore Ambience",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7loWAXHRXAABKYt5-dd4805.png",
+            "tips": "Because passive skills can be processed through ordinary skills, it is good to use when enemies are in close position to each other to be more effective."
+        },
+        "first_skill": {
+            "name": "Avian Authority",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7lnOADqugAABRr_Zata8289.png",
+            "tips": "Focusing energy to summon a swan that attack enemies, deals magic damage and reduce their movement speed."
+        },
+        "second_skill": {
+            "name": "Blue Nova",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7lnmASOguAABOtbnV2G4799.png",
+            "tips": "Shoots a Magic Energy Ball forward, deals magic damage to the enemy and Immobilize them. After the ball reaches between the maximum distance or the target, two additional Energy Balls will attack sideways, deals magic damage and bind the affected enemy.<br>Calculating the distance of a Skill attack will make you attack enemies better.<br>Attack enemies with separate Energy Balls."
+        },
+        "ultimate": {
+            "name": "Swan Song",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7loCACBfzAABRDm_OLm0800.png",
+            "tips": "Utilize the damage reduction effect received to place yourself in the right area to be able to produce maximum damage during the Ultimate.<br>Use Flicker to surprise the enemy."
+        }
+    }
+}

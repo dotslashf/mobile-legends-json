@@ -1,0 +1,33 @@
+{
+    "name": "Karina",
+    "type": "Assassin",
+    "story": "The ancestors of the Dark Elves were once noble Moon Elves, but the temptation of dark magic eventually subverted them, causing them to abandon their faith. The Moon Elves who turned their backs on the light lost the blessing of the Moon God, and were gradually eroded from within by dark energy, with their skin becoming ashen and devoid of light. The Dark Elves, who make a living by providing assassination services for other races, are born assassins able to use dark energy with ease. Karina is one of the best among them, and her assassination tasks were always carried out to perfection. But as the Dark Elves sank deeper into the clutches of darkness, the most fanatical of them even sacrificed their own people to the demons of the Shadow Abyss in exchange for dark energy. As Karina watched these events transpire, she became filled with anxiety and confusion, and when her beloved sister, Selena, was chosen as the next sacrifice, Karina decided she could no longer stand idly by. She would never allow the demons to hurt her sister. She fought off her own people with her twin shadow blades, but even Karina could not resist the siege of the Dark Elves. Beaten to the brink of death, Karina watched as her sister was taken away by the envoys of the Shadow Abyss. Powerless, she felt her vision gradually blurring as her younger sister's cries became more and more distant. Sorrow and despair filled Karina's heart. She prayed to all the gods she knew of, but to no avail. The Dark Elves raised their swords to end Karina's life, but were shocked to discover a dim blue glow radiating from the twin shadow blades in her hands. Although they had abandoned him for thousands of years, the Mood God still watched over the Elves, and granted Karina his blessing in her time of need. The Dark Elves could not believe what was happening before their eyes, and they chose to flee. A soft and gentle power trickled down from Karina's twin blades and into her body, dissipating the dark energy within her and healing her wounds. Karina stood up and vowed to turn from her dark past. From that day on, and enraged by the pain of losing her sister, no demon would escape the retribution of her moonshadow blades.",
+    "status": {
+        "durability": "50",
+        "offense": "85",
+        "ability_effect": "37",
+        "difficulty": "65"
+    },
+    "skills": {
+        "passive": {
+            "name": "Combo Hit",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U6uAcTcrAABTFeUSfgM945.png",
+            "tips": "This is Karina's key skill for securing kills, due to it doing more damage to low health targets. The true damage effect ignores the enemy's physical and magical resists."
+        },
+        "first_skill": {
+            "name": "Elusiveness",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U5CAVoG2AABii04ldd0109.png",
+            "tips": "This first skill have OP effects, speed increases, enhanced basic attack with guaranteed crits and slows. No matter if you're escaping or pursuing, this skill is useful. The penetrating basic attack's extra effects can be used to deal devastating damage. Kills and assists will also substantially reduce this skill's cooldown, making this another one of Karina's core clean up abilities."
+        },
+        "second_skill": {
+            "name": "Dance of Death",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U5uAJK5kAABbV_lYc9U540.png",
+            "tips": "AoE damage, mainly used in the early game to quickly proc your passive effect, max this last."
+        },
+        "ultimate": {
+            "name": "Shadow Assault",
+            "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U6KANVH-AABcuiEz2Rg261.png",
+            "tips": "Mobility skill, during team fights use this carefully, for using it incorrectly will make you lose your escape. Use it when you know you can get the skill, don't hesitate when using. Kills will refresh the cooldown, while assists will substantially reduce the cooldown allowing Karina to finish off enemies continually with burst damage."
+        }
+    }
+}
