@@ -24,7 +24,7 @@ mccabe==0.6.1
 mysql-connector-python==2.1.6
 mysql-utilities==1.6.4
 olefile==0.45.1
-paramiko==2.0.0
+paramiko==2.0.9
 pexpect==4.2.1
 Pillow==5.1.0
 powerline-status==2.6
