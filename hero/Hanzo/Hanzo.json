@@ -12,21 +12,25 @@
         "passive": {
             "name": "Ame no Habakiri",
             "icon": "https://img.mobilelegends.com/group1/M00/00/6B/Cq2IxlwPgVyAboD-AABLB1lTw94531.png",
+            "desc": "",
             "tips": " Even when Hanzo is in a defensive status, he can also recover Demon Blood depending on his Passive. The sufficiency of Demon Blood is a must for Hanzo to perform attack or escape."
         },
         "first_skill": {
             "name": "Ninjutsu: Demon Feast",
             "icon": "https://img.mobilelegends.com/group1/M00/00/6A/Cq2IxlwPgTmAHzscAABQ0Uid6qw081.png",
+            "desc": "",
             "tips": "This skill provides powerful jungling ability for Hanzo. If the Attack Speed is fast enough, each attack of Hanzo can unlock two stacks."
         },
         "second_skill": {
             "name": "Ninjutsu: Soul Reap",
             "icon": "https://img.mobilelegends.com/group1/M00/00/6A/Cq2IxlwPgUSAIdrvAABPqDR2z1s455.png",
+            "desc": "",
             "tips": "This skill ensures the laning ability of Hanzo, try to make full use of it when Hanzo takes back the area in order to obtain Demon Blood faster"
         },
         "ultimate": {
             "name": "Kinjutsu: Pinnacle Ninja",
             "icon": "https://img.mobilelegends.com/group1/M00/00/6A/Cq2IxlwPgVKABx6WAABJww-cEl4961.png",
+            "desc": "",
             "tips": "Try to hide Hanzo's body in the safe area. When facing Hanzo, to find his body and kill him is also a good way to counter him."
         }
     }

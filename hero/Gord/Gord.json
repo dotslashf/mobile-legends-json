@@ -12,21 +12,25 @@
         "passive": {
             "name": "Mystic Favor",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cRyADJ8dAAA5NT-KwQ4797.png",
+            "desc": "Dealing 4 hits of basic attack or skill damage to the same target, within a short period of time, grants a bonus of 160 points of True Damage on the next attack. ",
             "tips": "Selalu berlatih agar semua Skill dapat pas mengenai lawan, meskipun sulit namun Gord adalah Hero berbahaya yang dapat memberikan Damage terbesar pada musuh."
         },
         "first_skill": {
             "name": "Mystic Projectile",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cPqAaBx1AABWt-z4eFc735.png",
+            "desc": "",
             "tips": "Skill 1 usahakan musuh terkena tepat dari lingkaran bola Gord karena ketika tepat musuh akan terkena Stun dan Damage lebih, selalu arahkan kemana musuh akan berada karena musuh juga akan selalu bergerak."
         },
         "second_skill": {
             "name": "Mystic Injunction",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cQKAJie2AABL_Ldu6e0220.png",
+            "desc": "",
             "tips": "Gunakan skill ini selain untuk mencicil HP lawan juga bisa dengan cepat membuat Lane-mu bersih dari Creep lawan."
         },
         "ultimate": {
             "name": "Mystic Gush",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cQmADqp_AABFAM3So0Y108.png",
+            "desc": "",
             "tips": "Berlatihlah agar Skill ini mengenai semua lawan, karena ketika War kita bisa menggunakannya untuk mencicil HP lawan atau juga membersihkan Lane. Namun gunakan dengan bijak dan ketika memang Skill harus di Cancel, maka kamu dapat meng-cancel Ulti dengan meng-klik Skill 3 lagi."
         }
     }

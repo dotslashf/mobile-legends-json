@@ -12,21 +12,25 @@
         "passive": {
             "name": "Malefic Gun",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VcKARbCyAABiuT4w5KY212.png",
+            "desc": "",
             "tips": "Keep a long distance from your foe if you want to beat your foes easily. This is quiet useful for her by the way."
         },
         "first_skill": {
             "name": "Malefic Bomb",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VZyAXSLoAABswL97-yo410.png",
+            "desc": "",
             "tips": "This skill can shoot in a straight target. This is perfect if you want to slowly cut down your foe. But take note that you will need to use this skill wisely."
         },
         "second_skill": {
             "name": "Void Projectile",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VaaAWT9AAABUPyksXLY278.png",
+            "desc": "",
             "tips": "The Range of this skill will surely increase whenever the skill is being upgraded. This is totally useful when you want to slow your opponent's movement speed when pursuing it."
         },
         "ultimate": {
             "name": "Destruction Rush",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VbGAGUl0AABe6w9Ncog942.png",
+            "desc": "",
             "tips": "The beams can go through walls or rocks. So this is useful if you are stealing your teammate's kills. Just joking. You can use this to reduce your foe's HP greatly. Whenever the skill is upgraded, its basic attack range or basic attack distance will be increased by 0.4%. Use this wisely."
         }
     }

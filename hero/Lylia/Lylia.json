@@ -12,21 +12,25 @@
         "passive": {
             "name": "Angry Gloom",
             "icon": "https://img.mobilelegends.com/group1/M00/00/8E/Cq2Ixl039mGAeWCbAABUZIKHAcw933.png",
+            "desc": "Lylia gets power from Gloom, increasing her Movement SPD by 15%. Each Gloom upgrade further increases this bonus by 5%.####Gloom gains an upgrade every time he devours Shadow Energy, up to 5 times. Gloom upgrade increases the detonation damage of Shadown Energy.",
             "tips": "Lylia gets power from Gloom, increasing her Movement Speed. Each time Gloom levels up, she will increase extra Movement Speed. Gloom will increase his levels by devouring Shadow Energy. Up to 5. The higher his level is, the more damage he can deal."
         },
         "first_skill": {
             "name": "Magic Shockwave",
             "icon": "https://img.mobilelegends.com/group1/M00/00/8E/Cq2Ixl039nSAKQaqAABSamNDLkU283.png",
+            "desc": "Lylia sends out Gloom with a shockwave, dealing 250/300/350/400/450/500 Magic Damage to enemies in a line and slowing them by 40%/40%/40%/40%/40%/40% for 1.5/1.5/1.5/1.5/1.5/1.5s.####If Gloom touches Shadow Energy, he will devour and detonate it.",
             "tips": "Lylia releases an attack wave ahead, dealing Magic Damage to enemies on the path and slowing them down. Gloom will hitch a ride on Magic Shockwave. If Gloom touches Shadow Energy, he will devour it and immediately detonate the energy."
         },
         "second_skill": {
             "name": "Shadow Energy",
             "icon": "https://img.mobilelegends.com/group1/M00/00/8E/Cq2Ixl039ouAIhycAABT2pC9y6k281.png",
+            "desc": "Lylia condenses Shadow Energy at the target location, dealing 100/110/120/130/140/150/160 Magic Damage to enemies hit and slowing them by 80%/80%/80%/80%/80%/80%/80%.####Shadow Energy can be detonated by Gloom's devour, dealing 250/275/300/325/350/375/400 Magic Damage to the enemies nearby. Each Gloom upgrade increases the detonation damage by 30%/30%/30%/30%/30%/30%/30%, up to 120%/120%/120%/120%/120%/120%/120%.####Lylia starts with the skill Shadow Energy.",
             "tips": "Lylia condenses Shadow Energy to the designated area, dealing Magic Damage to enemies nearby and slowing them down. After Gloom devours Shadow Energy, he will detonate the energy and deal Magic Damage to enemies nearby. Each time Gloom upgrades himself, the damage dealt by Shadow Energy will be increased. Lylia was born to have the ability to use Shadow Energy."
         },
         "ultimate": {
             "name": "Black Shoes",
             "icon": "https://img.mobilelegends.com/group1/M00/00/8E/Cq2Ixl039paAWypFAABVH-YOKiw301.png",
+            "desc": "Lylia returns to where the Black Shoes were 4/4/4s ago and restores all Shadow Energy charges, regenerating 10%/15%/20% of her Max HP and increasing her Movement Speed by 20%/20%/20% for 2/3/4s.",
             "tips": "Lylia immediately returns to the position where the Black Shoe was 4s ago and stacks max times to use Shadow Energy, regenerating a certain amount of HP and increasing her Movement Speed."
         }
     }

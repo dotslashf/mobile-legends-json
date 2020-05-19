@@ -12,21 +12,25 @@
         "passive": {
             "name": "Steel Bones",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7d56AEbO7AABNp0-euls744.png",
+            "desc": "",
             "tips": "Skill regenerasi utama Anda. Steel Bones membuat Gatotkaca bisa bertahan di Lane lebih lama dan lebih sering melakukan Tanking. Dengan Skill ini walaupun HP Anda di bawah 50%, Anda tidak perlu takut untuk maju dan menahan serangan dari lawan saat sekutu Anda ingin menghabiskan atau mengejar lawan."
         },
         "first_skill": {
             "name": "Blast Iron Fist",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7d2uAQlU2AABFElrrgeA753.png",
+            "desc": "",
             "tips": "Arahkan skill 1 ke lawan agar lawan mendapatkan damage dan efek slow."
         },
         "second_skill": {
             "name": "Unbreakable",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7d4-AS6erAABMGZPEUac024.png",
+            "desc": "",
             "tips": "Gunakan skill 2 ini dengan bijak, terlalu dekat dengan musuh pun bisa membuat skill 2 gatot ini menjadi skill bunuh diri untuknya."
         },
         "ultimate": {
             "name": "Avatar of the Guardian",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7d5eAMFLIAABWMnrPzFI953.png",
+            "desc": "",
             "tips": "Hati-hati pada saat menggunakan skill ultimate karena musuh yang memiliki Crowd Control dapat menggagalkan Ultimate gatot ( walaupun hanya memperlambatnya mengeluarkan Ultimate ).<br>Maka agar tidak digagalkan, Gatot dapat bersembunyi di semak-semak atau menggunakannya jauh dari musuh dan mengarahkannya tepat ke arah lawan, <br>Skill ini juga dapat digunakan untuk mengejar lawan atau membantu Gatot melarikan diri."
         }
     }

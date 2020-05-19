@@ -12,21 +12,25 @@
         "passive": {
             "name": "Tiger Pace",
             "icon": "https://img.mobilelegends.com/group1/M00/00/9A/Cq2Ixl3c9JeAA015AABYtVI3gJQ563.png",
+            "desc": "Wanwan reveals the Weakness and the position of enemy Heroes hit by her weapons. She deals True Damage equal to 2.5% of the targets' Max HP when hitting their Weaknesses. If she hits all Weaknesses of the target, she will increase the damage dealt to the target by 30% in 6s.####Wanwan can move a short distance when she throws a Sleeve Dart. The speed of this movement scales with the attack speed.",
             "tips": "Since she could move a short distance after attacking, she could easily dodge damage from the enemies and poke them while dealing damage."
         },
         "first_skill": {
             "name": "Swallow\u2019s Path",
             "icon": "https://img.mobilelegends.com/group1/M00/00/9A/Cq2Ixl3c9GyAXO_0AABcF3c3sw4632.png",
+            "desc": "Wanwan throws a Fire Swallow in a designated direction, dealing 100/120/140/160/180/200 Physcial Damage to enemies along the path and triggering Tiger Pace. For every several seconds, Wanwan retrieves a Swallow Dagger from the Fire Swallow, dealing 60/72/84/96/108/120 Physical Damage to enemies in its path and slowing them by 30%/30%/30%/30%/30%/30% for 1.5/1.5/1.5/1.5/1.5/1.5s. The enemy hit by the Swallow Dagger twice will be stunned for 0.5/0.5/0.5/0.5/0.5/0.5s.",
             "tips": "With this skill, Wanwan could deal damage to enemies and control them. As the Fire Swallow could return to Wanwan, she could quickly hit the Weaknesses of the enemies from their back."
         },
         "second_skill": {
             "name": "Needles in Flowers",
             "icon": "https://img.mobilelegends.com/group1/M00/00/9A/Cq2Ixl3c9HeAWJkRAABT-l6lgZw452.png",
+            "desc": "Wanwan removes all CC from herself immediately, triggers \"Tiger Pace\" and looses deadly needles to nearby enemies, dealing 150/170/190/210/230/250 Physical Damage.",
             "tips": "The ability of removing all CC greatly increases Wanwan\u2019s chances of survival in battles."
         },
         "ultimate": {
             "name": "Crossbow of Tang",
             "icon": "https://img.mobilelegends.com/group1/M00/00/9A/Cq2Ixl3c9IGAAUHNAABYdevsq0o670.png",
+            "desc": "Wanwan activates her crossbow and shoots arrows at enemies for 2.5/2.5/2.5s. Each arrow deals 60/75/90 Physical Damage. While the crossbow is activated, if Wanwan kills an enemy hero, she will switch to attacking another target, activate her crossbow for extra 1/1/1s, and increase her Attack Speed by 30%/30%/30% (capped at 3/3/3 times). When Wanwan takes back her crossbow or kills an enemy hero, \"Tiger Pace\" will be triggered.########\"Crossbow of Tang\" can only be cast when an enemy's Weaknesses are all hit.####The shooting of \"Crossbow of Tang\" will be regarded as Basic Attack. And the amount of the arrows she shoots scales with her Attack Speed.",
             "tips": "The Burst Damage and the invincibility brought by the Skill make Wanwan unbeatable when she fights alone and also in team fight."
         }
     }

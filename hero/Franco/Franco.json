@@ -12,21 +12,25 @@
         "passive": {
             "name": "Wasteland Force",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6VAWABN_5AABbqkHZHS4571.png",
+            "desc": "",
             "tips": "Wasteland Force adalah Skill pasif yang membuat Franco menjadi Ganker sekaligus Tank yang menakutkan. Pasif ini membuat Anda bertahan lebih lama di Lane dan memudahkan Anda untuk mengambil posisi dengan baik di dalam semak-semak."
         },
         "first_skill": {
             "name": "Iron Hook",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U9qAQRAjAABYOXOLHLI610.png",
+            "desc": "",
             "tips": "Skill ini adalah Skill yang paling mengerikan dari Franco. Umumnya bila berhasil menarik lawan ke arah teman satu tim Anda, kemungkinan besar akan membunuh lawan yang tertarik tersebut. Hanya saja Skill ini tidak mudah untuk digunakan."
         },
         "second_skill": {
             "name": "Fury Shock",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U-aAChlwAABRtkMIBwA324.png",
+            "desc": "",
             "tips": "Fury Shock adalah Skill AOE yang memiliki efek Slow. Skill ini dapat digunakan untuk membersihkan Lane atau mencegah lawan untuk melarikan diri setelah tertarik oleh Hook Franco."
         },
         "ultimate": {
             "name": "Bloody Hunt",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U_GAfS3BAABXi6kzYBU515.png",
+            "desc": "",
             "tips": "Brutal Massacre juga merupakan Skill Follow Up yang digunakan setelah berhasil menarik lawan dengan Hook Anda. Skill ini memiliki efek Stun yang dapat mencegah lawan melarikan diri atau memberikan waktu kepada teman satu tim Anda untuk menghabisi lawan yang terkena Stun dari Brutal Massacre."
         }
     }

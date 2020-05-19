@@ -12,21 +12,25 @@
         "passive": {
             "name": "Vicious Retrieval",
             "icon": "https://img.mobilelegends.com/group1/M00/00/88/Cq2IxlzmpR2ARjYHAABCy7ICO3I832.png",
+            "desc": "When units die near Faramis, they leave their souls at the spot. By retrieving the souls, Faramis recover HP by 150 points. Each soul shortens Faramis's resurrecting time by 5%~7% (Up to 90% and scales with level).",
             "tips": "The main regeneration skill for Faramis. He can collect souls nearby to restore himself. Meanwhile, the souls he collects will shorten the time of his next respawn so that he can come back to the battlefield quickly."
         },
         "first_skill": {
             "name": "Shadow Stampede",
             "icon": "https://img.mobilelegends.com/group1/M00/00/88/Cq2IxlzmpPGASDOgAABZOGSEZ28159.png",
+            "desc": "Faramis enters the Shadow State, increasing Movement Speed by 70%/70%/70%/70%/70%/70% and 50/60/70/80/90/100 points of Physical and Magic Defense for 3/3/3/3/3/3s. Faramis leaves the Mark of Shadow to enemy heroes that come into contact with him and deals 325/370/415/460/505/550 points of Magic Damage. When he quits the Shadow State, all the enemy heroes that have been marked will be pulled to Faramis and take 325/370/415/460/505/550 points of Magic Damage. Meanwhile, he restores 160/200/240/280/320/360 points of HP.",
             "tips": "A skill used to start a team fight. Cast this skill with Flicker or Sprint. Join the battle and stack advantages."
         },
         "second_skill": {
             "name": "Ghost Bursters",
             "icon": "https://img.mobilelegends.com/group1/M00/00/88/Cq2IxlzmpPqAIIgyAABV7nFttRI874.png",
+            "desc": "Faramis extracts a burst of Evil Spirits in a fan-shaped area in front of him. The outburst deals 330/366/402/438/474/510 points of Magic Damage, then the burst splits to deal extra 275/305/335/365/395/425 points of Magic Damage. (Splits up to 3 times on enemy heroes and up to 1 on non-hero units.)",
             "tips": "Core damage skill. The outburst can split so use this skill when there are multiple enemy units. With Shadow Stampede, Faramis can pull multiple targets together and deal high split damage."
         },
         "ultimate": {
             "name": "Cult Altar",
             "icon": "https://img.mobilelegends.com/group1/M00/00/88/Cq2IxlzmpQaAPOTCAABMRxfI7no018.png",
+            "desc": "Faramis summons an altar that lasts 10/10/10 seconds. Allied heroes who are eliminated within this altar will immediately resurrect, obtaining 80%/90%/100% HP and 100%/100%/100% Attack. The resurrecting lasts up to 10/10/10 seconds. ",
             "tips": "Good choice for team fights. Cast this skill no matter who is dying to protect teammates and himself. Faramis and his teammates can also deal great damage during this time."
         }
     }

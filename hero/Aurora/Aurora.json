@@ -12,21 +12,25 @@
         "passive": {
             "name": "Pride of Ice",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7dnGAePBpAABG4X5YKZg505.png",
+            "desc": "",
             "tips": " Spam frost shock & bitter frost (Be sure to hit minions in order not to waste your skills) until you get the passive skill (The Pink Ice). Once collected, any of your skills can freeze the target. Be sure to hit frozen enemies with your skills to deal extra magic damage. Best skill to be used after collecting the passive skill is the Coldness Destroy. It has wide AOE that can freeze almost 5 of your enemies.<br>"
         },
         "first_skill": {
             "name": "Frost Shock",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7dliATlKbAAA5I2LrQUQ053.png",
+            "desc": "",
             "tips": "Best skill to slow down your enemies. It has a long range that you can use to stay defensive. Use this skill to slow down fleeing enemies and assist your team during team fights."
         },
         "second_skill": {
             "name": "Bitter Frost",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7dmCAczY_AABJLnNRG4U027.png",
+            "desc": "",
             "tips": "This skill has a mini stun due to its 80% slow down effect on movement speed of the target. You can also use this skill after freezing an enemy as finishing move due to its high magic damage. This skill can be used to aid teammates with no stun skills during team fights."
         },
         "ultimate": {
             "name": "Cold Destruction",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7dmqAWY9XAABJtO2vLWw914.png",
+            "desc": "",
             "tips": "When in passive mode, it has wide AOE that can freeze up to 5 enemies. Aim this skill accurately to harass enemies. Use this skill as a finishing move. With its high magic damage you can land a Savage in a single blow.<br>"
         }
     }

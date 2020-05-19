@@ -12,21 +12,25 @@
         "passive": {
             "name": "Electro-airbag",
             "icon": "https://img.mobilelegends.com/group1/M00/00/01/Cq2Ixlp0XpyAYeVNAABY0Pcd3cg6853960",
+            "desc": "",
             "tips": ""
         },
         "first_skill": {
             "name": "Deadly Pincers",
             "icon": "https://img.mobilelegends.com/group1/M00/00/01/Cq2Ixlp0XnyACoqqAABW_lYzk8A5060072",
+            "desc": "",
             "tips": ""
         },
         "second_skill": {
             "name": "Electromag Rays",
             "icon": "https://img.mobilelegends.com/group1/M00/00/01/Cq2Ixlp0XoeACaS9AABW0_TP1f87380135",
+            "desc": "",
             "tips": "As you can continue using basic attacks while this skill is active, you can use basic attacks to adjust this skill's direction, and thus greatly increase its hit rate."
         },
         "ultimate": {
             "name": "Rapid Touchdown",
             "icon": "https://img.mobilelegends.com/group1/M00/00/01/Cq2Ixlp0XpOANlZWAABlRTOQ-gc9587967",
+            "desc": "",
             "tips": "Take full advantage of Johnson's car form to gank often. You can also carry a teammate with you to steal the enemy's base."
         }
     }

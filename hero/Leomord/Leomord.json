@@ -12,21 +12,25 @@
         "passive": {
             "name": "The Oath Keeper",
             "icon": "https://img.mobilelegends.com/group1/M00/00/5C/Cq2IxluwyiuAZIcCAABKovrM1yo375.png",
+            "desc": "",
             "tips": "Passive effects make it easy for Leomord to finish off low-HP units. Making good use of 2 other skills in the mounted state, and Leomord could cut into fights and reduce enemies\u2019 HP to below 30% and slay them with basic attacks in combination with skill \u201cInspire\u201d."
         },
         "first_skill": {
             "name": "Momentum",
             "icon": "https://img.mobilelegends.com/group1/M00/00/5C/Cq2IxluwygOAfK83AABMG1-Npn4069.png",
+            "desc": "",
             "tips": "The main DPS skill for human state Leomord takes a long time to charge but could be released early to ensure high hit rate. The shield gained by releasing the skill is surprising useful during a tight match or when Leomord is low in health."
         },
         "second_skill": {
             "name": "Decimation Assault",
             "icon": "https://img.mobilelegends.com/group1/M00/00/5C/Cq2IxluwyhOAN6AbAABbJOsu_5Q447.png",
+            "desc": "",
             "tips": "Human state skill 2 and mounted state skill 2 are both teleport skills but they don\u2019t share CD. Take advantage of this and Leomord could teleport twice when summoning Barbiel with the ultimate, making it possible to cut into fights quicker."
         },
         "ultimate": {
             "name": "Phantom Steed",
             "icon": "https://img.mobilelegends.com/group1/M00/00/5C/Cq2IxluwyhyAdA2hAABT_8whljg218.png",
+            "desc": "",
             "tips": "This is the strongest skill of Leomord. Mounting on Barbiel makes him incredibly strong. Barbiel could even knocks back enemies when running. But make sure Leomord comes in contact with Barbiel, otherwise the bonus will not be triggered."
         }
     }

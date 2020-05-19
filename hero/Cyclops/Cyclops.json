@@ -12,21 +12,25 @@
         "passive": {
             "name": "Starlit Hourglass",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7ctaAP38TAABM5qspUKI355.png",
+            "desc": "",
             "tips": "His passive allows all his skills to reduce 0.5 seconds upon hitting an enemy. <br>This passive is really strong and a cooldown+magic damage build will make Cyclops really Over Powered."
         },
         "first_skill": {
             "name": "Stardust Shock",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7crqACgQsAABKHJPmQp0978.png",
+            "desc": "",
             "tips": "Use his first skill on creeps. This skill is mostly used for killing creeps/minions and killing running enemies. <br>Cyclops will shoot out planets to the specified target dealing the target 210 magic pts at the start. <br>Using this skill while clashing with enemies will reduce all skill cooldown allowing you to use your second skill faster as well as trapping running enemies with your ultimate."
         },
         "second_skill": {
             "name": "Planets Attack",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7csWAFBWMAABQtYMKW7U643.png",
+            "desc": "",
             "tips": "This is the most powerful skill Cyclops has. Planets will start to surround Cyclops making nearby enemies target and dealing 210 damage pts each planet. <br>This is mostly used for finishing off enemies and damaging them. This is also used to and commonly used to stop/trap enemies from running away.<br>"
         },
         "ultimate": {
             "name": "Star Power Lockdown",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cs6AOM1KAABS-cmQ0YA482.png",
+            "desc": "",
             "tips": "As said in the first skill this is used to trap running enemies or just enemies. <br>Allowing you or your teammate to kill your enemy or simply finish them off if they have a low amount of health for this skill will follow wherever the enemy goes. <br>This can be countered by many heroes now so don't be too shabby while in a match."
         }
     }

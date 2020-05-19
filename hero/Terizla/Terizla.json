@@ -12,21 +12,25 @@
         "passive": {
             "name": "Body of Smith",
             "icon": "https://img.mobilelegends.com/group1/M00/00/8B/Cq2Ixlz-OeyAK6DIAABTm8Cra58688.png",
+            "desc": "Every 2.5% of Terizla's HP lost will be converted to 1% Damage Reduction (up to 35%). ####Terizla's Attack Speed can not be increased. Per 1% extra Attack Speed will be transformed into 1 points of Physical Attack.",
             "tips": "\"Terizla's lost HP will be converted to a limited amount of Damage Reduction. His Attack Speed can't be increased. Every 1% increase in Attack Speed will be converted to Physical Attack. <br>The lower the HP of Terizla, the more damage resistant he becomes. This could enable him to draw fire more effectively in team offensives. \"<br>"
         },
         "first_skill": {
             "name": "Revenge Strike",
             "icon": "https://img.mobilelegends.com/group1/M00/00/8B/Cq2Ixlz-Of-AHxtxAABWXXBasX4077.png",
+            "desc": "Terizla cracks the ground with his hammer and the fissure will spread out, dealing 300/330/360/390/420/450 points of Physical Damage. After the fissure hits the first target, it will drill into the target and slow them by 30%/30%/30%/30%/30%/30%. At the same time, Terizla's Movement Speed will be increased by 25%/28%/31%/34%/37%/40%. Lasts 3/3/3/3/3/3s. The fissure on target will then explode, dealing 300/330/360/390/420/450 and 20%/20%/20%/20%/20%/20% points of Physical Damage of that enemy's lost HP.",
             "tips": "Terizla smashes the ground with his hammer, causing a fissure with cracks that spreads out and deals Physical Damage to enemies in contact with it. The first enemy in contact with the fissure will suffer a loss in Movement Speed, while Terizla gains an increase in Movement Speed. The affected enemy will then suffer an explosion with Physical Damage equal to 10% of the enemy's lost HP. <br>This is a poke skill as Terizla's Movement Speed increases while the enemy's Movement Speed decreases, enabling Terizla to easily escape or chase the enemy. "
         },
         "second_skill": {
             "name": "Execution Strike",
             "icon": "https://img.mobilelegends.com/group1/M00/00/8B/Cq2Ixlz-Og2Aa7e8AABL-_0Khjs284.png",
+            "desc": "Terizla swings the hammer in sector area and releases his energy for 3/3/3/3/3/3 times continuously (Move the joystick to change the position while swinging). The first 2 times he will deal 180/210/240/270/300/330 points of Physical Damage to enemies. The 3rd time he will deal 225/270/315/360/405/450 points of Physical Damage to enemies and slow them by 15%/15%/15%/15%/15%/15%. This slow effect can be stacked. Lasts 1.5/1.5/1.5/1.5/1.5/1.5s.",
             "tips": "\"Terizla swings the hammer in a fan-shaped area, which could be dealt 3 times for Physical Damage. The first 2 times will deal Physical Damage to enemies while the 3rd time will deal increased Physical Damage with a Movement Speed slowing effect. This slowing effect could be stacked. <br>Execution Strike is Terizla's main offensive skill as it deals tremendous damage to enemies. This skill can be manually controlled to better afflict damage, which could be enhanced when combined with Revenge Strike or Sprint.\"<br>"
         },
         "ultimate": {
             "name": "Penalty Zone",
             "icon": "https://img.mobilelegends.com/group1/M00/00/8B/Cq2Ixlz-OhyAOeNcAABTJjCXdJY212.png",
+            "desc": "Terizla jumps to the designated area to smash down, causing 300/400/500 points of Physical Damage and slowing enemies by 20%/25%/30%. Meanwhile, he summons Scaffold, which will reach out a hook to the enemies and pull the target for several times, causing 150/200/250 points of Physical Damage each time.",
             "tips": "\"Terizla leaps into a designated area, causing Physical Damage and slowing down enemies caught in the blast. Then, he summons the Guillotine several times to pull enemies in while causing Physical Damage. <br>This skill could be useful in Team Fights or in solo combat. However, the timing must be carefully measured as it comes with a long cast time. As this skill has a strong control effect, it could be combined with Execution Strike to deal extreme damage. \"<br>"
         }
     }

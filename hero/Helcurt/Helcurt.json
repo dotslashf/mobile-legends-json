@@ -12,21 +12,25 @@
         "passive": {
             "name": "Race Advantage",
             "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2IxlplgciAGMOWAABVZfFU3ZE6085106",
+            "desc": "Targets casting skills around Shadowbringer are silenced for 1.5/1.5/1.5s if their skills deal damage to him. This effect has a CD of 4/4/4s on one target.",
             "tips": "A very sick passive skill. This allows Helcurt to take damage from skills and silenced targets. P.S: Hitting by a long ranged skill will not trigger this passive!"
         },
         "first_skill": {
             "name": "Shadow Transition",
             "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2IxlplgY-ARJ5YAABW7ng572A6491218",
+            "desc": "Helcurt teleports to the target location and deals 150/180/210/240/270/300 points of Physical Damage to enemies within the area, silencing them for 1.5/1.5/1.5/1.5/1.5/1.5s.########Using this skill after Dark Night Falls will also inflict an extra Slow Effect of 40%/40%/40%/40%/40%/40% on enemies for 1.5/1.5/1.5/1.5/1.5/1.5s.",
             "tips": "A skill with super high mobility. Using in the early game allows Helcurt to move through walls to speed up jungling. Using in middle-late game makes it a good initiating skill or escape by moving through terrains."
         },
         "second_skill": {
             "name": "Deadly Stinger",
             "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2Ixlplga6AGPGBAABGqY1dcZI5780103",
+            "desc": "",
             "tips": "Storing up to 5 stingers to maximize the damage as it's the core damage skill. Since it can penetrate the targets, choose a good angle to hit more enemies or jungle monsters to speed up the jungling."
         },
         "ultimate": {
             "name": "Dark Night Falls",
             "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2Ixlplgb-AAD1FAABMomwWshc7528608",
+            "desc": "",
             "tips": "Use it anytime anywhere to make all enemy heroes lose vision by 3.5s (except Helcurt). A very useful skill. The bonus movement speed allows him to go to the fight quickly or chase an enemy. The bonus attack speed substantially increases his burst damage. Let the enemies fear the invisibility. P.S: It's not effective on enemy Helcurt."
         }
     }

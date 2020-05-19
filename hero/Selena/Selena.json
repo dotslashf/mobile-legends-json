@@ -12,21 +12,25 @@
         "passive": {
             "name": "Symbiosis",
             "icon": "https://img.mobilelegends.com/group1/M00/00/3F/Cq2IxltEWGmAHw7SAABTHCxR024668.png",
+            "desc": "",
             "tips": "Selena uses the power bestowed upon her by the Moon God and the Abyss to switch freely between her two forms. When using skills in her Elven form, Selena attaches one Abyssal Mark to her enemies (when Abyssal Trap hits an enemy, it immediately adds an Abyssal Mark). Up to 2 Abyssal Marks can be added to an enemy. Skills used in Abyssal form will consume 1 of these marks to deal bonus damage."
         },
         "first_skill": {
             "name": "Abyssal Trap",
             "icon": "https://img.mobilelegends.com/group1/M00/00/3F/Cq2IxltEWEmALkhhAABaAhzUb1M120.png",
+            "desc": "",
             "tips": "Selena summons an Abyssal Devil to lurk in a designated location. The Abyssal Devil smothers a nearby enemy with its body. Within several seconds, the enemy\u2019s movement speed is reduced. After some time, this skill deals damage to the target and other nearby enemies, slows enemies for several seconds. Selena can summon up to 3 Abyssal Devils. Damage will decay when a target takes damage from multiple devils at the same time."
         },
         "second_skill": {
             "name": "Abyssal Arrow",
             "icon": "https://img.mobilelegends.com/group1/M00/00/3F/Cq2IxltEWFSAedjOAABX9Ju_dtA910.png",
+            "desc": "",
             "tips": "Selina channels the power of the Abyss into magic arrows, firing them in a specified direction. Enemies hit are stunned for several seconds and take damage. Stun duration and damage increase the further the arrows fly. The arrow absorbs Abyssal Traps as it travels to the target enemy, effects of the traps will be inflicted to target enemy upon hit."
         },
         "ultimate": {
             "name": "Primal Darkness",
             "icon": "https://img.mobilelegends.com/group1/M00/00/3F/Cq2IxltEWF6AHcVJAABdYFJh0lo786.png",
+            "desc": "",
             "tips": "Selena melds with the Abyss, entering Abyssal Form and gaining movement speed for a short time. She also gains access to new skills while in Abyssal Form and her basic attacks deal additional damage"
         }
     }

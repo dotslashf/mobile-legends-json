@@ -12,21 +12,25 @@
         "passive": {
             "name": "Bloodthirst",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UoqAR3RWAABtXKK9ius120.png",
+            "desc": "",
             "tips": "On fighter build pls always remember ur passive skill. try to near enemy minions for fight/war on early game."
         },
         "first_skill": {
             "name": "Soul Lock",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UjqAMlHfAABdBbBqWis698.png",
+            "desc": "",
             "tips": "This skill for u RUN or Open WAR. on early game balmond easy for run out on enemy gank u. when Open WAR, always try to charge to enemy's mage Heroes 1st."
         },
         "second_skill": {
             "name": "Cyclone Sweep",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UkOABuQrAABXhWcG9uI423.png",
+            "desc": "",
             "tips": "The most easy for use is this skill. after u use jz walk around or follow enemy move. remember after u on this skill, u unable to use ur Skill 1 or SKill 3 (u still can use ur Battle Spell). but after u on this skill, after delay a second, u also can use again this skill for disable, so now u can use other Skill."
         },
         "ultimate": {
             "name": "Lethal Counter",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UoGALjpnAABkx0Jh-ro643.png",
+            "desc": "",
             "tips": "This Ultimate skill has a Powerful damage to enemy, BUT the weakness is, pls dont try to use on when enemy is full HP. try to use on when got any enemy HP is below 1/4, if enemy not yet dead in this Skill, but still can slow down enemy's Movement Speed. on early game, u can use for kill turtle when turtle HP is below 1/3, try to help teamate kill turtle or u can go steal turtle when enemy fighting on there. BEST for steal Lord, when enemy fighting with Lord, Balmond is the BEST for stealing. when Lord HP is under 1/3."
         }
     }

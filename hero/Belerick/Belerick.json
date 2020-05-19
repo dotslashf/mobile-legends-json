@@ -12,21 +12,25 @@
         "passive": {
             "name": "Deadly Thorns",
             "icon": "https://img.mobilelegends.com/group1/M00/00/51/Cq2Ixlt6xGKAXfo5AABR19MwIoY653.png",
+            "desc": "For every 50 damage inflicted upon Belerick, he has a 25% chance to attack in the direction of the nearest enemy unit, dealing Magic Damage equal to 120-260 + (0.8% of his Max HP) (scales with level). In each 0.4s, this attack can be triggered once only.####The HP obtained from Equipment is increased by 15%.",
             "tips": "For Belerick, it is a passive as much as a DPS skill. Using the 1st skill, Belerick is able to control where to cast the passive. The 2nd skill is sure to trigger his passive. Players can utilize the combo to make Belerick a strong hero when laning."
         },
         "first_skill": {
             "name": "Ancient Seed",
             "icon": "https://img.mobilelegends.com/group1/M00/00/51/Cq2Ixlt6xDeATFXNAABOSS7EuCI846.png",
+            "desc": "Belerick releases vines in a designated direction, dealing 200/220/240/260/280/300 Magic Damage to enemies on the path and slow them down by 25%/25%/25%/25%/25%/25%. Meanwhile, he leaves Ancient Seed on the path, and after 1/1/1/1/1/1s, these seeds will deal 200/220/240/260/280/300 Magic Damage to enemies on the path and taunt them for 1.2/1.2/1.2/1.2/1.2/1.2s.########To minions, 50%/50%/50%/50%/50%/50% extra damage will be dealt.",
             "tips": "The skill is the major reason why Belerick is a strong laning hero. In a teamfight, by inflicting Nature\u2019s Seed on enemy heroes, Belerick is able to kill enemy core heroes sooner than ever."
         },
         "second_skill": {
             "name": "Nature's Strike",
             "icon": "https://img.mobilelegends.com/group1/M00/00/51/Cq2Ixlt6xEGAemGUAABYLh7fU08090.png",
+            "desc": "In the next 3/3/3/3/3/3s, Belerick increases his Movement Speed by 40%/40%/40%/40%/40%/40% and strengthens his next Basic Attack.####This enhanced Basic Attack deals 300/330/360/390/420/450 Magic Damage, and slows the target by 60%/60%/60%/60%/60%/60% for 1.4/1.4/1.4/1.4/1.4/1.4s. Belerick also regenerates HP equal to 240/288/336/384/432/480+ (8%/8%/8%/8%/8%/8% of his lost HP).",
             "tips": "With his strong ability to recover, Belerick is a strong laning and teamfight hero. With Brave Smite Belerick gets even harder to kill."
         },
         "ultimate": {
             "name": "Wrath of Dryad",
             "icon": "https://img.mobilelegends.com/group1/M00/00/51/Cq2Ixlt6xEuAReOqAABXF1MehAw746.png",
+            "desc": "Belerick casts vines around him, immobilizing the enemies hit for 2/2/2s and dealing damage to them for 4/4/4 times. Each time deals 100/150/200 damage.",
             "tips": "Even without aliies around, Belerick's durability can be secured with 10% Recovery and 40% DMG Reduction. So don't hesitate to use it when necessary."
         }
     }

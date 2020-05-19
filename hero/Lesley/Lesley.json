@@ -12,21 +12,25 @@
         "passive": {
             "name": "Lethal Shot",
             "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2IxlplgrGAAt2gAABVfFzzfx40909228",
+            "desc": "",
             "tips": "Try your best to avoid taking damage and use her extreme long-range attacks to wear down enemies."
         },
         "first_skill": {
             "name": "Master of Camouflage",
             "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2Ixlplgo-ABE1TAABVfc8-A308082194",
+            "desc": "",
             "tips": "Combine stealth with her passive's increased crit damage to launch a devastating opening on your enemies."
         },
         "second_skill": {
             "name": "Tactical Grenade",
             "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2IxlplgpqAKY5CAABWRA7dxVY0920337",
+            "desc": "",
             "tips": "Survival skill -- try saving it for when you need to escape."
         },
         "ultimate": {
             "name": "Ultimate Snipe",
             "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2IxlplgqiAN73hAABOfSDJq0E9454809",
+            "desc": "",
             "tips": "Use this skill to finish off enemies with low HP, and be sure to keep a safe distance."
         }
     }

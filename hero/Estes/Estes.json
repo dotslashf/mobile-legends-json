@@ -12,21 +12,25 @@
         "passive": {
             "name": "Scripture of the Moon Elf",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cwOACJ0xAABHMw4LHMY932.png",
+            "desc": "",
             "tips": "Code of Moon Elves, can charge energy and improves its basic attack dealing 450 magic damage. This basic attack will surely slow down its target. Also, it can make a splash damage dealing 225 magic damage towards nearby enemies."
         },
         "first_skill": {
             "name": "Moonlight Immersion",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cuCAfSwoAAA2kSsufGg794.png",
+            "desc": "",
             "tips": "Moonlight Immersion can immediately restore one of his ally's HP. When Estes is successfully links himself to his target ally, it will heal his ally with 200 HP for 3 seconds. But, being far from the target, the link chain will be broken and the healing will stop. This skill can also heal Estes himself if needed. Estes cannot restore one ally if his HP is very low also when he lacks of mana."
         },
         "second_skill": {
             "name": "Domain of Moon God",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cuiANky3AABA1lhzNd8655.png",
+            "desc": "",
             "tips": "This skill is effectively use as a trap.  Ring of trap that will slow down enemies and even monsters or creeps movements that also deals 350 magic damage to enemies within it. You can cast this right in front of you to slow enemies that attacks you. This can also be use to help your allies escape by making the enemies slow their movements. Whoever got into the ring cannot easily escape due to if they tried to run they will be slow if they touches the ring."
         },
         "ultimate": {
             "name": "Blessing of Moon Goddess",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cvCAKaGAAAA_7S77_og214.png",
+            "desc": "",
             "tips": "This ultimate skill is best use as support to allies. The skill incarnates into saint king of moonlight for 8 seconds. Intensifying the effect of Moonlight Immersion. After Estes cast the Blessing of Moon Goddess, he can immediately cast The Moonlight Immersion one time for surrounding ally. When Moonlight Immersion's cooldown is done, Estes can cast again Moonlight Immersion to grant another massive restoration of one ally. For as long as the Blessing of Moon Goddess casting is still ongoing. This skill can make your allies heroes immortal in game. Also Estes will automatically heal himself a total of 1,080 HP. This is a very good regeneration buffs to allies, especially in clashing.<br>"
         }
     }

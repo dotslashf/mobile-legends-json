@@ -12,21 +12,25 @@
         "passive": {
             "name": "Dominator's Descent",
             "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2IxlplgJuAN52tAABYxH5D5zE7110799",
+            "desc": "",
             "tips": "Using this ultimate in critical moments will allow your Spawn to deal legendary amounts of damage, as no hero can match the power of a full form Nightmaric Spawn. However, the crack in the planescape can only be sustained for 10 seconds, so use your time wisely."
         },
         "first_skill": {
             "name": "Nightmaric Spawn",
             "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2IxlplgG6Aai3JAABSLeTakrY4135795",
+            "desc": "",
             "tips": "Every 2 basic attacks of the Spawn will fire a death ray at the enemy. If the death ray strikes the target 7 times consecutively, then it will cause a stun effect. This is definitely Zhask's core skill, we recommend that you keep your Spawn close to you during combat, not only does this little fellow bring damage but he can also provide some extra crowd control. Also, enemies may gain quite a bit of gold slaying the Spawn, as a Planes Dominator you should always look out for the welfare of your minions."
         },
         "second_skill": {
             "name": "Mind Eater",
             "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2IxlplgIaAKiFIAABIKUN1vBc8947167",
+            "desc": "",
             "tips": "As the damage does not diminish upon impact, use this ability in conjunction with a well position Nightmaric Spawn to really leave a mark on your enemies!"
         },
         "ultimate": {
             "name": "Hive Clones",
             "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2IxlplgJGAJa3dAABPCu2-_Js0753225",
+            "desc": "",
             "tips": "This is a very tactical skill, use it during laning to whoever is attacking your Nightmaric Spawn, not only providing large amounts of damage but also at the same time protecting your Spawn. Placing traps in certain areas of the map will also cause some mental pressure for the enemy team."
         }
     }

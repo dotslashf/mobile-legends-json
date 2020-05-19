@@ -12,21 +12,25 @@
         "passive": {
             "name": "Blood Ancestry",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UuyAVvxsAABU1clpBC4834.png",
+            "desc": "",
             "tips": "When a nearby minion dies, a blood orb is generated. Each blood orb absorbed permanently increases Alice's max HP . After absorbing  blood orbs, she will receive an additional upgrade of  Cooldown Reduction/ Spell Vamp/ movement speed."
         },
         "first_skill": {
             "name": "Flowing Blood",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UtWAeLZjAABeqIemQ5E336.png",
+            "desc": "",
             "tips": "Alice fires a blood orb in the specified direction, dealing  points of Magic Damage to enemies. Using this skill again to immediately teleport to the orb's location."
         },
         "second_skill": {
             "name": "Blood Awe",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6Ut6AA9a6AABWnAfljak842.png",
+            "desc": "",
             "tips": "Alice deals points of Magic Damage to nearby enemies, immobilizing them for 1.2 seconds, then the enemies will be slowed for 2 seconds."
         },
         "ultimate": {
             "name": "Blood Ode",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UuWAftAIAABFi0IELsM056.png",
+            "desc": "",
             "tips": "Queen of the Apocalypse enters the blood-sucking state for the next 5 seconds, dealing  points of Magic Damage to surrounding enemies every 0.5 seconds while restoring  HP for herself."
         }
     }

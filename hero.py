@@ -3,6 +3,8 @@ import requests
 import re
 import os
 import shutil
+import csv
+from datetime import datetime
 
 
 class Hero(object):
@@ -29,6 +31,7 @@ class Hero(object):
         re = requests.get(self.hero_img_url)
         hero_url = json.loads(re.text)
         url = hero_url['data']
+        status_download = {'success': 0, 'total': len(url)}
 
         img_list = []
         for i in range((len(url))):
@@ -42,24 +45,49 @@ class Hero(object):
                 try:
                     print(f"Downloading 🖼️: {img['img_name']} / {img['url']}")
 
-                    with open(f"{self.path}/img/cover_{img['img_name']}.png", 'wb') as f:
+                    with open(f"{self.path}/img/cover_{img['img_name'].lower().replace(' ', '')}.png", 'wb') as f:
                         f.write(re.content)
 
-                    print(f"Success ✔️")
+                    print(f"Success ✔️\n")
+                    status_download['success'] += 1
                 except:
-                    print(f"No img folder found, creating: {self.hero_name} img 📁")
+                    print(
+                        f"No img folder found, creating: {self.hero_name} img 📁")
                     os.makedirs(f"{self.path}/img")
                     print(
                         f"Retry downloading 🖼️: {img['img_name']} / {img['url']}")
 
-                    with open(f"{self.path}/img/cover_{img['img_name']}.png", 'wb') as f:
+                    with open(f"{self.path}/img/cover_{img['img_name'].lower()}.png", 'wb') as f:
                         f.write(re.content)
 
-                    print(f"Success ✔️")
+                    print(f"Success ✔️\n")
+                    status_download['success'] += 1
             except:
                 print(f"Can't get image {img['img_name']}, skipping ❌")
+                self.error_log(img['img_name'], img['url'])
                 pass
 
+        return status_download
+
+    def download_hero_skills_img(self, skills):
+        print(f"Downloading hero skills icon set:")
+
+        for skill in skills:
+            try:
+                re = requests.get(skills[skill]['icon'], timeout=10)
+                try:
+                    with open(f"{self.path}/img/skills/{skill}_{skills[skill]['name'].replace(' ', '_').lower()}.png", 'wb') as f:
+                        f.write(re.content)
+                except:
+                    os.makedirs(f"{self.path}/img/skills")
+                    with open(f"{self.path}/img/skills/{skill}_{skills[skill]['name'].replace(' ', '').lower()}.png", 'wb') as f:
+                        f.write(re.content)
+
+            except:
+                self.error_log(skills[skill]['name'], skills[skill]['icon'])
+                pass
+
+        print(f"Success downloading hero skills icon set ✔️")
 
     def create_hero(self):
         story = self.remove_necessary_char(self.hero['data']['des'])
@@ -78,21 +106,25 @@ class Hero(object):
                 'passive': {
                     'name': self.hero['data']['skill']['skill'][-1]['name'],
                     'icon': self.hero['data']['skill']['skill'][-1]['icon'],
+                    'desc': self.hero['data']['skill']['skill'][-1]['des'],
                     'tips': self.hero['data']['skill']['skill'][-1]['tips']
                 },
                 'first_skill': {
                     'name': self.hero['data']['skill']['skill'][0]['name'],
                     'icon': self.hero['data']['skill']['skill'][0]['icon'],
+                    'desc': self.hero['data']['skill']['skill'][0]['des'],
                     'tips': self.hero['data']['skill']['skill'][0]['tips']
                 },
                 'second_skill': {
                     'name': self.hero['data']['skill']['skill'][1]['name'],
                     'icon': self.hero['data']['skill']['skill'][1]['icon'],
+                    'desc': self.hero['data']['skill']['skill'][1]['des'],
                     'tips': self.hero['data']['skill']['skill'][1]['tips'],
                 },
                 'ultimate': {
                     'name': self.hero['data']['skill']['skill'][2]['name'],
                     'icon': self.hero['data']['skill']['skill'][2]['icon'],
+                    'desc': self.hero['data']['skill']['skill'][2]['des'],
                     'tips': self.hero['data']['skill']['skill'][2]['tips'],
                 }
             }
@@ -104,7 +136,8 @@ class Hero(object):
             with open(f'{self.path}/{self.hero_name}.json', 'w') as f:
                 json.dump(data, f, indent=4)
 
-            print(f"Success ✔️")
+            self.download_hero_skills_img(data['skills'])
+            print(f"Success ✔️\n")
         except:
             print(f"No {self.hero_name} found, creating: {self.hero_name} 📁")
             os.makedirs(self.path)
@@ -114,7 +147,22 @@ class Hero(object):
             with open(f'{self.path}/{self.hero_name}.json', 'w') as f:
                 json.dump(data, f, indent=4)
 
-            print(f"Success ✔️")
+            self.download_hero_skills_img(data['skills'])
+            print(f"Success ✔️\n")
 
-        self.download_hero_img()
-        print(f"\nDone creating {self.hero_name} ✔️\n-----------------------------")
+        status_download = self.download_hero_img()
+        print(
+            f"Done creating: {self.hero_name} ✔️ | ({status_download['success']}/{status_download['total']}) 🖼️\n-----------------------------------\n")
+
+    def error_log(self, img_name, img_url):
+        time_now = datetime.now()
+        data = {}
+        data['hero_name'] = self.hero_name
+        data['img_error_url'] = img_url
+        data['skin_name'] = img_name
+        data['time'] = time_now.strftime("%Y-%d-%m, %H:%M:%S")
+
+        with open('error_log.csv', 'a+') as f:
+            fields = ['hero_name', 'img_error_url', 'time']
+            writer = csv.DictWriter(f, fieldnames=fields)
+            writer.writerow(data)

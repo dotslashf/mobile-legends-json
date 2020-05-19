@@ -12,21 +12,25 @@
         "passive": {
             "name": "Full Moon Curse",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7dzeAACxOAABaNe0aYic877.png",
+            "desc": "",
             "tips": "You can use the human form to kite enemies, and the wolf form to fight."
         },
         "first_skill": {
             "name": "Open Fire",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7dxuALc2dAABh_u5X2LQ467.png",
+            "desc": "",
             "tips": "Use Full Bore at long ranges to slow and damage enemies.<br>Lycan Pounce can be used to dodge enemy skill effects,such as those skill effects yet to finish or take effect after a skill effect. For instance skills like Harley's Deadly Magic or Cyclop's Star Power Lockdown."
         },
         "second_skill": {
             "name": "Hunter's Steps",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7dySAY-sMAABeIZBhYdE955.png",
+            "desc": "",
             "tips": "When chasing a wounded enemy, use Bloodthirsty Howl to increase your movement speed, the longer the speed increase, the better the effect."
         },
         "ultimate": {
             "name": "Wolf Transformation",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7dzGAfGQYAABtZVCCKR0189.png",
+            "desc": "",
             "tips": "Ultimate will automatically be available at level 1, in the early laning phase you can use all 4 available skills to aggressively skirmish in lane. You can also use skills to quickly gap close with enemies or escape. The ultimate can be used to go over walls.<br>Ultimate will automatically be available at level 1, in the early laning phase you can use all 4 available skills to aggressively skirmish in lane. You can also use skills to quickly gap close with enemies or escape. The ultimate can be used to go over walls."
         }
     }

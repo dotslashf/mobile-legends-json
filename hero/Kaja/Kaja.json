@@ -12,21 +12,25 @@
         "passive": {
             "name": "Wrath Sanction",
             "icon": "https://img.mobilelegends.com/group1/M00/00/30/Cq2Ixlsoqp2AGdBvAABNiDY0vTs809.png",
+            "desc": "Kaja achieves Wrath Sanction every 6s. His next Basic Attack will send a lightning to enemies, dealing Magic Damage equal to 100 points plus 6% of targets' Max HP. The lightning will hit enemies nearby as well (up to 3 times).",
             "tips": "Receiving damage from enemy heroes increases Khaja\u2019s movement speed by 40%, quickly decreasing within 1 second. Effect can be triggered every 5 seconds. "
         },
         "first_skill": {
             "name": "Ring of Order",
             "icon": "https://img.mobilelegends.com/group1/M00/00/30/Cq2IxlsoqnKAfz3lAABYZzBdOmg734.png",
+            "desc": "",
             "tips": "Kaja releases a ringed, electric blade that quickly expands and contracts. Deals magic damage to enemy targets and briefly slows them. When the electric current hits the enemy target, Kaja will unleash a bolt of lightening that briefly deals continuous magical damage to the nearest enemy target. Damage gradually increases when the bolt of lightening continuously hits the same target."
         },
         "second_skill": {
             "name": "Lightning Bomb",
             "icon": "https://img.mobilelegends.com/group1/M00/00/30/Cq2IxlsoqqeAMRNPAABWK8b0_EE644.png",
+            "desc": "Kaja moves towards the designated direction and leaves 3/3/3/3/3/3 lightning bombs along the way. When enemy units touch the lightning bombs, they will take 200/230/260/290/320/350 points of Magic Damage.",
             "tips": "Kaja charges in a specified direction, dealing magic damage to enemies in his path. If Kaja encounters a friendly unit while charging, he moves again in their movement direction and provides himself and allied heroes with a shield, while also increasing movement speed."
         },
         "ultimate": {
             "name": "Divine Judgment",
             "icon": "https://img.mobilelegends.com/group1/M00/00/30/Cq2IxlsoqpGAfcmnAABP9o_TWNw621.png",
+            "desc": "",
             "tips": "Kaja pulls and suppresses a target enemy hero. Deals magic damage for 2 seconds. During that time, the enemy hero\u2019s magic resistance is reduced. Kaja absorbs the target enemy hero\u2019s lost magical resistance, making it his own."
         }
     }

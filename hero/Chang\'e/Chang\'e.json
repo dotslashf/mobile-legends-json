@@ -12,21 +12,25 @@
         "passive": {
             "name": "Trouble Maker",
             "icon": "https://img.mobilelegends.com/group1/M00/00/22/Cq2IxlsMxvaABlcrAABRqWVupUE879.png",
+            "desc": "Each time Chang'e deals damage to enemy units, she will leave a mark on them and her next skill damage dealt to those with marks will be increased by 2% (up to 40%).",
             "tips": "While a skill is a active, Chang\u2019e gains 1 stack of Rabbit Blessing every time she inflicts damage upon an enemy hero. Once Chang\u2019e has accumulated 40 stacks, she can exchange them to permanently boost her magic attack by 30 points. Upon death, Chang\u2019e loses 15 stacks. (Stacks that were already exchanged are not affected.)"
         },
         "first_skill": {
             "name": "Starmoon Shockwave",
             "icon": "https://img.mobilelegends.com/group1/M00/00/22/Cq2IxlsMxtKALuxBAABIMu5oYGE423.png",
+            "desc": "Chang'e sends an energy ball forward, dealing 340/380/420/460/500/540 points of Magic Damage to enemies and slows them by 40%/40%/40%/40%/40%/40%. Lasts 1.5/1.5/1.5/1.5/1.5/1.5s. ########Crescent Moon: Crescent Moon will send 4 energy balls alongside Chang'e, each of which deals 20%/20%/20%/20%/20%/20% of Chang'e's damage dealt and slows enemies. (Slowing Effect can be stacked up to 75%/75%/75%/75%/75%/75%.) ",
             "tips": "Chang\u2019e summons a circle of shimmering moonlight at a designated location that continuously reduces enemy movement speed. After some time, Chang\u2019e pulls enemy units to the center, dealing magic damage. Enemy units caught in this final attack briefly suffer a severe slow effect."
         },
         "second_skill": {
             "name": "Crescent Moon",
             "icon": "https://img.mobilelegends.com/group1/M00/00/22/Cq2IxlsMxuCAG4TvAABKtOjxUAM509.png",
+            "desc": "Chang'e summons a Crescent Moon to bless herself, gaining 400/450/500/550/600/650 points of Shield, while increasing Movement Speed by 15%/15%/15%/15%/15%/15%. ####While the Shield is active, her skills and Basic Attack are enhanced. ####Enhanced Basic Attack: Each time Chang'e performs a Basic Attack, the Crescent Moon will deal ////////// points of Magic Damage to enemy targets as well.",
             "tips": "Unleashes 5 Moon Blades in succession. Inflicts magic damage to the first enemy unit to be hit by this attack and 60% to surrounding enemies. Causes a temporary slow effect. When 3 Moon Blades hit the same target, they will cause a stun effect, once every 6 seconds."
         },
         "ultimate": {
             "name": "Meteor Shower",
             "icon": "https://img.mobilelegends.com/group1/M00/00/22/Cq2IxlsMxu2ANU0hAABPMU9wXlU094.png",
+            "desc": "Chang'e gathers strength and increases her Movement Speed by 20%/20%/20% for 4/4/4s. Meanwhile, she launches 30/30/30 Meteors forward, each of which deals 60/80/100 points of Magic Damage (Deals extra 100%/100%/100% damage to Minions and Creeps). ########Crescent Moon: Crescent Moon will cast Meteors together with Chang'e, each of which deals 33%/33%/33% of Chang'e's damage dealt.",
             "tips": "Chang'e launches a rabbit missile forward, which deals <Num1> points of magic to the first enemy hero hit and then immediately splits into 6 small missiles that continue chasing the target. Every small missile deals  points of Magic Damage. If the rabbit missiles do not hit an enemy hero, the missiles will travel to their maximum distance and then split into 6 missiles once more, randomly chase the nearest targets. When enemy units are hit multiple times, missile damage is reduced."
         }
     }

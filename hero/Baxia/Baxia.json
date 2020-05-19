@@ -12,21 +12,25 @@
         "passive": {
             "name": "Baxia Mark",
             "icon": "https://img.mobilelegends.com/group1/M00/00/95/Cq2Ixl2R2MaAFRDdAABTxVOnjpk705.png",
+            "desc": "Baxia activates the \u201cBaxia Mark\u201d permanently, reducing the final damage received by 35.####At the same time, Baxia will reduce the regen effect of enemies hit by his skills by 30% for 4s.",
             "tips": "Baxia activates the Baxia Mark permanently, reducing the final damage received (the amount of DMG reduced increases with hero\u2019s level). At the same time, Baxia will reduce the regen effect of the hit target."
         },
         "first_skill": {
             "name": "Baxia-Shield Unity",
             "icon": "https://img.mobilelegends.com/group1/M00/00/95/Cq2Ixl2R2KaAHaguAABWH7c5Al4121.png",
+            "desc": "Baxia retracts himself into his shield and accelerates forward. When hitting an enemy unit, he will deal 280/300/320/340/360/380 Magic Damage to it and nearby enemies, stunning the target for 0.75/0.75/0.75/0.75/0.75/0.75s and slightly knocking other nearby enemies back. ####During the process of accelerating forward, use this skill again to launch Baxia upward so that he can cross obstacles and enemy minions. When leaping up, if there is an enemy hero under Baxia, he will strike to this hero, dealing 380/410/440/470/500/530 Magic Damage to this hero and nearby enemies, stunning the hit target for 1.5/1.5/1.5/1.5/1.5/1.5s, and slightly knocking other nearby enemy targets back.",
             "tips": "Baxia retracts himself into his shield and accelerates forward. When hitting an enemy unit, he will deal Magic Damage to it and enemies nearby, stunning the target and slightly knocking other enemies nearby back.During the process of accelerating forward, use this skill again to launch Baxia upward so that he can cross obstacles and enemy minions. When leaping up, if there is an enemy hero under Baxia, he will strike at this hero, dealing Magic Damage to this hero and other enemies around, stunning the hit target, and slightly knocking other targets not far away back."
         },
         "second_skill": {
             "name": "Shield of Spirit",
             "icon": "https://img.mobilelegends.com/group1/M00/00/95/Cq2Ixl2R2LGAUA5LAABM9yPcHns876.png",
+            "desc": "Baxia throws his shield forward that will disappear upon hitting an enemy hero or creeps, dealing Magic Damage equal to 125/150/175/200/225/250 + (5%/5%/5%/5%/5%/5% of the target\u2019s Max HP) to the target and minions on the path. Meanwhile, marks them for 5/5/5/5/5/5s and slows them down by 50%/50%/50%/50%/50%/50% for 1/1/1/1/1/1s. ####This skill can be used again in a short time. If the shield hits a creep or enemy hero, the CD will be reduced by 85%/85%/85%/85%/85%/85%.",
             "tips": "Baxia throws his shield forward (the shield will disappear upon hitting enemy Heroes or creeps), dealing Magic Damage to the target and enemy minions according to their Max HP, marking them and slowing them down.This skill can be used again in a short time. If the shield hits a marked enemy, the CD will be reduced."
         },
         "ultimate": {
             "name": "Tortoise\u2019s Puissance",
             "icon": "https://img.mobilelegends.com/group1/M00/00/95/Cq2Ixl2R2LuASg4aAABJukaFdzs124.png",
+            "desc": "Baxia deploys a frontal shield and dashes forward, increasing his Movement Speed by 30%/30%/30% for 10/12/14s. Meanwhile, creates a lava path along the way, dealing 50/60/70 Magic Damage to enemies on the path each 0.5/0.5/0.5s and slowing them by 15%/15%/15% for 0.5/0.5/0.5s.####During the dash, the damage reduction effect that endowed by \u201cBaxia Mark\u201d will be boosted by 75%/75%/75%.",
             "tips": "Baxia deploys a frontal shield and dashes forward crazily, increasing his Movement Speed incessantly. Meanwhile, he creates a lava path along the way, dealing Magic Damage to enemies on the path. During dashing forward, the final damage he receives will be greatly reduced as Baxia Mark is activated."
         }
     }

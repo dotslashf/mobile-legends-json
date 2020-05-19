@@ -12,21 +12,25 @@
         "passive": {
             "name": "Simian God",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7ceyAfC9PAABRK_X4SCE171.png",
+            "desc": "",
             "tips": ""
         },
         "first_skill": {
             "name": "Endless Variety",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7ccOAeAg4AABeOmJvFns121.png",
+            "desc": "",
             "tips": ""
         },
         "second_skill": {
             "name": "Instantaneous Move",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cd-AHwTDAABZCkorqvs764.png",
+            "desc": "",
             "tips": ""
         },
         "ultimate": {
             "name": "Clone Techniques",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7ceaAFW_fAABcC-Q6g48012.png",
+            "desc": "",
             "tips": ""
         }
     }

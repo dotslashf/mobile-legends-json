@@ -12,21 +12,25 @@
         "passive": {
             "name": "Mecha Legs",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VGuAVEaQAABcarwHHJo787.png",
+            "desc": "",
             "tips": "Setiap menggunakan Skill, Critical Hit Bruno akan selalu meningkat, dsini kita dapat memanfaatkanya dengan cara selalu menggunakan Skill saat War agar Critical Hit Bruno meningkat dan menyebabkan Damage yang besar."
         },
         "first_skill": {
             "name": "Volley Shot",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VE2AOMRGAABSJwbVeDg355.png",
+            "desc": "",
             "tips": "Gunakan Skill ini saat War dan arahkan posisi tembakan ke dalam area yang mudah dijangkau kembali atau dapat dijangkau rekan 1 team, Karena jika bola diambil kembali atau diambil oleh rekan 1 team skill ini dapat digunakan kembali (Reset Cooldown)."
         },
         "second_skill": {
             "name": "Flying Tackle",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VF2AL3dWAABcks4V4ac017.png",
+            "desc": "",
             "tips": "Gunakan Skill ini saat War untuk membuat Stun lawan yang terkena Flying Tackle, jangan lupa sebelum menggunakan skill ini gunakan Skill 1 dan perhatikan kemana arah bola tersebut dan gunakan Skill Flying Tackle ke arah bola tadi agar dapat menggunakan Skill Flying Tackle kembali dan gunakan untuk melarikan jika terdesak saat dikejar lawan, Skill ini juga dapat digunakan untuk menembus tembok."
         },
         "ultimate": {
             "name": "Wave of the World",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VGSAdaYSAABabvYxvTE225.png",
+            "desc": "",
             "tips": "Gunakan Skill ini pada saat War, saat tendangan pertama mengenai musuh, Skill ini akan memberikan Knockback ini sangat bagus untuk memundurkan salah satu musuh yang mendekat.<br>Gunakan skill ini pada saat musuh saling berdekatan satu sama lain atau saat mereka berkumpul, karena Skill ini dapat memantul apa bila musuh berdekatan."
         }
     }

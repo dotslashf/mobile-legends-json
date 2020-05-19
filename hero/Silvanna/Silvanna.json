@@ -12,21 +12,25 @@
         "passive": {
             "name": "Knightess' Resolve",
             "icon": "https://img.mobilelegends.com/group1/M00/00/9B/Cq2Ixl3vnAKACKnWAAA_smPI2Zw027.png",
+            "desc": "Silvanna deals 45  Magic Damage with Basic Attack.####Silvanna's skills can mark the enemy hit. Each mark reduces the target\u2019s Physical & Magic Defense by 3-6. Lasts for 5s. A target can carry up to 5 marks. ####When the amount of marks reaches the limit, Silvanna's skill can deal 30% Extra Damage to the target.",
             "tips": "When utilizing the 2nd Skill, try to stack the marks of the target to the limit in order to deal massive damage."
         },
         "first_skill": {
             "name": "Cometic Lance",
             "icon": "https://img.mobilelegends.com/group1/M00/00/9B/Cq2Ixl3vnBWABQWLAABXvNnp6vE648.png",
+            "desc": "Silvanna strikes with her Lance, dealing 150/170/190/210/230/250 Magic Damage to all enemies in the path and stunning the first enemy hero hit for 1/1/1/1/1/1s. Meanwhile, she increases her Movement Speed by 40%/40%/40%/40%/40%/40% in 2/2/2/2/2/2s.####If this skill hits a target, Silvanna will dash in a designated direction and strike with her Lance again, dealing 250/280/310/340/370/400 Magic Damage to enemies nearby.",
             "tips": "Use this Skill properly to gain an extra attack speed to adjust the position and launch attack. Activate \u201cCometic Spear\u201d again to attack or escape from the battlefield, depending on the actual situation."
         },
         "second_skill": {
             "name": "Spiral Strangling",
             "icon": "https://img.mobilelegends.com/group1/M00/00/9B/Cq2Ixl3vnCKABTfGAABZKPm0on4709.png",
+            "desc": "Silvanna stabs her Lance in a designated direction and spins it for 6/6/6/6/6/6 times. Each time deals 165/183/201/219/237/255 Magic Damage and slightly pulls them to the center. Meanwhile, generates 450/495/540/585/630/675 points of Shield to herself.####Spins 1 more time for each 50%/50%/50%/50%/50%/50% extra Attack Speed.####If the target is a Minion, deals 75%/75%/75%/75%/75%/75% Damage only.",
             "tips": "This is Silvanna\u2019s core damage dealing skill. It could stack the marks of the target to the limit within a short time. With her second skill, when Silvanna obtains extra attack speed, she could spin her lance once more. Therefore, she could deal more damage when she combines Spiral Strangling with Imperial Ultimate"
         },
         "ultimate": {
             "name": "Imperial Justice",
             "icon": "https://img.mobilelegends.com/group1/M00/00/9B/Cq2Ixl3vnCyAF5QpAABNh501HnM690.png",
+            "desc": "Silvanna leaps toward an area, dealing 350/500/650 Magic Damage to enemies in the area of effect and slowing them by 40%/40%/40% for 1.5/1.5/1.5s. Meanwhile, Silvanna creates a Circle of Light, in which the enemy that is closest to the center will be restrained from escaping for the next 3.5/3.5/3.5s.####If Silvanna is in the Circle, she will get extra 100%/100%/100% Attack Speed and 100%/100%/100% Magic Lifesteal.",
             "tips": "After acquiring the Ultimate, Silvanna possesses great ability to gank enemies all by herself. Combined with her other skills, she could slay enemies at ease. Please use this skill discreetly in team fights. Although she could obtain extra attack speed and Magic Lifesteal within the Circle of Light, she could be slain easily when she is attacked by a bunch of enemies."
         }
     }

@@ -12,21 +12,25 @@
         "passive": {
             "name": "Spell Curse",
             "icon": "https://img.mobilelegends.com/group1/M00/00/7D/Cq2IxlyIxmyAIqFtAABLe7UtUJM862.png",
+            "desc": "Khufra activates the Spell Curse left by Esmeralda every 12s to increase the range of the Next Basic Attack, dealing Magic Damage equal to  plus 6% of his Max HP to and slowing them by 30%. Lasts 1.5s. Meanwhile, Khufra restores 8% of his Max HP. ####Each time Khufra uses his skills to control any enemy heroes, The CD of \"Spell Curse\" will be reduced by 4s.",
             "tips": "It's the only recover skill of Khufra. The enhanced basic attack grants him strong poke abilities. It's smart strategies to use the skill and trigger passive twice in a short time and restore much HP."
         },
         "first_skill": {
             "name": "Tyrant's Revenge",
             "icon": "https://img.mobilelegends.com/group1/M00/00/7D/Cq2IxlyIxk-AaNj5AABUM4Rnmec979.png",
+            "desc": "Khufra pulls the bandage on his arms to launch himself in the specified direction, dealing Physical Damage equal to 80/110/140/170/200/230 plus 10/10/10/10/10/10% of his Max HP to all enemy units on the path. When blinking to the furthest distance or encountering a first enemy hero, Khufra will immediately stop, dealing Physical Damage equal to 80/110/140/170/200/230 plus 10/10/10/10/10/10% of his Max HP to enemies nearby and then knocking them in the air for up to 1.1/1.1/1.1/1.1/1.1/1.1s.",
             "tips": "It's the main skill for Khufra to join the battle. The longer he charges, the longer the knock-up effect will be. Try to better use it with ultimate \"Tyrant's Rage\" and control enemy heroes much longer."
         },
         "second_skill": {
             "name": "Bouncing Ball",
             "icon": "https://img.mobilelegends.com/group1/M00/00/7D/Cq2IxlyIxleAKtLoAABB_Ss7mqA825.png",
+            "desc": "Khufra uses bandage to wrap himself into a magic bouncing ball, increasing his own Physical&Magic Defense by 60%/68%/76%/84%/92%/100%. Enemies trying to use blink skills to move across Khufra will be knocked airborne. ####Each time the magic bouncing ball hits the ground, it will deal Magic Damage equal to 30/45/60/75/90/105 plus 6/6/6/6/6/6% of his Max HP to enemies nearby and slow them by 80%/80%/80%/80%/80%/80%. Lasts 0.5/0.5/0.5/0.5/0.5/0.5s.",
             "tips": "Each time the magical bouncing ball hits the ground, it will deal Magic Damage to enemies nearby and reduce their movement speed. This skill counters the heroes that are good at blink skills - they can not move across the bouncing ball."
         },
         "ultimate": {
             "name": "Tyrant's Rage",
             "icon": "https://img.mobilelegends.com/group1/M00/00/7D/Cq2IxlyIxmKAFHBMAABJN99UOG8554.png",
+            "desc": "Khufra pulls back all enemy targets around him toward his front, dealing 300/450/600 points of Physical Damage and slowing them down for 1.25/1.5/1.75s. If the enemies are knocked against walls, extra Physical Damage equal to 150%/150%/150% of this skill's damage will be inflicted upon them, and they will be stunned, instead of slowed.",
             "tips": "Needs practice to well use this skill. Better use it with 1st skill and it would be easier for Khufra to deal huge damage and control enemies for a long time."
         }
     }

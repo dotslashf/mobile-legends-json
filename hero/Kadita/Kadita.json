@@ -12,21 +12,25 @@
         "passive": {
             "name": "Thalassophobia",
             "icon": "https://img.mobilelegends.com/group1/M00/00/6D/Cq2IxlwYsD-AARloAABVFM52c6U000.png",
+            "desc": "Every 30s, Kadita receives Blessing from the Might of the Ocean. In 4s after taking Damage, she regenerates 65% of HP lost within the skill's duration.",
             "tips": "Use her 1st skill when the passive is stacked and poke enemies while taking no damage."
         },
         "first_skill": {
             "name": "Ocean Oddity",
             "icon": "https://img.mobilelegends.com/group1/M00/00/6D/Cq2IxlwYsFCAA82JAABUEAl6Ul4684.png",
+            "desc": "Kadita becomes a mermaid and summons an ocean wave. She then rides on the wave, dealing 265/310/355/400/445/490 points of Magic Damage and slow the enemies by 30%/30%/30%/30%/30%/30%. She gains immunity to all crowd control skills and reduces 70%/70%/70%/70%/70%/70% damage taken when she is inside the waves. ####Use Again: She will immediately get off the wave, then the wave would travel itself in the current direction. This skill ignores the obstacles.",
             "tips": "During this process, use the 2nd skill and Ultimate and surround enemies with her waves."
         },
         "second_skill": {
             "name": "Breath of the Ocean",
             "icon": "https://img.mobilelegends.com/group1/M00/00/6D/Cq2IxlwYsFuAJ4K5AABZMVgSSgU970.png",
+            "desc": "Kadita summons an ocean wave to mark a designated area. After a period of time, the wave surges out of the ground to deal 350/380/410/440/470/500 points of Magic Damage and knocks an enemy into the air for 1.5/1.5/1.5/1.5/1.5/1.5s. ########Kadita can cast this skill during \"Ocean Oddity\". By doing so, she releases \"Breath of the Ocean\" at the place she stands at and the waves surge out faster.",
             "tips": "It's a skill that takes time to reach a strong effect and needs proper prediction and teammate's cooperation. If you manage to knock an enemy hero up, use Kadita\u2019s 1st skill or her ultimate to eliminate them."
         },
         "ultimate": {
             "name": "Rough Waves",
             "icon": "https://img.mobilelegends.com/group1/M00/00/6D/Cq2IxlwYsGqAbbwyAABeSsF0C-w298.png",
+            "desc": "With the might of the ocean at her command, Kadita summons a tsunami to crush nearby enemies. Each wave deals 300/330/360 points of Magic Damage and slows them by 25%/25%/25%. The more waves an enemy takes, the more damage they take. The tsunami then returns to her and deals 200/220/240 points of Magic Damage to enemies on the path (The damage decays when hitting the same enemy hero for multiple times).",
             "tips": "The high AOE burst damage and her invulnerable state make her one of the best in teamfights."
         }
     }

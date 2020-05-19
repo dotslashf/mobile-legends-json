@@ -12,21 +12,25 @@
         "passive": {
             "name": "Only fast",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cbuAXUNDAACQW322W4Q473.png",
+            "desc": "",
             "tips": "Chou's passive skill is used when Chou's hand has flared which indicates his passive ability is active so that it can produce 200% Basic attack."
         },
         "first_skill": {
             "name": "Jeet Kune Do",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7caCAVA_LAACftGD2YBI212.png",
+            "desc": "",
             "tips": "Maximize the use of Jeet Kune Do (skill 1) since the beginning of the game. This is mainly because when we can use the skill 1 three times and cause Knock Up to the opponent in the palm of the hand area that hit the ground during the third hit."
         },
         "second_skill": {
             "name": "Shunpo",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cayAcGdBAACbCaEiFLI464.png",
+            "desc": "",
             "tips": "With this 2nd skill, Chou can be immune from almost all the disabling skills of the opponent. But keep in mind that timings are the key to this skill."
         },
         "ultimate": {
             "name": "The Way of Dragon",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cbSAbDRnAACdkm40EXM502.png",
+            "desc": "",
             "tips": "Use Ultimate to kick your opponent towards your teammates.<br>This skill can also be used to kick your opponent away when you escape or save your teammates.<br>Tap quickly this skill 2 times to maximize the damage and getting the Knock Up effect.<br>Tap Skill 1 time when you run away or save a teammate."
         }
     }

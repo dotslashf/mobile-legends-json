@@ -12,21 +12,25 @@
         "passive": {
             "name": "Ashura's Wrath",
             "icon": "https://img.mobilelegends.com/group1/M00/00/05/Cq2Ixlq6NP-AOlsAAABNuXDx9pU7353720",
+            "desc": "",
             "tips": "Try to keep this passive up as much as possible to supplement damage when your skills are cooling down."
         },
         "first_skill": {
             "name": "Ashura Aura",
             "icon": "https://img.mobilelegends.com/group1/M00/00/05/Cq2Ixlq6NKaAN3WNAABajYPUGEk9154775",
+            "desc": "",
             "tips": "This skill gathers as many enemies as possible within range, functioning as a small-scale group control effect that has a big impact on the flow of battle."
         },
         "second_skill": {
             "name": "Mortal Coil",
             "icon": "https://img.mobilelegends.com/group1/M00/00/05/Cq2Ixlq6NMaAaq_XAABXfpCK_tc4394880",
+            "desc": "",
             "tips": "This is an offensive and defensive soul skill. During the first part, you can move the analog stick to change direction, and the second part is perfect for chasing down enemy heroes. Proper use of this skill will leave enemies totally suppressed by your twin blades."
         },
         "ultimate": {
             "name": "Decimation",
             "icon": "https://img.mobilelegends.com/group1/M00/00/05/Cq2Ixlq6NO6AA6aUAABbfXAtTgQ8438662",
+            "desc": "",
             "tips": "The execution mechanism, combined with the acceleration effect, can allow Martis to pick up five kills when facing a team of low-HP heroes."
         }
     }

@@ -12,21 +12,25 @@
         "passive": {
             "name": "Quick Draw",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VMuAFDWBAABYDABHsfs016.png",
+            "desc": "",
             "tips": "This is a very strong passive, and helps with sustainability in the laning phase, as well as reaching squishier back-row heroes."
         },
         "first_skill": {
             "name": "Blind Smoke",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VHWAVNQYAABXAu1q62I818.png",
+            "desc": "",
             "tips": "This skill has a powerful effect, but is relatively situational and has a small range. Use it to limit enemy movement and trigger Clint's passive."
         },
         "second_skill": {
             "name": "Heel Rope",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VHyAMoiKAABdjmNmSqo523.png",
+            "desc": "",
             "tips": "Clint can fire this backwards when being chased, and can also use it to jump through walls. Has a wide range of applications."
         },
         "ultimate": {
             "name": "Howitzer",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VIyAFCNxAABaeUw5wuM480.png",
+            "desc": "",
             "tips": "High single-target damage and can be used frequently. Make sure you're stocked up on grenades before entering a team fight!"
         }
     }

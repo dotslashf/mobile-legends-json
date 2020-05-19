@@ -12,21 +12,25 @@
         "passive": {
             "name": "Lakeshore Ambience",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7loWAXHRXAABKYt5-dd4805.png",
+            "desc": "",
             "tips": "Because passive skills can be processed through ordinary skills, it is good to use when enemies are in close position to each other to be more effective."
         },
         "first_skill": {
             "name": "Avian Authority",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7lnOADqugAABRr_Zata8289.png",
+            "desc": "",
             "tips": "Focusing energy to summon a swan that attack enemies, deals magic damage and reduce their movement speed."
         },
         "second_skill": {
             "name": "Blue Nova",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7lnmASOguAABOtbnV2G4799.png",
+            "desc": "",
             "tips": "Shoots a Magic Energy Ball forward, deals magic damage to the enemy and Immobilize them. After the ball reaches between the maximum distance or the target, two additional Energy Balls will attack sideways, deals magic damage and bind the affected enemy.<br>Calculating the distance of a Skill attack will make you attack enemies better.<br>Attack enemies with separate Energy Balls."
         },
         "ultimate": {
             "name": "Swan Song",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7loCACBfzAABRDm_OLm0800.png",
+            "desc": "",
             "tips": "Utilize the damage reduction effect received to place yourself in the right area to be able to produce maximum damage during the Ultimate.<br>Use Flicker to surprise the enemy."
         }
     }
