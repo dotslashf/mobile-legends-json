@@ -37,16 +37,23 @@ class Hero(object):
 
         for img in img_list:
             re = requests.get(img['url'], stream=True)
-
+            
             try:
-                with open(f"{self.path}/img/cover_{img['img_name']}.png", 'wb') as f:
-                    re.raw.decode_content = True
-                    shutil.copyfileobj(re.raw, f)
+                print(f"Downloading 🖼️: {img['img_name']} / {img['url']}")
+
+                with open(f"{self.path}/img/cover_{img['img_name']}.png", 'wb') as f:    
+                    f.write(re.content)
+
+                print(f"Success ✔️")
             except:
+                print(f"Creating: {self.hero_name} img 📁")
                 os.makedirs(f"{self.path}/img")
+                print(f"Downloading 🖼️: {img['img_name']} / {img['url']}")
+
                 with open(f"{self.path}/img/cover_{img['img_name']}.png", 'wb') as f:
-                    re.raw.decode_content = True
-                    shutil.copyfileobj(re.raw, f)
+                    f.write(re.content)
+
+                print(f"Success ✔️")
 
     def create_hero(self):
         story = self.remove_necessary_char(self.hero['data']['des'])
@@ -88,9 +95,12 @@ class Hero(object):
         try:
             with open(f'{self.path}/{self.hero_name}.json', 'w') as f:
                 json.dump(data, f, indent=4)
+            print(f"Creating: {self.hero_name} 🦸")
         except:
+            print(f"Creating: {self.hero_name} 📁")
             os.makedirs(self.path)
             with open(f'{self.path}/{self.hero_name}.json', 'w') as f:
                 json.dump(data, f, indent=4)
+            print(f"Creating: {self.hero_name} 🦸")
 
         self.download_hero_img()
