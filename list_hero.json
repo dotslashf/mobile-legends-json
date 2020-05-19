@@ -1,374 +1,374 @@
 [
     {
         "name": "Miya",
-        "heroid": "1"
-    },
-    {
-        "name": "Franco",
-        "heroid": "10"
-    },
-    {
-        "name": "Bane",
-        "heroid": "11"
-    },
-    {
-        "name": "Bruno",
-        "heroid": "12"
-    },
-    {
-        "name": "Clint",
-        "heroid": "13"
-    },
-    {
-        "name": "Rafaela",
-        "heroid": "14"
-    },
-    {
-        "name": "Eudora",
-        "heroid": "15"
-    },
-    {
-        "name": "Zilong",
-        "heroid": "16"
-    },
-    {
-        "name": "Fanny",
-        "heroid": "17"
-    },
-    {
-        "name": "Layla",
-        "heroid": "18"
-    },
-    {
-        "name": "Minotaur",
-        "heroid": "19"
+        "heroid": 1
     },
     {
         "name": "Balmond",
-        "heroid": "2"
-    },
-    {
-        "name": "Lolita",
-        "heroid": "20"
-    },
-    {
-        "name": "Hayabusa",
-        "heroid": "21"
-    },
-    {
-        "name": "Freya",
-        "heroid": "22"
-    },
-    {
-        "name": "Gord",
-        "heroid": "23"
-    },
-    {
-        "name": "Natalia",
-        "heroid": "24"
-    },
-    {
-        "name": "Kagura",
-        "heroid": "25"
-    },
-    {
-        "name": "Chou",
-        "heroid": "26"
-    },
-    {
-        "name": "Sun",
-        "heroid": "27"
-    },
-    {
-        "name": "Alpha",
-        "heroid": "28"
-    },
-    {
-        "name": "Ruby",
-        "heroid": "29"
+        "heroid": 2
     },
     {
         "name": "Saber",
-        "heroid": "3"
-    },
-    {
-        "name": "Yi Sun-shin",
-        "heroid": "30"
-    },
-    {
-        "name": "Moskov",
-        "heroid": "31"
-    },
-    {
-        "name": "Johnson",
-        "heroid": "32"
-    },
-    {
-        "name": "Cyclops",
-        "heroid": "33"
-    },
-    {
-        "name": "Estes",
-        "heroid": "34"
-    },
-    {
-        "name": "Hilda",
-        "heroid": "35"
-    },
-    {
-        "name": "Aurora",
-        "heroid": "36"
-    },
-    {
-        "name": "Lapu-Lapu",
-        "heroid": "37"
-    },
-    {
-        "name": "Vexana",
-        "heroid": "38"
-    },
-    {
-        "name": "Roger",
-        "heroid": "39"
+        "heroid": 3
     },
     {
         "name": "Alice",
-        "heroid": "4"
-    },
-    {
-        "name": "Karrie",
-        "heroid": "40"
-    },
-    {
-        "name": "Gatotkaca",
-        "heroid": "41"
-    },
-    {
-        "name": "Harley",
-        "heroid": "42"
-    },
-    {
-        "name": "Irithel",
-        "heroid": "43"
-    },
-    {
-        "name": "Grock",
-        "heroid": "44"
-    },
-    {
-        "name": "Argus",
-        "heroid": "45"
-    },
-    {
-        "name": "Odette",
-        "heroid": "46"
-    },
-    {
-        "name": "Lancelot",
-        "heroid": "47"
-    },
-    {
-        "name": "Diggie",
-        "heroid": "48"
-    },
-    {
-        "name": "Hylos",
-        "heroid": "49"
+        "heroid": 4
     },
     {
         "name": "Nana",
-        "heroid": "5"
-    },
-    {
-        "name": "Zhask",
-        "heroid": "50"
-    },
-    {
-        "name": "Helcurt",
-        "heroid": "51"
-    },
-    {
-        "name": "Pharsa",
-        "heroid": "52"
-    },
-    {
-        "name": "Lesley",
-        "heroid": "53"
-    },
-    {
-        "name": "Jawhead",
-        "heroid": "54"
-    },
-    {
-        "name": "Angela",
-        "heroid": "55"
-    },
-    {
-        "name": "Gusion",
-        "heroid": "56"
-    },
-    {
-        "name": "Valir",
-        "heroid": "57"
-    },
-    {
-        "name": "Martis",
-        "heroid": "58"
-    },
-    {
-        "name": "Uranus",
-        "heroid": "59"
+        "heroid": 5
     },
     {
         "name": "Tigreal",
-        "heroid": "6"
-    },
-    {
-        "name": "Hanabi",
-        "heroid": "60"
-    },
-    {
-        "name": "Chang\\'e",
-        "heroid": "61"
-    },
-    {
-        "name": "Kaja",
-        "heroid": "62"
-    },
-    {
-        "name": "Selena",
-        "heroid": "63"
-    },
-    {
-        "name": "Aldous",
-        "heroid": "64"
-    },
-    {
-        "name": "Claude",
-        "heroid": "65"
-    },
-    {
-        "name": "Vale",
-        "heroid": "66"
-    },
-    {
-        "name": "Leomord",
-        "heroid": "67"
-    },
-    {
-        "name": "Lunox",
-        "heroid": "68"
-    },
-    {
-        "name": "Hanzo",
-        "heroid": "69"
+        "heroid": 6
     },
     {
         "name": "Alucard",
-        "heroid": "7"
-    },
-    {
-        "name": "Belerick",
-        "heroid": "70"
-    },
-    {
-        "name": "Kimmy",
-        "heroid": "71"
-    },
-    {
-        "name": "Thamuz",
-        "heroid": "72"
-    },
-    {
-        "name": "Harith",
-        "heroid": "73"
-    },
-    {
-        "name": "Minsitthar",
-        "heroid": "74"
-    },
-    {
-        "name": "Kadita",
-        "heroid": "75"
-    },
-    {
-        "name": "Faramis",
-        "heroid": "76"
-    },
-    {
-        "name": "Badang",
-        "heroid": "77"
-    },
-    {
-        "name": "Khufra",
-        "heroid": "78"
-    },
-    {
-        "name": "Granger",
-        "heroid": "79"
+        "heroid": 7
     },
     {
         "name": "Karina",
-        "heroid": "8"
-    },
-    {
-        "name": "Guinevere",
-        "heroid": "80"
-    },
-    {
-        "name": "Esmeralda",
-        "heroid": "81"
-    },
-    {
-        "name": "Terizla",
-        "heroid": "82"
-    },
-    {
-        "name": "X.Borg",
-        "heroid": "83"
-    },
-    {
-        "name": "Ling",
-        "heroid": "84"
-    },
-    {
-        "name": "Dyrroth",
-        "heroid": "85"
-    },
-    {
-        "name": "Lylia",
-        "heroid": "86"
-    },
-    {
-        "name": "Baxia",
-        "heroid": "87"
-    },
-    {
-        "name": "Masha",
-        "heroid": "88"
-    },
-    {
-        "name": "Wanwan",
-        "heroid": "89"
+        "heroid": 8
     },
     {
         "name": "Akai",
-        "heroid": "9"
+        "heroid": 9
+    },
+    {
+        "name": "Franco",
+        "heroid": 10
+    },
+    {
+        "name": "Bane",
+        "heroid": 11
+    },
+    {
+        "name": "Bruno",
+        "heroid": 12
+    },
+    {
+        "name": "Clint",
+        "heroid": 13
+    },
+    {
+        "name": "Rafaela",
+        "heroid": 14
+    },
+    {
+        "name": "Eudora",
+        "heroid": 15
+    },
+    {
+        "name": "Zilong",
+        "heroid": 16
+    },
+    {
+        "name": "Fanny",
+        "heroid": 17
+    },
+    {
+        "name": "Layla",
+        "heroid": 18
+    },
+    {
+        "name": "Minotaur",
+        "heroid": 19
+    },
+    {
+        "name": "Lolita",
+        "heroid": 20
+    },
+    {
+        "name": "Hayabusa",
+        "heroid": 21
+    },
+    {
+        "name": "Freya",
+        "heroid": 22
+    },
+    {
+        "name": "Gord",
+        "heroid": 23
+    },
+    {
+        "name": "Natalia",
+        "heroid": 24
+    },
+    {
+        "name": "Kagura",
+        "heroid": 25
+    },
+    {
+        "name": "Chou",
+        "heroid": 26
+    },
+    {
+        "name": "Sun",
+        "heroid": 27
+    },
+    {
+        "name": "Alpha",
+        "heroid": 28
+    },
+    {
+        "name": "Ruby",
+        "heroid": 29
+    },
+    {
+        "name": "Yi Sun-shin",
+        "heroid": 30
+    },
+    {
+        "name": "Moskov",
+        "heroid": 31
+    },
+    {
+        "name": "Johnson",
+        "heroid": 32
+    },
+    {
+        "name": "Cyclops",
+        "heroid": 33
+    },
+    {
+        "name": "Estes",
+        "heroid": 34
+    },
+    {
+        "name": "Hilda",
+        "heroid": 35
+    },
+    {
+        "name": "Aurora",
+        "heroid": 36
+    },
+    {
+        "name": "Lapu-Lapu",
+        "heroid": 37
+    },
+    {
+        "name": "Vexana",
+        "heroid": 38
+    },
+    {
+        "name": "Roger",
+        "heroid": 39
+    },
+    {
+        "name": "Karrie",
+        "heroid": 40
+    },
+    {
+        "name": "Gatotkaca",
+        "heroid": 41
+    },
+    {
+        "name": "Harley",
+        "heroid": 42
+    },
+    {
+        "name": "Irithel",
+        "heroid": 43
+    },
+    {
+        "name": "Grock",
+        "heroid": 44
+    },
+    {
+        "name": "Argus",
+        "heroid": 45
+    },
+    {
+        "name": "Odette",
+        "heroid": 46
+    },
+    {
+        "name": "Lancelot",
+        "heroid": 47
+    },
+    {
+        "name": "Diggie",
+        "heroid": 48
+    },
+    {
+        "name": "Hylos",
+        "heroid": 49
+    },
+    {
+        "name": "Zhask",
+        "heroid": 50
+    },
+    {
+        "name": "Helcurt",
+        "heroid": 51
+    },
+    {
+        "name": "Pharsa",
+        "heroid": 52
+    },
+    {
+        "name": "Lesley",
+        "heroid": 53
+    },
+    {
+        "name": "Jawhead",
+        "heroid": 54
+    },
+    {
+        "name": "Angela",
+        "heroid": 55
+    },
+    {
+        "name": "Gusion",
+        "heroid": 56
+    },
+    {
+        "name": "Valir",
+        "heroid": 57
+    },
+    {
+        "name": "Martis",
+        "heroid": 58
+    },
+    {
+        "name": "Uranus",
+        "heroid": 59
+    },
+    {
+        "name": "Hanabi",
+        "heroid": 60
+    },
+    {
+        "name": "Chang\\'e",
+        "heroid": 61
+    },
+    {
+        "name": "Kaja",
+        "heroid": 62
+    },
+    {
+        "name": "Selena",
+        "heroid": 63
+    },
+    {
+        "name": "Aldous",
+        "heroid": 64
+    },
+    {
+        "name": "Claude",
+        "heroid": 65
+    },
+    {
+        "name": "Vale",
+        "heroid": 66
+    },
+    {
+        "name": "Leomord",
+        "heroid": 67
+    },
+    {
+        "name": "Lunox",
+        "heroid": 68
+    },
+    {
+        "name": "Hanzo",
+        "heroid": 69
+    },
+    {
+        "name": "Belerick",
+        "heroid": 70
+    },
+    {
+        "name": "Kimmy",
+        "heroid": 71
+    },
+    {
+        "name": "Thamuz",
+        "heroid": 72
+    },
+    {
+        "name": "Harith",
+        "heroid": 73
+    },
+    {
+        "name": "Minsitthar",
+        "heroid": 74
+    },
+    {
+        "name": "Kadita",
+        "heroid": 75
+    },
+    {
+        "name": "Faramis",
+        "heroid": 76
+    },
+    {
+        "name": "Badang",
+        "heroid": 77
+    },
+    {
+        "name": "Khufra",
+        "heroid": 78
+    },
+    {
+        "name": "Granger",
+        "heroid": 79
+    },
+    {
+        "name": "Guinevere",
+        "heroid": 80
+    },
+    {
+        "name": "Esmeralda",
+        "heroid": 81
+    },
+    {
+        "name": "Terizla",
+        "heroid": 82
+    },
+    {
+        "name": "X.Borg",
+        "heroid": 83
+    },
+    {
+        "name": "Ling",
+        "heroid": 84
+    },
+    {
+        "name": "Dyrroth",
+        "heroid": 85
+    },
+    {
+        "name": "Lylia",
+        "heroid": 86
+    },
+    {
+        "name": "Baxia",
+        "heroid": 87
+    },
+    {
+        "name": "Masha",
+        "heroid": 88
+    },
+    {
+        "name": "Wanwan",
+        "heroid": 89
     },
     {
         "name": "Silvanna",
-        "heroid": "90"
+        "heroid": 90
     },
     {
         "name": "Cecilion",
-        "heroid": "91"
+        "heroid": 91
     },
     {
         "name": "Carmilla",
-        "heroid": "92"
+        "heroid": 92
     },
     {
         "name": "Atlas",
-        "heroid": "93"
+        "heroid": 93
     }
 ]
