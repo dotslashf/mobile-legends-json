@@ -12,24 +12,28 @@
         "passive": {
             "name": "Ashing",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/Cq2IxlqmM1yASAYrAABRmHp2Cvk2592864",
+            "icon_local": "./hero/Valir/img/skills/passive_ashing.png",
             "desc": "Valir\u2019s skills ignite his targets ablaze, every second dealing Magic Damage equal to 0.6% of their Max HP. Lasts for 4s. ####When blaze stacks 3 times on a target, it causes an explosion, dealing Magic Damage equal to 6% of target's Max HP and stunning the target for 1s. (Within 7s, the same target can only be stunned by Valir's skills once.)",
             "tips": "This is Valir's core skill. When your passive is cooling down, try using Burst Fire to chase down enemies with your teammates. If you'd rather play it safe, you can also try using Searing Torrent continuously to interrupt enemy skills."
         },
         "first_skill": {
             "name": "Burst Fireball",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/Cq2IxlqmM0GAAKXqAABIQVIN3A05592614",
+            "icon_local": "./hero/Valir/img/skills/first_skill_burst_fireball.png",
             "desc": "Valir casts a fireball in a designated direction. The fireball will explode upon hitting an enemy target, dealing 260/290/320/350/380/410 Magic Damage to enemies within the explosion range and slowing them by 30%/30%/30%/30%/30%/30% for 1/1/1/1/1/1s. Meanwhile, it ignites the ground along the way, which leads to an explosion after several seconds, dealing 130/145/160/175/190/205 Magic Damage to enemies within the area of effect.####Valir can stack the fireball up to 2/2/2/2/2/2 times. If the first target the fireball hits is an enemy hero, Valir will restore a fireball at once.",
             "tips": "The very short animation before casting means that this skill can hit its target almost 100% of the time. Combined with Arcane Flame, this skill is great for melting down the enemy's HP in the early stages of a game."
         },
         "second_skill": {
             "name": "Searing Torrent",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/Cq2IxlqmM0yAZypBAABF-7C2-oU9681021",
+            "icon_local": "./hero/Valir/img/skills/second_skill_searing_torrent.png",
             "desc": "",
             "tips": "With a large damage range and knock-back effect, this skill can easily interrupt the vast majority of hero skill casts in the game. If you can judge your cast to hit targets with the end of your torrent, you can rack up very high damage."
         },
         "ultimate": {
             "name": "Vengeance Flame",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/Cq2IxlqmM1SAMhAiAABSWFFyBb49922661",
+            "icon_local": "./hero/Valir/img/skills/ultimate_vengeance_flame.png",
             "desc": "Valir removes all CC effects from him and surrounds himself with 4/4/4 Vengeance Flames, enhancing his \"Burst Fireball\"/\"Searing Torrent\". This enhancement increases the Basic Damage of these skills by 30%/35%/40% for 9/9/9s.####Meanwhile, increases his Movement Speed (decays with the time) by 50%/50%/50% in 5/5/5s.",
             "tips": "The extremely large damage range makes this an invaluable skill in team fights. When used with Burst Fire and Arcane Flame's double slowing effects, Hellfire stands a higher chance of hitting targets and dealing maximum damage."
         }

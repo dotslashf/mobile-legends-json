@@ -12,24 +12,28 @@
         "passive": {
             "name": "Yin Yang Gathering ",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cYeAKLLHAABni95P2mc237.png",
+            "icon_local": "./hero/Kagura/img/skills/passive_yin_yang_gathering_.png",
             "desc": "",
             "tips": "One of your most important skills, this is what makes her an insane poking machine..<br>Reuniting with her umbrella would trigger the passive, which gives her a mini stun and a tiny shield.<br>There are 3 ways in reuniting with the umbrella that could trigger her passive.<br>Walking out of range from the umbrella<br>Using \u201c2\u201d to teleport to the umbrella<br>Walking over to the umbrella."
         },
         "first_skill": {
             "name": "Seimei Umbrella Open ",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cWqAacSQAABgEqfMxnw444.png",
+            "icon_local": "./hero/Kagura/img/skills/first_skill_seimei_umbrella_open_.png",
             "desc": "",
             "tips": "It can act as an ward, throw the umbrella into a bush to reveal the location. This could reduce the chances of getting ganked.<br>There\u2019s a built in slow whenever you hit, this CC annoys the hell out of your enemy. When escaping, keep throwing your umbrella towards your enemy to slow them down. This allows easier escape<br>To poke your enemy, it\u2019s easier if your umbrella is out in the open, since it\u2019s nearly unpredictable plus there\u2019s a shorter distance to cover when compared to the umbrella flying out from you.<br>This ability allows you to poke people under their tower due to her insane range, remember point \u201c2\u201d under the passive section? Proc-ing the passive while under the the tower range allows you to take a hit from the tower, paired with the annoying range, it\u2019s a pretty deadly combo."
         },
         "second_skill": {
             "name": "Rasho Umbrella Flee",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cXWAeJvVAABT-EkDLko165.png",
+            "icon_local": "./hero/Kagura/img/skills/second_skill_rasho_umbrella_flee.png",
             "desc": "",
             "tips": "Your bread and butter skill. The skill that makes her so annoying to deal with, with the built in purify. It makes her pretty much immune to all CCs. The one skill that allows her to slip away from chasing enemies when mastered."
         },
         "ultimate": {
             "name": "Yin Yang Overturn",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cX-AZLwlAABcv5Qi8gc242.png",
+            "icon_local": "./hero/Kagura/img/skills/ultimate_yin_yang_overturn.png",
             "desc": "",
             "tips": "Use this skill with your \u201c2\u201d after teleporting to your umbrella proc \u201c3\u201d to deal some damage to the enemy and knocking them back.<br>This skill can be use to intercept enemies that are chasing your allies, the knockback and slow gives your allies some time to escape<br>You can even proc \u201c3\u201d before you dash away to escape<br>Teleporting behind your enemies and proc-ing \u201c3\u201d when they are near your tower can knock them towards your tower."
         }

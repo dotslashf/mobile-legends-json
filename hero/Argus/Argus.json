@@ -12,24 +12,28 @@
         "passive": {
             "name": "Warmonger",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7lmaAPbpAAABG4ixJJdY957.png",
+            "icon_local": "./hero/Argus/img/skills/passive_warmonger.png",
             "desc": "",
             "tips": "-This skill is what helps Argusto be overpowered, especially when low in health.<br>-Gives extra burst of damage.<br>-The more HP that are missing,the faster the rage bar gets filled."
         },
         "first_skill": {
             "name": "Demonic Grip",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7llKARaVUAABPjyS3mz8110.png",
+            "icon_local": "./hero/Argus/img/skills/first_skill_demonic_grip.png",
             "desc": "",
             "tips": "-This skill is needs to be usedwell since it greatly helps Argus\u2019 mobility in the battlefield.<br>-Can be used to catch enemyheroes since it inflicts stun and propels Argus towards the enemy hero.<br>-The second activation of thisskill can help you position yourself on your enemy and deal additional damage.<br>-The grapple goes throughterrains, which gives you better a chance of a successful pursuit or retreat.But, if your final travel point is a terrain, you won\u2019t get through the terrainand just bump into it."
         },
         "second_skill": {
             "name": "Meteoric Sword",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7llmAcNiHAABFNGGgD3I491.png",
+            "icon_local": "./hero/Argus/img/skills/second_skill_meteoric_sword.png",
             "desc": "",
             "tips": "-This skill greatly helps Argus\u2019early game damage and can enhance the whole team\u2019s mobility.<br>-Can be used to quickly killminions and creeps. For best effect in lanes, hit the minions in a straightline.<br>-The skill\u2019s actual AOE and rangeis bigger than you think it is.<br>-It also slows heroes down."
         },
         "ultimate": {
             "name": "Eternal Evil",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7ll-ALFGVAABRzXGOOBA461.png",
+            "icon_local": "./hero/Argus/img/skills/ultimate_eternal_evil.png",
             "desc": "",
             "tips": "-This skill is what makes Argusspecial since it gives 5 seconds of death immunity, full rage bar (Instantdouble attack) and will convert 100% of damage done while the skill is active, intoHP after 5 secs.<br>-Can be used even when stunned,transformed, silenced, airborne or while being pushed/pulled. But, it can\u2019t beused while the other skills are in use.<br>-Can turn the tide of a clashwhen used properly."
         }

@@ -12,24 +12,28 @@
         "passive": {
             "name": "Noumenon Energy Core",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cHyAFmahAABgI8abj7Y659.png",
+            "icon_local": "./hero/Lolita/img/skills/passive_noumenon_energy_core.png",
             "desc": "",
             "tips": "If Lolita already has a shield and shield is fully charged, nearby Allies will receive the shield. So if there are 4 allies around you that doesnt have a shield, they will all receive it at the same time."
         },
         "first_skill": {
             "name": "Charge",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cC-APjMUAABlEKSfaTM468.png",
+            "icon_local": "./hero/Lolita/img/skills/first_skill_charge.png",
             "desc": "",
             "tips": "At skill level 1 its 350 + 2.5%hp , at skill level 6 its 650 + 5% hp of damage. This will hurt quite alot when you are hitting enemy with high amount of HP, it even works with lord."
         },
         "second_skill": {
             "name": "Guardian's Bulwark",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cGqAYlbdAABc9Z_NnXU564.png",
+            "icon_local": "./hero/Lolita/img/skills/second_skill_guardian's_bulwark.png",
             "desc": "",
             "tips": "Try to use your shield only when you really need it, like blocking cyclop's ultimate.After blocking the damage, try to aim the Energy Blast to hit the lowest health target. You don't need to use it immediately as you have 4s to fire it."
         },
         "ultimate": {
             "name": "Noumenon Blast",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cHSAKKG2AABnh84M5fI750.png",
+            "icon_local": "./hero/Lolita/img/skills/ultimate_noumenon_blast.png",
             "desc": "",
             "tips": "Your ultimate chargeup animation will not be visible by the enemy team if they cannot see you while you are in the bush, so the stealth ult is stiill here after the remake."
         }

@@ -12,24 +12,28 @@
         "passive": {
             "name": "Wrath of the Abyss",
             "icon": "https://img.mobilelegends.com/group1/M00/00/8C/Cq2Ixl0jCFeANEyAAABmMCd_08w810.png",
+            "icon_local": "./hero/Dyrroth/img/skills/passive_wrath_of_the_abyss.png",
             "desc": "When Dyrroth's Rage reaches 50%, he will enhance \"Burst Strike\" and \"Spectre Step\".########After each 2 Basic Attacks, Dyrroth will release Circle Strike, dealing  points of Physical Damage to enemies in the circle and regenerating HP according to the damage he deals (Circle Strike doesn't have ATK Effect). Each time he hits an enemy hero, the CD of \"Burst Strike\" and \"Spectre Step\" will be decreased by 1s. ",
             "tips": "\"When Dyrroth's Rage reaches 50%, he will enhance Burst Strike and Spectre Step. After each 2 Basic Attacks, Dyrroth will release a circle strike of his Basic Attack, dealing Physical Damage to enemies in the circle. Each time he hits an enemy hero, the CD of Burst Strike and Spectre Step will be decreased. <br>Atk Speed equipment is great for Dyrroth, allowing him to release circle strike frequently and enjoy the ability to recover while still dealing a lot of damage.\"<br>"
         },
         "first_skill": {
             "name": "Burst Strike",
             "icon": "https://img.mobilelegends.com/group1/M00/00/8C/Cq2Ixl0jCIqAIAVYAABPCTurbfU987.png",
+            "icon_local": "./hero/Dyrroth/img/skills/first_skill_burst_strike.png",
             "desc": "Dyrroth releases Burst Strike in a designated direction, dealing 200/250/300/350/400/450 points of Physical Damage to enemies along the way and slowing them by 25%/25%/25%/25%/25%/25%. Lasts 1.5/1.5/1.5/1.5/1.5/1.5s (Damage decays against the same target).########Abyss Enhanced:  Burst Strike has a longer range, dealing 140%/140%/140%/140%/140%/140% of the original damage and double the slowing effect.",
             "tips": "\"Dyrroth releases Burst Strike in a designated direction, dealing Physical Damage to enemies along the way and slowing them down. [Abyss Enhanced]: Burst Strike has a longer range, dealing 150% of the original damage and doubling the slowing effect.<br>This is Dyrroth's main poke skill, which has a decent damage range and can be used to get rage quickly.\"<br>"
         },
         "second_skill": {
             "name": "Spectre Step",
             "icon": "https://img.mobilelegends.com/group1/M00/00/8C/Cq2Ixl0jCJSAZ-OQAABRfd67Xh4698.png",
+            "icon_local": "./hero/Dyrroth/img/skills/second_skill_spectre_step.png",
             "desc": "Dyrroth dashes in the designated direction. He will stop when he hits an target, dealing 230/255/280/305/330/355 points of Physical Damage to enemies. When he uses this skill again, he will lock a target and releases Fatal Strike, dealing 345/390/435/480/525/570 points of Physical Damage and reducing the target's Physical Defense by 50%/50%/50%/50%/50%/50%. Lasts 4/4/4/4/4/4s.########Abyss Enhanced: Fatal Strike will deal 150%/150%/150%/150%/150%/150% of the original damage, slow the target extra by 90%/90%/90%/90%/90%/90% and reduce the target's 75%/75%/75%/75%/75%/75% Physical Defense. Lasts 4/4/4/4/4/4s.",
             "tips": "\"Dyrroth dashes in the designated direction. He will stop when he hits an target, dealing Physical Damage to enemies andand slightly knocking them back. When he uses this skill again, he will lock onto a target and release Fatal Strike, dealing Physical Damage and reducing the target's Physical Defense.<br>Abyss Enhanced: Fatal Strike will deal 150% of the original damage, and slow the target down by extra 90%.<br>These are his starting skills. When he blinks, he will knock back targets after hitting them. This skill can be used to interrupt targets' skills, and the armorless and slowing effect caused by Fatal Strike should be put to use to deal more damage.\"<br>"
         },
         "ultimate": {
             "name": "Abysm Strike",
             "icon": "https://img.mobilelegends.com/group1/M00/00/8C/Cq2Ixl0jCHmAD7uTAABSbQ1a2dM977.png",
+            "icon_local": "./hero/Dyrroth/img/skills/ultimate_abysm_strike.png",
             "desc": "Dyrroth quickly charges and releases Fatal Strike, dealing Physical Damage equal to 650/950/1250 points plus 20%/20%/20% of enemies' lost HP to enemies along the way and slowing them by 55%/55%/55%. Lasts 0.8/0.8/0.8s.",
             "tips": "\"Dyrroth quickly charges and releases Fatal Strike, dealing Physical Damage to enemies along the way and slowing them down. <br>This is the core skill for Dyrroth to deal damage. The skill takes a certain amount of time to cast, but the damage is nothing to take lightly. So you need to find the right time to release the full potential of this skill. \"\"Spectre Step\"\" with its own enhancement has a better use effect.\"<br>"
         }

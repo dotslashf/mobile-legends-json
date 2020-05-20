@@ -12,24 +12,28 @@
         "passive": {
             "name": "Thickened Blood",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7l4-AEpqfAABV_rJ_H3g406.png",
+            "icon_local": "./hero/Hylos/img/skills/passive_thickened_blood.png",
             "desc": "",
             "tips": "It is recommended to build mana providing equipment, as it will also give you health at the same time. In some situations if you run out of mana, you may use health to cast skills and finish off enemies."
         },
         "first_skill": {
             "name": "Law and Order",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7l3WAE7ugAABS2OuM954513.png",
+            "icon_local": "./hero/Hylos/img/skills/first_skill_law_and_order.png",
             "desc": "",
             "tips": "The range is rather short, best to use it as soon as possible in order to control the target."
         },
         "second_skill": {
             "name": "Ring of Punishment",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7l36ABU44AABZLUlysdQ455.png",
+            "icon_local": "./hero/Hylos/img/skills/second_skill_ring_of_punishment.png",
             "desc": "",
             "tips": "This is Hylos' core damage ability, a AoE ring damaging ability that is immune to CC, pay attention to your mana when using it, take notice of the enemy's HP when utilizing health to cast this ability."
         },
         "ultimate": {
             "name": "Glorious Pathway",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7l4WAR9VhAABE5A-iaEo796.png",
+            "icon_local": "./hero/Hylos/img/skills/ultimate_glorious_pathway.png",
             "desc": "",
             "tips": "This is Hylos's signature move, it's a teamfight machine, this is the skill that separates the best Hylos players from the good ones."
         }

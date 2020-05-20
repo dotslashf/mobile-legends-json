@@ -12,24 +12,28 @@
         "passive": {
             "name": "Spiritual Unity",
             "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2IxlplgkGAbkhgAABQLzTpizY9141014",
+            "icon_local": "./hero/Pharsa/img/skills/passive_spiritual_unity.png",
             "desc": "",
             "tips": "Try to ensure verri's hits land on heroes!"
         },
         "first_skill": {
             "name": "Curse of Crow",
             "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2IxlplgeOATysnAACBwuLzm4k0619729",
+            "icon_local": "./hero/Pharsa/img/skills/first_skill_curse_of_crow.png",
             "desc": "Pharsa casts a spell to a target area, dealing 300/325/350/375/400/425 Magic Damage to enemies within the area of effect and marking them. The mark lasts for 4/4/4/4/4/4s.####When Pharsa hits a marked target with her other skills, the mark will stun the target for 1/1/1/1/1/1s and disappear.",
             "tips": "After using this skill, Pharsa will still take damage, and the effect will be interrupted immediately when controlled. <br>Timing is vital to using this skill correctly."
         },
         "second_skill": {
             "name": "Energy Impact",
             "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2IxlplgfiAESsWAACIcnn4r4w2645505",
+            "icon_local": "./hero/Pharsa/img/skills/second_skill_energy_impact.png",
             "desc": "",
             "tips": "Deals moderate damage, but can cause high damage to a single enemy hero when used with Pharsa's passive."
         },
         "ultimate": {
             "name": "Feathered Air Strike",
             "icon": "https://img.mobilelegends.com/group1/M00/00/00/Cq2IxlplgjOAQtCOAABLVO6F3so7396916",
+            "icon_local": "./hero/Pharsa/img/skills/ultimate_feathered_air_strike.png",
             "desc": "",
             "tips": "Her ultimate has a very short cooldown, so it can be used frequently. You can use Flicker while casting to adjust your position and ensure your own safety."
         }

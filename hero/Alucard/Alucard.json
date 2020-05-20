@@ -12,24 +12,28 @@
         "passive": {
             "name": "Pursuit",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U4eAWBtUAABeV7gMl0w796.png",
+            "icon_local": "./hero/Alucard/img/skills/passive_pursuit.png",
             "desc": "",
             "tips": "This passive gives Aluchan the \u201cchasing effect\u201d using your AA after every skills will move you to the target you\u2019re trying to attack.<br>This works on all targets, including Towers so do take note.<br>Always use your AA after every skill to make use of passives extra damage."
         },
         "first_skill": {
             "name": "Groundsplitter",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U2uAECJ2AABXd6fXNg0662.png",
+            "icon_local": "./hero/Alucard/img/skills/first_skill_groundsplitter.png",
             "desc": "",
             "tips": "Escape tool, you can use this to jump over the wall<br>Engage tool, you can use this to get closer to the backline<br>Pair this up with your passive to do a \u2018Gap Closer\u2019 or \u2018Retreat\u2019<br>Has a pretty neat slow built in, so that you can give chase."
         },
         "second_skill": {
             "name": "Whirling Smash",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U3iAGvigAABdeXRlEVs184.png",
+            "icon_local": "./hero/Alucard/img/skills/second_skill_whirling_smash.png",
             "desc": "",
             "tips": "AOE damage skill made to target surroundings enemy<br>Pretty standard skill with no other effects lolol.<br>Super Low Cooldown at 5 seconds, make use of this skill to always proc your passive"
         },
         "ultimate": {
             "name": "Fission Wave",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U4CABVCGAABWLQmYBhk366.png",
+            "icon_local": "./hero/Alucard/img/skills/ultimate_fission_wave.png",
             "desc": "",
             "tips": "Gives you insane lifesteal<br>Pretty Dope damage on the last attack<br>Your one skill that allows you to have higher sustain compared any other heroes.<br>Both parts of the skill allows you to proc your passive<br>Lifesteal on different targets differs."
         }

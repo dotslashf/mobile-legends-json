@@ -12,24 +12,28 @@
         "passive": {
             "name": "Hero's Faith",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7dueAE8MwAABGNfNVgkw498.png",
+            "icon_local": "./hero/Lapu-Lapu/img/skills/passive_hero's_faith.png",
             "desc": "",
             "tips": "The shield is basically what makes lapu tanky. This makes lapu lapu very dependent on his skills. Yet, Lapu lapu has no mana. This is the main theme of his build and will mainly focus on cooldown reduction and sometimes the shield itself. This passive will be charged easier when engaging multiple enemies, some says 1 vs 3 may not be that of a problem. But then just consider this passive as a shield."
         },
         "first_skill": {
             "name": "Justice Blade",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7ds-AfSrvAABGCmQwGHc576.png",
+            "icon_local": "./hero/Lapu-Lapu/img/skills/first_skill_justice_blade.png",
             "desc": "",
             "tips": "This is the main source of the passive. When you have a chance, use this skill to attack enemies from a distance. You can also use this to clear up waves of minions faster giving you time to farm and defend easier."
         },
         "second_skill": {
             "name": "Brave Stance",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7dtmAeT0oAABHZsvuoK4264.png",
+            "icon_local": "./hero/Lapu-Lapu/img/skills/second_skill_brave_stance.png",
             "desc": "",
             "tips": "This helps him to chasedown enemies, or escape ganks and also deal damage. Useful in dealing that last hit to an enemy, lapu is an assasin afterall."
         },
         "ultimate": {
             "name": "Chieftain's Rage",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7duCAMTjfAABF7T0jQZk051.png",
+            "icon_local": "./hero/Lapu-Lapu/img/skills/ultimate_chieftain's_rage.png",
             "desc": "",
             "tips": "This is useful in initiating team fights yet best in assasinating enemies offguard. It may take time to cast but will will surely give problems on hit. Cover a wide area front of lapu. use when inside bush To catch the enemy off guard. I earn lots of first blood with this skill. When the enemy thinks you are missing in your lane but just hiding in the bush guarantees a hit. "
         }

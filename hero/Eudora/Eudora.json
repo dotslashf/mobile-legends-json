@@ -12,24 +12,28 @@
         "passive": {
             "name": "Superconductor",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VSaANVwBAABabvYxvTE097.png",
+            "icon_local": "./hero/Eudora/img/skills/passive_superconductor.png",
             "desc": "",
             "tips": "Skill gives the target a Superconductor effect which will amplify the effects of other abilities."
         },
         "first_skill": {
             "name": "Forked Lightning",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VQiAfMhwAABYiyiFL8A120.png",
+            "icon_local": "./hero/Eudora/img/skills/first_skill_forked_lightning.png",
             "desc": "",
             "tips": "Use Skill 2 first before using skill 1, this will reduce their magic resistance, allowing skill 1 to do more damage."
         },
         "second_skill": {
             "name": "Electric Arrow",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VRCAL097AABZZTgfwLw449.png",
+            "icon_local": "./hero/Eudora/img/skills/second_skill_electric_arrow.png",
             "desc": "",
             "tips": "When being ganked or helping out teammates, you can try using Skill 1 first before skill 2 so the stun lasts longer."
         },
         "ultimate": {
             "name": "Thunderstruck",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VRyAeOOCAABeypZysIU048.png",
+            "icon_local": "./hero/Eudora/img/skills/ultimate_thunderstruck.png",
             "desc": "",
             "tips": "Best to use after casting other spells, for maximum damage potential."
         }

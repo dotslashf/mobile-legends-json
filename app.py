@@ -1,4 +1,6 @@
 from scrape_hero import ScrapeHero
 
-sh = ScrapeHero("list_hero.json")
-sh.run()
+if __name__ == "__main__":
+    sh = ScrapeHero("list_hero.json")
+    # sh.initial_download()
+    sh.run()

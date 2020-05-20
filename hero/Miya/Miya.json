@@ -12,24 +12,28 @@
         "passive": {
             "name": "Turbo",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UgOAHog5AABcU8mv2xY458.png",
+            "icon_local": "./hero/Miya/img/skills/passive_turbo.png",
             "desc": "",
             "tips": "Miya\u2019s basic attacks increase her attack speed, so her damage will increase the longer she stays in combat. Before engaging a hero, try to build up and maintain your passive attack speed boost by continually attacking minions."
         },
         "first_skill": {
             "name": "Fission Shot",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6T6uAYUANAABfHXx-Jww664.png",
+            "icon_local": "./hero/Miya/img/skills/first_skill_fission_shot.png",
             "desc": "",
             "tips": "This is Miya\u2019s core late-game damage skill. After using it, Miya\u2019s basic attacks will deal damage to three targets. This skill can help Miya to deal heavy AoE damage in team fights. This skill benefits greatly from physical attack obtained through items, so you should only upgrade it to level 1 in the early game, until you get some gear."
         },
         "second_skill": {
             "name": "Rain of Arrows",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UOSAO9buAABLcr9f_tM463.png",
+            "icon_local": "./hero/Miya/img/skills/second_skill_rain_of_arrows.png",
             "desc": "",
             "tips": "This circular slowing skill has a large range, and after hitting an enemy four times, the target will be frozen. Combine this with other teammates\u2019 control skills to leave your enemy feeling hopeless. This is Miya\u2019s main damage and wave-clearing skill in the early game, and is therefore a priority when upgrading skills."
         },
         "ultimate": {
             "name": "Turbo Stealth",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UXCAJWAQAABUYCsPT90079.png",
+            "icon_local": "./hero/Miya/img/skills/ultimate_turbo_stealth.png",
             "desc": "",
             "tips": "This displacement skill removes all control effects from Miya and puts her into stealth, significantly enhancing her survivability in team fights. When the enemy team suddenly launches an attack in the late game, Miya can retreat and find a safer position to attack from."
         }

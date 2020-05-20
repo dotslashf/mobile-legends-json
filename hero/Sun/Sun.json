@@ -12,24 +12,28 @@
         "passive": {
             "name": "Simian God",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7ceyAfC9PAABRK_X4SCE171.png",
+            "icon_local": "./hero/Sun/img/skills/passive_simian_god.png",
             "desc": "",
             "tips": ""
         },
         "first_skill": {
             "name": "Endless Variety",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7ccOAeAg4AABeOmJvFns121.png",
+            "icon_local": "./hero/Sun/img/skills/first_skill_endless_variety.png",
             "desc": "",
             "tips": ""
         },
         "second_skill": {
             "name": "Instantaneous Move",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cd-AHwTDAABZCkorqvs764.png",
+            "icon_local": "./hero/Sun/img/skills/second_skill_instantaneous_move.png",
             "desc": "",
             "tips": ""
         },
         "ultimate": {
             "name": "Clone Techniques",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7ceaAFW_fAABcC-Q6g48012.png",
+            "icon_local": "./hero/Sun/img/skills/ultimate_clone_techniques.png",
             "desc": "",
             "tips": ""
         }

@@ -2,7 +2,6 @@ import json
 import requests
 import re
 import os
-import shutil
 import csv
 from datetime import datetime
 
@@ -45,8 +44,8 @@ class Hero(object):
                 try:
                     print(f"Downloading 🖼️: {img['img_name']} / {img['url']}")
 
-                    with open(f"{self.path}/img/cover_{img['img_name'].lower().replace(' ', '')}.png", 'wb') as f:
-                        f.write(re.content)
+                    # with open(f"{self.path}/img/cover_{img['img_name'].lower().replace(' ', '_')}.png", 'wb') as f:
+                    #     f.write(re.content)
 
                     print(f"Success ✔️\n")
                     status_download['success'] += 1
@@ -57,8 +56,8 @@ class Hero(object):
                     print(
                         f"Retry downloading 🖼️: {img['img_name']} / {img['url']}")
 
-                    with open(f"{self.path}/img/cover_{img['img_name'].lower()}.png", 'wb') as f:
-                        f.write(re.content)
+                    # with open(f"{self.path}/img/cover_{img['img_name'].lower().replace(' ', '_')}.png", 'wb') as f:
+                    #     f.write(re.content)
 
                     print(f"Success ✔️\n")
                     status_download['success'] += 1
@@ -106,24 +105,28 @@ class Hero(object):
                 'passive': {
                     'name': self.hero['data']['skill']['skill'][-1]['name'],
                     'icon': self.hero['data']['skill']['skill'][-1]['icon'],
+                    'icon_local': f"{self.path}/img/skills/passive_{self.hero['data']['skill']['skill'][-1]['name'].replace(' ', '_').lower()}.png",
                     'desc': self.hero['data']['skill']['skill'][-1]['des'],
-                    'tips': self.hero['data']['skill']['skill'][-1]['tips']
+                    'tips': self.hero['data']['skill']['skill'][-1]['tips'],
                 },
                 'first_skill': {
                     'name': self.hero['data']['skill']['skill'][0]['name'],
                     'icon': self.hero['data']['skill']['skill'][0]['icon'],
+                    'icon_local': f"{self.path}/img/skills/first_skill_{self.hero['data']['skill']['skill'][0]['name'].replace(' ', '_').lower()}.png",
                     'desc': self.hero['data']['skill']['skill'][0]['des'],
                     'tips': self.hero['data']['skill']['skill'][0]['tips']
                 },
                 'second_skill': {
                     'name': self.hero['data']['skill']['skill'][1]['name'],
                     'icon': self.hero['data']['skill']['skill'][1]['icon'],
+                    'icon_local': f"{self.path}/img/skills/second_skill_{self.hero['data']['skill']['skill'][1]['name'].replace(' ', '_').lower()}.png",
                     'desc': self.hero['data']['skill']['skill'][1]['des'],
                     'tips': self.hero['data']['skill']['skill'][1]['tips'],
                 },
                 'ultimate': {
                     'name': self.hero['data']['skill']['skill'][2]['name'],
                     'icon': self.hero['data']['skill']['skill'][2]['icon'],
+                    'icon_local': f"{self.path}/img/skills/ultimate_{self.hero['data']['skill']['skill'][2]['name'].replace(' ', '_').lower()}.png",
                     'desc': self.hero['data']['skill']['skill'][2]['des'],
                     'tips': self.hero['data']['skill']['skill'][2]['tips'],
                 }
@@ -136,7 +139,6 @@ class Hero(object):
             with open(f'{self.path}/{self.hero_name}.json', 'w') as f:
                 json.dump(data, f, indent=4)
 
-            self.download_hero_skills_img(data['skills'])
             print(f"Success ✔️\n")
         except:
             print(f"No {self.hero_name} found, creating: {self.hero_name} 📁")
@@ -147,9 +149,9 @@ class Hero(object):
             with open(f'{self.path}/{self.hero_name}.json', 'w') as f:
                 json.dump(data, f, indent=4)
 
-            self.download_hero_skills_img(data['skills'])
             print(f"Success ✔️\n")
 
+        # self.download_hero_skills_img(data['skills'])
         status_download = self.download_hero_img()
         print(
             f"Done creating: {self.hero_name} ✔️ | ({status_download['success']}/{status_download['total']}) 🖼️\n-----------------------------------\n")
@@ -163,6 +165,6 @@ class Hero(object):
         data['time'] = time_now.strftime("%Y-%d-%m, %H:%M:%S")
 
         with open('error_log.csv', 'a+') as f:
-            fields = ['hero_name', 'img_error_url', 'time']
+            fields = ['hero_name', 'img_error_url', 'skin_name', 'time']
             writer = csv.DictWriter(f, fieldnames=fields)
             writer.writerow(data)

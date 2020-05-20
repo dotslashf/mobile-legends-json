@@ -12,24 +12,28 @@
         "passive": {
             "name": "Chivalry Fist",
             "icon": "https://img.mobilelegends.com/group1/M00/00/70/Cq2Ixlw9mfaAVviuAABRB2NtIe8923.png",
+            "icon_local": "./hero/Badang/img/skills/passive_chivalry_fist.png",
             "desc": "Badang's Basic Attack after every 4 times knocks enemies back and deals  points of Physical Damage to them. Enemies that are knocked back to the obstacles will be stunned. Lasts 0.8s. The Minions and Creeps will be stunned immediately.####Badang's Fist Wind also has Passive effect.",
             "tips": "Better use the control effect with Fist Break and slay enemies with ease."
         },
         "first_skill": {
             "name": "Qigong Fist",
             "icon": "https://img.mobilelegends.com/group1/M00/00/70/Cq2Ixlw9mduATba1AABHFzQrqHY568.png",
+            "icon_local": "./hero/Badang/img/skills/first_skill_qigong_fist.png",
             "desc": "Badang coheres all his strength to his fists and performs an overwhelming Fist Wind, dealing 220/255/290/325/360/395 points of Physical Damage to enemies on the path and slowing them by 30%/30%/30%/30%/30%/30%. ####The damage of Qigong Fist will trigger Basic Attack Effect and stack 1 time for the \"Chivalry Fist\". All fist winds of Badang explode when hitting the obstacles left by him, dealing extra 155/180/205/230/255/280 points of Physical Damage.",
             "tips": "Try to use Qigong Fist and trigger Passive and control enemies at some important moments."
         },
         "second_skill": {
             "name": "Fist Break",
             "icon": "https://img.mobilelegends.com/group1/M00/00/70/Cq2Ixlw9mdGATm7DAABGmM_aEgc969.png",
+            "icon_local": "./hero/Badang/img/skills/second_skill_fist_break.png",
             "desc": "Badang dashes towards the designated direction. If he hits enemies along the way, he will knock them back and deal 230/250/270/290/310/330 points of Physical Damage to them, leaving an obstacle along the path for 4/4/4/4/4/4s. Enemies that hit on the obstacle will take 130/140/150/160/170/180 points of Physical Damage. ####Use Again: Remove the obstacles that he creates. ####If he doesn't hit any enemy along the way, the CD will be reduced by 40%/40%/40%/40%/40%/40%.",
             "tips": " This skill can be stacked. It's Badang's core skill. Try to better use Qigong Fist and slow enemies down to increase the hit rate of Fist Break. With the help of the obstacles, his Passive can deal more damage and better control the enemies."
         },
         "ultimate": {
             "name": "Fist Crack",
             "icon": "https://img.mobilelegends.com/group1/M00/00/70/Cq2Ixlw9mgGAXvpgAABNCDi8Jlo886.png",
+            "icon_local": "./hero/Badang/img/skills/ultimate_fist_crack.png",
             "desc": "Badang quickly throws his fists in the designated direction and generates a Fist Wind at the moment of release, dealing 100/140/180 points of Physical Damage to enemies for several times. This fist wind enjoys Basic Attack Effect, and when the fist wind hits the obstacle, it will explode and deal 60/84/108 points of Physical Damage. ####During the release of the skill, Badang generates a shield that absorbs 500/750/1000 points of Damage. This shield makes him immune to Control Effects.",
             "tips": "Fist Crack's fist wind can trigger the explosion of his Passive."
         }

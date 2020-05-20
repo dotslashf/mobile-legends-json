@@ -12,24 +12,28 @@
         "passive": {
             "name": "Lightwheel Mark",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7d1uAMrlYAABANbJh2I8088.png",
+            "icon_local": "./hero/Karrie/img/skills/passive_lightwheel_mark.png",
             "desc": "",
             "tips": "Because this passive skill deal percentage damage instead of static damage , it is best used to enemy with high health . The bigger the maximum HP , the bigger the damage."
         },
         "first_skill": {
             "name": "Spinning Lightwheel",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7d0eAU0PrAABCMVxSswc238.png",
+            "icon_local": "./hero/Karrie/img/skills/first_skill_spinning_lightwheel.png",
             "desc": "",
             "tips": "This skill is really useful to fight against a crowd of minion , because it will do damage to minion with / without your presence , especially when the enemy is surrounding the minion and you cannot use basic attack to hit them . It is also effective against Lord and Holy Lord that is going toward your turret because it will slow his movement speed , allowing you to kill him before he can do damage . "
         },
         "second_skill": {
             "name": "Phantom Step",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7d06ALkDBAABJY7avjC0326.png",
+            "icon_local": "./hero/Karrie/img/skills/second_skill_phantom_step.png",
             "desc": "",
             "tips": "When it comes to battle , this skill is really good at creating distance between you with your enemy or to dodge their attack while damaging them , but be careful , any mistake when using this skill will only make you become closer to your enemy and allowing them to kill you easier . "
         },
         "ultimate": {
             "name": "Speedy Lightwheel",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7d1SAWWMJAABDF3Qrpag847.png",
+            "icon_local": "./hero/Karrie/img/skills/ultimate_speedy_lightwheel.png",
             "desc": "",
             "tips": "Usually , using this skill at max level to the enemy is equal with normal basic attack , but if your enemy maximum HP is really big , this skill is very deadly , so remember to not use this skill to enemy with low maximum HP and only use it when you are fighting against enemy with big maximum HP . "
         }

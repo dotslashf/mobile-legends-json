@@ -12,24 +12,28 @@
         "passive": {
             "name": "Ninjutsu: Equinox",
             "icon": "https://img.mobilelegends.com/group1/M00/00/09/Cq2IxlrV0EKARQAXAABX5tjumJo9272487",
+            "icon_local": "./hero/Hanabi/img/skills/passive_ninjutsu:_equinox.png",
             "desc": "",
             "tips": "The Scarlet Shadow\u2019s secret technique. When Hanabi has full HP, health that would have been granted from Lifesteal is converted into a shield. When this shield is active, Hanabi is immune to all control effects."
         },
         "first_skill": {
             "name": "Ninjutsu: Petal Barrage",
             "icon": "https://img.mobilelegends.com/group1/M00/00/09/Cq2IxlrV0EyATsutAABRyLEgg3Q9317242",
+            "icon_local": "./hero/Hanabi/img/skills/first_skill_ninjutsu:_petal_barrage.png",
             "desc": "",
             "tips": "Hanabi consumes mana to unleash the flower demon sealed within the Higanbana, firing petal blades at her enemies. After each basic attack hits, a new blade will spawn and deal physical damage to the enemy. Consecutive hits deal less damage. Passive: This skill grants Hanabi a certain amount of Lifesteal, which increases each time Petal Barrage is upgraded."
         },
         "second_skill": {
             "name": "Ninjutsu: Soul Scroll",
             "icon": "https://img.mobilelegends.com/group1/M00/00/09/Cq2IxlrV0CyAYbnBAABWmLqAY_o1779251",
+            "icon_local": "./hero/Hanabi/img/skills/second_skill_ninjutsu:_soul_scroll.png",
             "desc": "",
             "tips": "Fires a kunai in the specified direction, attached with a scroll sealed by demonic flower energy. Deals physical damage to enemies it hits along the way and slows them. Hanabi will recover Mana for each enemy hero hit (this Mana regeneration effect will decay when hitting multiple heroes)."
         },
         "ultimate": {
             "name": "Forbidden Jutsu: Higanbana",
             "icon": "https://img.mobilelegends.com/group1/M00/00/09/Cq2IxlrV0DaAQjVlAABPgZLdB0U2845986",
+            "icon_local": "./hero/Hanabi/img/skills/ultimate_forbidden_jutsu:_higanbana.png",
             "desc": "",
             "tips": "When the flowers blossom, the leaves are forgotten. Hanabi completely unlocks the Higanbana\u2019s seal and launches it at the enemy. After hitting an enemy, the Higanbana blooms, dealing physical damage and immobilizing them, and then spreads to nearby enemies. After a certain period of time, if the enemy is still within range of the Higanbana, a new flower will appear, causing the same damage and immobilization effect. The spreading effect only works once per hero."
         }

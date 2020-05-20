@@ -12,24 +12,28 @@
         "passive": {
             "name": "Soul Cutter",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7lyOAFqakAABVaNF1WY8266.png",
+            "icon_local": "./hero/Lancelot/img/skills/passive_soul_cutter.png",
             "desc": "",
             "tips": "While engaging Solo or with the teammates.First Hit the second ability to make damage then the first ability to make some combos and to distract the enemy, then finish him with the Ultimate if he still alive then hit the second ability again."
         },
         "first_skill": {
             "name": "Puncture",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7lwiADy9dAABefsnImdU266.png",
+            "icon_local": "./hero/Lancelot/img/skills/first_skill_puncture.png",
             "desc": "",
             "tips": "In Combat make sure you hit the target so you can use it twice, Maybe 3 time's Combo if you killed the target what ever it was,<br>Works On Enemies & Minions aswell "
         },
         "second_skill": {
             "name": "Thorned Rose",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7lw6ACU_gAABRCINtIsk452.png",
+            "icon_local": "./hero/Lancelot/img/skills/second_skill_thorned_rose.png",
             "desc": "",
             "tips": "Throned Rose is the Best Ability for Lancelot in dealing damage to the nearby enemies if positioned well , and While the team is Engaging you Better turn your focusing mode on and try to position it very well in the centre of the fight area, you go use it first then you hit the Ulti real quick .. We will get to that ''Ultimate''part in less than a minute,<br>Also We can use Throned Rose to farm minion's real quick and the Jungle monster's in earlier game it's very Powerfull especially when we buy the ''Hunter's knife'' to increase the damage to the jungle monsters ,so there is No need to use."
         },
         "ultimate": {
             "name": "Phantom Execution",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7lxuAVcPNAABVz_oUuGY109.png",
+            "icon_local": "./hero/Lancelot/img/skills/ultimate_phantom_execution.png",
             "desc": "",
             "tips": "Has a very short stun but could be quite effective with proper timing<br>-Has Immunity while skill is charging, can be a great counter attack!<br>-Can also be used be used for escaping, engaging enemies."
         }

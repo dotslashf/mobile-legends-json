@@ -12,24 +12,28 @@
         "passive": {
             "name": "Grand Lord Lava",
             "icon": "https://img.mobilelegends.com/group1/M00/00/5A/Cq2Ixlugt7CAcs1_AABV0fuFbjc804.png",
+            "icon_local": "./hero/Thamuz/img/skills/passive_grand_lord_lava.png",
             "desc": "",
             "tips": "Deal more damage by triggering more puddles of lava in an area where enemies are concentrating."
         },
         "first_skill": {
             "name": "Molten Scythes",
             "icon": "https://img.mobilelegends.com/group1/M00/00/5A/Cq2Ixlugt-eAVeH1AABLv60cHDg109.png",
+            "icon_local": "./hero/Thamuz/img/skills/first_skill_molten_scythes.png",
             "desc": "",
             "tips": "Thamuz's core skill. Approach the enemies with the speed boost after throwing the scythes and attack them with the enhanced attack. Retrieveing the scythes can also enhance his attack."
         },
         "second_skill": {
             "name": "Chasm Trample",
             "icon": "https://img.mobilelegends.com/group1/M00/00/5A/Cq2Ixlugt9qAF7ByAABTPS5yiMg154.png",
+            "icon_local": "./hero/Thamuz/img/skills/second_skill_chasm_trample.png",
             "desc": "",
             "tips": "Use this skill to retrieve the scythes, collect the scythes, dash into the enemies or land on the path of the enemies to retrieve the scythes as well as pull enemies back to Thamuz."
         },
         "ultimate": {
             "name": "Cauterant Inferno",
             "icon": "https://img.mobilelegends.com/group1/M00/00/5A/Cq2Ixlugt_KAI0s4AABHuR4wycw224.png",
+            "icon_local": "./hero/Thamuz/img/skills/ultimate_cauterant_inferno.png",
             "desc": "",
             "tips": "Regenerates a huge amount of HP in team fight by using this skill"
         }

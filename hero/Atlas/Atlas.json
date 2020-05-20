@@ -12,24 +12,28 @@
         "passive": {
             "name": "Frigid Breath",
             "icon": "https://img.mobilelegends.com/group1/M00/00/A2/Cq2Ixl54UbOAT7GiAABcs-yrMqk393.png",
+            "icon_local": "./hero/Atlas/img/skills/passive_frigid_breath.png",
             "desc": "Atlas generates Frigid Breath around him for 5s each time he casts a skill. Enemies who stay in the area for 1.5s will have their movement SPD reduced by 50% and ATK Speed by 50%. They can remove the slow effect immediately by leaving the area of Frigid Breath.####Atlas gains 64-120 Physical and magic DEF when he is inside Frigid Breath.",
             "tips": "The CC and durability provided by this skill can significantly reduce the threats that Altas faces in close-quarter combats.               "
         },
         "first_skill": {
             "name": "Annihilate",
             "icon": "https://img.mobilelegends.com/group1/M00/00/A2/Cq2Ixl54UYuAUz1NAABeCasO6KQ602.png",
+            "icon_local": "./hero/Atlas/img/skills/first_skill_annihilate.png",
             "desc": "Atlas smashes the ground and causes 3 explosions. Each explosion deals 230/270/310/350/390/430 Magic Damage to enemies.####Ejected State: If Atlas has ejected from his Mecha Sentry, both himself and his Mecha will cast Annihilate.",
             "tips": "This is Atlas' most important source of damage, which inflicts double the damage when used in Ejected State.      "
         },
         "second_skill": {
             "name": "Perfect Match",
             "icon": "https://img.mobilelegends.com/group1/M00/00/A2/Cq2Ixl54UZmAamYXAABIFdjKlPY173.png",
+            "icon_local": "./hero/Atlas/img/skills/second_skill_perfect_match.png",
             "desc": "Atlas enters Ejected State, gaining 25%/25%/25%/25%/25%/25% Movement SPD and immunity to slow effects. In this state, the Mecha Sentry will follow the pilot at an increasing speed (can only be controlled by Suppression). Once they meet, Atlas will return to the Mecha, dealing 320/340/360/380/400/420 Magic Damage to enemies nearby and stunning them for 1.2/1.2/1.2/1.2/1.2/1.2s.####Ejected State: Atlas and his Mecha share the same HP bar and reduce 50%/50%/50%/50%/50%/50% of the damage taken in this state.",
             "tips": "This skill serves as Atlas' diving tool. The bonus movement speed allows him to dive into the enemy formation rapidly, while tanking a lot of damage with the Damage Reduction of this skill. When he enters the Mecha, he can control the surrounding targets again."
         },
         "ultimate": {
             "name": "Fatal Links",
             "icon": "https://img.mobilelegends.com/group1/M00/00/A2/Cq2Ixl54UaSAaZUnAABSnqUAScQ295.png",
+            "icon_local": "./hero/Atlas/img/skills/ultimate_fatal_links.png",
             "desc": "Atlas hurls chains at all nearby heroes and starts to channel (can only be interrupted by Suppress and knock-airborne effects), dealing 225/350/475 Magic Damage to enemies hit and slowing them by 40%/40%/40% (decaying over 3/3/3s).####Use the skill again while channeling, Atlas will drag the targets towards him and plunk them down on the target location, dealing 360/560/760 Magic Damage.####Using this skill in Ejected State will summon the Mecha Sentry to Atlas to merge.",
             "tips": "This Ultimate is extremely powerful in teamfights, especially when combined with the fast movement speed in Ejected State. By controlling all the enemy targets in the affected area and throwing them towards your teammates, this skill can create instant wipe-out opportunities for your team."
         }

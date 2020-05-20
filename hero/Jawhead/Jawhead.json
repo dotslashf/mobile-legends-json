@@ -12,24 +12,28 @@
         "passive": {
             "name": "Mecha Suppression",
             "icon": "https://img.mobilelegends.com/group1/M00/00/01/Cq2IxlpwKuOALTveAACFs9Kqozo6274551",
+            "icon_local": "./hero/Jawhead/img/skills/passive_mecha_suppression.png",
             "desc": "",
             "tips": "Try to focus attacks on the same target, as this can quickly stack your passive, resulting in higher attack damage."
         },
         "first_skill": {
             "name": "Smart Missiles",
             "icon": "https://img.mobilelegends.com/group1/M00/00/01/Cq2IxlpwKwWAZIjvAACGSOWwVtI0878233",
+            "icon_local": "./hero/Jawhead/img/skills/first_skill_smart_missiles.png",
             "desc": "",
             "tips": "Make sure there are no minions or monsters around you, then attack an enemy hero. All 12 missiles will be fired within 3 seconds, causing huge damage and stacking up your passive."
         },
         "second_skill": {
             "name": "Ejector",
             "icon": "https://img.mobilelegends.com/group1/M00/00/01/Cq2IxlpwKvyAaCuKAAB_m9zzMkk9581263",
+            "icon_local": "./hero/Jawhead/img/skills/second_skill_ejector.png",
             "desc": "",
             "tips": "This is Jawhead's core skill, and how you use it will separate the amateurs from the pros. Assess the battle situation and select an enemy to throw back to your teammates, or throw an ally with control skills into the middle of the enemy team to start a team fight."
         },
         "ultimate": {
             "name": "Unstoppable Force",
             "icon": "https://img.mobilelegends.com/group1/M00/00/01/Cq2IxlpwKvCAAkurAACH4NOhP9Q2451268",
+            "icon_local": "./hero/Jawhead/img/skills/ultimate_unstoppable_force.png",
             "desc": "",
             "tips": "Jawhead is immune to control effects when using this skill. Use it to catch enemies off guard and throw them to your team for maximum utility. When they find themselves in this situation, all they can do is rely on invincibility or dash and blink skills to escape, otherwise they'll definitely be controlled and killed."
         }

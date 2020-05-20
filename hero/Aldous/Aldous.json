@@ -12,24 +12,28 @@
         "passive": {
             "name": "Contract: Transform",
             "icon": "https://img.mobilelegends.com/group1/M00/00/47/Cq2IxltWDmeAJIoqAABSUm4FZJw133.png",
+            "icon_local": "./hero/Aldous/img/skills/passive_contract:_transform.png",
             "desc": "",
             "tips": "After every 3 attacks, the damage dealt by Aldous' next attack will be transformed into a shield that lasts for seconds.  Activates every 3 seconds. "
         },
         "first_skill": {
             "name": "Contract: Soul Steal",
             "icon": "https://img.mobilelegends.com/group1/M00/00/47/Cq2IxltWDkaAVfmCAABXnTKM2eY229.png",
+            "icon_local": "./hero/Aldous/img/skills/first_skill_contract:_soul_steal.png",
             "desc": "",
             "tips": "Aldous unleashes his inner energy to strengthen the next basic attack. If this attack eliminates the enemy hero or unit, the additional damage of this skill is permanently increased. When attacking minions or monsters, the damage of strengthened basic attacks are raised. "
         },
         "second_skill": {
             "name": "Contract: Explosion",
             "icon": "https://img.mobilelegends.com/group1/M00/00/47/Cq2IxltWDlGAPiitAABXj5zSOAg651.png",
+            "icon_local": "./hero/Aldous/img/skills/second_skill_contract:_explosion.png",
             "desc": "",
             "tips": "Aldous assumes a defensive stance. During this time, Aldous is immune to basic attacks, while damage from other forms of attacks are reduced. After 1 second, he can reactivate to end it immediately, his scute will explode, dealing damage to surrounding enemy units."
         },
         "ultimate": {
             "name": "Contract: Chase Fate",
             "icon": "https://img.mobilelegends.com/group1/M00/00/47/Cq2IxltWDl2AO5vtAABSltSiFFY357.png",
+            "icon_local": "./hero/Aldous/img/skills/ultimate_contract:_chase_fate.png",
             "desc": "",
             "tips": "Aldous gains the ability to see the positions of enemy heroes for seconds. During this time, if Aldous uses this skill a second time while it is still in effect, then he permanently sees the position of one enemy hero. When Aldous hits that enemy hero, he will deal damage and cause knock back. Ending this ability early results in a decrease in cool-down time."
         }

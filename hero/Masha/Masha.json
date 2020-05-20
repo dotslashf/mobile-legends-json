@@ -12,24 +12,28 @@
         "passive": {
             "name": "Ancient Strength",
             "icon": "https://img.mobilelegends.com/group1/M00/00/93/Cq2Ixl2EgIOAKDEdAABRy1Hzc-I487.png",
+            "icon_local": "./hero/Masha/img/skills/passive_ancient_strength.png",
             "desc": "Masha gets Ancient Strength from Bear King and has 3 HP bars. Each time she loses 1 HP bar, she can block the damage once. She will die after she loses the last HP bar.####Each time Masha loses 1% HP, her ATK Speed will be increased by 1%. (Based on total HP of 3 HP bars)####Masha will get 25% Physical Lifesteal when she loses her first HP bar. Her Physical Lifesteal will be increased by 15%, and she will reduce 60% of the time being controlled when she loses her second HP bar.",
             "tips": "Masha gets the Ancient Strength from the Bear King and has 3 HP bars. Each time she loses 1 HP bar, she can block the damage once. However, she will die after she loses the last HP bar. Each time Masha loses a certain amount of HP, her ATK Speed will be increased. (Based on total HP of 3 HP bars.) Masha will get Physical Lifesteal when she loses her first HP bar. Her Physical Lifesteal will be enhanced, and she will enjoy reduced time-controlled effects after she loses her second HP bar.With less HP left, Masha can deal more damage and have a greater regen ability. So when going as Masha, don't be afraid when your HP is running out, you should dive into battle! After killing targets, you can restore HP rapidly by using \"Life Recovery\"."
         },
         "first_skill": {
             "name": "Wild Power",
             "icon": "https://img.mobilelegends.com/group1/M00/00/93/Cq2Ixl2EgFKANbEWAABY6nLjX48274.png",
+            "icon_local": "./hero/Masha/img/skills/first_skill_wild_power.png",
             "desc": "Masha awakens her Wild Power, increasing her Movement Speed by 25%/27%/29%/31%/33%/35% and allowing her basic attack to deal an additional 40/44/48/52/56/60 plus 3%/3.5%/4%/4.5%/5%/5.5% of the target's Max HP as Physical Damage(only 30%/30%/30%/30%/30%/30% bonus damage against minions and turrets, and up to 245/280/315/350/385/420 Damage against creeps).########When Wild Power is active, she will lose 2%/2.2%/1.2.4%/2.6%/2.8%/3% of her current Max HP (all 3 HP bars included) every 1/1/1/1/1/1s.",
             "tips": "Masha awakens her Wild Power, increasing her Movement Speed and dealing extra Physical Damage according to the target's Max HP with Basic Attacks. When Wild Power is awakened, Masha will lose a certain amount of her current Max HP every second. (Based on total HP of 3 HP bars).This is Masha's core skill. When this skill is activated, Masha's chasing ability and DPS will receive massive enhancements. Though Masha has to continuously pay with her HP for activating this skill, the Lifesteal ability and Attack Speed boosted by her passive \"Ancient Strength\" more than compensates her loss - making her almost invincible in battles."
         },
         "second_skill": {
             "name": "Howl Shock",
             "icon": "https://img.mobilelegends.com/group1/M00/00/93/Cq2Ixl2EgGCAHv4SAABaVlWI50E750.png",
+            "icon_local": "./hero/Masha/img/skills/second_skill_howl_shock.png",
             "desc": "Masha roars forward and unleashes an energy shock to targets, dealing 200/220/240/260/280/300 points of Physical Damage and slowing them by 40%/40%/40%/40%/40%/40%. Lasts 2/2/2/2/2/2s.####If she hits an enemy hero, she can disarm the hit hero for 2/2/2/2/2/2s. Picking up weapons in advance can end the disarming effect.",
             "tips": "Masha roars forward and unleashes an energy shockwave to targets, dealing Physical Damage and slowing them. The hero in contact with the shockwave can be disarmed. (Picking up weapons in advance can end the disarming effect.)This skill provides Masha with a great advantage while fighting against opponents. It can disarm the target and inflict a slowdown debuff, which will be very useful for launching an offensive or a retaliation."
         },
         "ultimate": {
             "name": "Thunderclap",
             "icon": "https://img.mobilelegends.com/group1/M00/00/93/Cq2Ixl2EgG2AVOMXAABYKY2i0IY607.png",
+            "icon_local": "./hero/Masha/img/skills/ultimate_thunderclap.png",
             "desc": "Masha launches a powerful charge(immune to control effects) after deducting 30%/30%/30% of her current HP. When she gets close to targets, she will release Thunderclap, dealing Physical Damage equal to <%Num2> of the target\u2019s max HP and slowing them by 90%/90%/90% for 1/1/1s.####After releasing Thunderclap, Masha reduced 25%/30%/35% of Physical and Magic DMG received in 5/5/5s.",
             "tips": "Masha launches a powerful charge after sacrificing a certain amount of her current HP. When she gets close to targets, she will release Thunderclap, dealing Physical Damage according to the targets' Max HP and slowing them.This is a burst skill that can be used to launch a fight. By using this skill, Masha can approach the enemy rapidly, deal great damage and inflict slowdown debuff."
         }

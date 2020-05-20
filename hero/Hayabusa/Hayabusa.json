@@ -12,24 +12,28 @@
         "passive": {
             "name": "Ninjutsu: Shadow Heal",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cKKAGnnZAABPf0bACmo170.png",
+            "icon_local": "./hero/Hayabusa/img/skills/passive_ninjutsu:_shadow_heal.png",
             "desc": "",
             "tips": "Use the combo, teleport right into the enemy + 1st skill. When your teleporting shadow hits and enemy, it counts to the stack of the passive and if all    3 shurikens hit the enemy, you heal some health. This passive does not work on minions."
         },
         "first_skill": {
             "name": "Ninjutsu: Phantom Shuriken",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cIyADvZUAABeD4JrITY750.png",
+            "icon_local": "./hero/Hayabusa/img/skills/first_skill_ninjutsu:_phantom_shuriken.png",
             "desc": "",
             "tips": "Teleport right in front of the enemy and use this skill for maximum damage. Use this skill to harrass the enemy as much as possible. If an enemy is chasing you or your teammate when at low health, lower their movement speed with this to run away"
         },
         "second_skill": {
             "name": "Ninjutsu: Quad Shadow",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cJKAS0KCAABYjGO1BxA305.png",
+            "icon_local": "./hero/Hayabusa/img/skills/second_skill_ninjutsu:_quad_shadow.png",
             "desc": "",
             "tips": "One of the best escape abilities in the game, use this to run away from enemies! Teleport onto the enemy and use your first skill to damage the enemy with maximum damage from 3 shurikens! If an enemy is chasing you or your teammate at low health, slow them down with this skill."
         },
         "ultimate": {
             "name": "Ougi: Shadow Kill",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cJqAacBtAABechTM9yE639.png",
+            "icon_local": "./hero/Hayabusa/img/skills/ultimate_ougi:_shadow_kill.png",
             "desc": "",
             "tips": "This ultimate makes you the fastest wave clearing character in the whole game. Don't hestitate to use your ultimate on a clump of minions. At max level, you can kill a full health mage with just this skill. If you are getting chased and your 2nd skill is on cooldown, buy time using the ultimate as it makes you invincible for a little while"
         }

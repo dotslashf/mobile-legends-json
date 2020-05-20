@@ -12,24 +12,28 @@
         "passive": {
             "name": "Spear of Quiescence",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7coCAAAKnAABbUZ1v3qs491.png",
+            "icon_local": "./hero/Moskov/img/skills/passive_spear_of_quiescence.png",
             "desc": "",
             "tips": "On a team clash always keep an eye where enemy heroes will be closer to each other or they align on a perpendicular manner, this will give more advantage for you since you can take hits on them and share the damage."
         },
         "first_skill": {
             "name": "Abyss Walker",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cmiAS1nxAABSLxjq8yw650.png",
+            "icon_local": "./hero/Moskov/img/skills/first_skill_abyss_walker.png",
             "desc": "",
             "tips": "when using this on Initiating an attack constalnly use this to reposition yourself, since its very vital for moskov to change his angle for better damage output by taking advantage his passive and on his other abilities, this will give you higher survivability specially on team clash where he needs to be at the back and give him a good space to launch his attacks."
         },
         "second_skill": {
             "name": "Spear of Misery",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cnOAcMoeAABZrtUJArY496.png",
+            "icon_local": "./hero/Moskov/img/skills/second_skill_spear_of_misery.png",
             "desc": "",
             "tips": "You can also use this skill to push enemy away from to their tower, just use your first skill to teleport at the back on your enemy and then use your second skill to push him away from the tower,  just be aware that this act is very dangerous since you will get closer to the tower."
         },
         "ultimate": {
             "name": "Spear of Destruction",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cnqAQ9sTAABbDXwbJEM626.png",
+            "icon_local": "./hero/Moskov/img/skills/ultimate_spear_of_destruction.png",
             "desc": "",
             "tips": "Keep an eye on the minimap and check if there's a clash just be aware if there is an enemy with a low health you can easily finish him off by using this ability, you can use this by mannual targeting you will see an indicator or marking which you will see it on the minimap this will greatly help you to estimate and use this ability."
         }

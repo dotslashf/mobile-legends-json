@@ -12,24 +12,28 @@
         "passive": {
             "name": "Combo Hit",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U6uAcTcrAABTFeUSfgM945.png",
+            "icon_local": "./hero/Karina/img/skills/passive_combo_hit.png",
             "desc": "",
             "tips": "This is Karina's key skill for securing kills, due to it doing more damage to low health targets. The true damage effect ignores the enemy's physical and magical resists."
         },
         "first_skill": {
             "name": "Elusiveness",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U5CAVoG2AABii04ldd0109.png",
+            "icon_local": "./hero/Karina/img/skills/first_skill_elusiveness.png",
             "desc": "",
             "tips": "This first skill have OP effects, speed increases, enhanced basic attack with guaranteed crits and slows. No matter if you're escaping or pursuing, this skill is useful. The penetrating basic attack's extra effects can be used to deal devastating damage. Kills and assists will also substantially reduce this skill's cooldown, making this another one of Karina's core clean up abilities."
         },
         "second_skill": {
             "name": "Dance of Death",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U5uAJK5kAABbV_lYc9U540.png",
+            "icon_local": "./hero/Karina/img/skills/second_skill_dance_of_death.png",
             "desc": "",
             "tips": "AoE damage, mainly used in the early game to quickly proc your passive effect, max this last."
         },
         "ultimate": {
             "name": "Shadow Assault",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U6KANVH-AABcuiEz2Rg261.png",
+            "icon_local": "./hero/Karina/img/skills/ultimate_shadow_assault.png",
             "desc": "",
             "tips": "Mobility skill, during team fights use this carefully, for using it incorrectly will make you lose your escape. Use it when you know you can get the skill, don't hesitate when using. Kills will refresh the cooldown, while assists will substantially reduce the cooldown allowing Karina to finish off enemies continually with burst damage."
         }

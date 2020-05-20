@@ -12,24 +12,28 @@
         "passive": {
             "name": "Heavenly Vow",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7ck-ACEKtAABabVKy6iE655.png",
+            "icon_local": "./hero/Yi Sun-shin/img/skills/passive_heavenly_vow.png",
             "desc": "",
             "tips": "If possible always use your Glaive (Sword) to attack, the damage output from it is higher<br>Every 3 minutes a Turtleship will appear at the base, head over to collect it<br>Turtleship gives a movement speed buff and turns your \u201c1\u201d into a straight line skillshot that stuns the enemy when hit.<br>Has an innate slow passive, best used for chasing enemies or slowing them down when running, try to hit them as much as possible."
         },
         "first_skill": {
             "name": "One-wave Sweep",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cjWAPTxwAABRRF8RHt8478.png",
+            "icon_local": "./hero/Yi Sun-shin/img/skills/first_skill_one-wave_sweep.png",
             "desc": "",
             "tips": "Your ESCAPE tool, use it wisely<br>Decent slow, for escaping or chasing<br>Turtleship would replace this skill so take note, You\u2019ll be flying back like a normal \u201c1\u201d however there will be a straight line skillshot to stun the enemy."
         },
         "second_skill": {
             "name": "Blood Floods",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7ckGAJPcmAABQWLgS4sI019.png",
+            "icon_local": "./hero/Yi Sun-shin/img/skills/second_skill_blood_floods.png",
             "desc": "",
             "tips": "Your main harassing skill.<br>One of the hardest hitting skill<br>Range and damage increases when you charge your attack, make sure you have it charged fully for maximum damage<br>Movement while charging is possible, however it\u2019s a little slow"
         },
         "ultimate": {
             "name": "Mountain Shocker",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7ckiAA-0yAABa0H6-Css182.png",
+            "icon_local": "./hero/Yi Sun-shin/img/skills/ultimate_mountain_shocker.png",
             "desc": "",
             "tips": "That being said, it\u2019s not impossible to avoid this ult, try to save this when your team is engaging in a team fight or you need to know the location of your enemies.<br>Please don\u2019t use this immediately once it\u2019s off CD, it has one of the longest CD in the game and the mana consumption is crazy<br>When playing with friends, you can let your friend tell you when a teamfight is about to start or is happening for you to deal more residual damage. If SoloQ-ing, please keep an eye on the minimap to know when a fight is starting."
         }

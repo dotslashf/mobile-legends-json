@@ -12,24 +12,28 @@
         "passive": {
             "name": "Dragon Flurry",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VWOAdlzRAABmW0ToEAc175.png",
+            "icon_local": "./hero/Zilong/img/skills/passive_dragon_flurry.png",
             "desc": "",
             "tips": "During early laning phase, attack enemy minions to trigger his passive ability that allows him  to attack the hero behind minions"
         },
         "first_skill": {
             "name": "Spear Flip",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VUSAKF-MAABcIU22te8275.png",
+            "icon_local": "./hero/Zilong/img/skills/first_skill_spear_flip.png",
             "desc": "",
             "tips": "Early laning phase, wait for enemy soldiers to push to tower, and when soldiers are gone, try to hook enemy into tower"
         },
         "second_skill": {
             "name": "Spear Strike",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VUuAY_hpAABXSg3rXnk410.png",
+            "icon_local": "./hero/Zilong/img/skills/second_skill_spear_strike.png",
             "desc": "",
             "tips": "Use with 1st skill, otherwise can be used to jump walls for escape, such as using enemy jungle minions."
         },
         "ultimate": {
             "name": "Supreme Warrior",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VVSAWXJTAABmISgFdDA135.png",
+            "icon_local": "./hero/Zilong/img/skills/ultimate_supreme_warrior.png",
             "desc": "",
             "tips": "Can be used to chase enemies or to run away. Can be used on cast to remove crowd control."
         }

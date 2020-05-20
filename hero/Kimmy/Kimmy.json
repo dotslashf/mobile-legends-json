@@ -12,24 +12,28 @@
         "passive": {
             "name": "Chemist's Instinct",
             "icon": "https://img.mobilelegends.com/group1/M00/00/63/Cq2IxlvRYV6AFPGLAABNUuJjVKk103.png",
+            "icon_local": "./hero/Kimmy/img/skills/passive_chemist's_instinct.png",
             "desc": "Kimmy can move and aim at other directions when using her Spray Gun, but is often less accurate. Her Spray Gun will only enjoy 50% of Physical Lifesteal. ####All the buffs on Attack Speed will be converted to Movement Speed buff for her. ",
             "tips": "Kimmy is still in movement while using skills. Keep the distance from enemies and attack them at the same time."
         },
         "first_skill": {
             "name": "Energy Transformation",
             "icon": "https://img.mobilelegends.com/group1/M00/00/63/Cq2IxlvRYUCAQsx6AABTLcpXOrI391.png",
+            "icon_local": "./hero/Kimmy/img/skills/first_skill_energy_transformation.png",
             "desc": "Kimmy's Basic Attack will be changed into Chemical Ball. Each Chemical Ball deals 8/12/16/20/24/28///// points of Magic Damage. If Kimmy fails to hit a target, the Chemical explodes upon travelling a certain distance, and deals same damage to nearby enemies. ####This skill enjoys only 40% of Spell Vamp. ########Use Again: Return to normal Basic Attack.",
             "tips": "Use 1st skill to attack enemies at a long distance. When enemies are around you, attack as many enemies as possible."
         },
         "second_skill": {
             "name": "Chemical Refinement",
             "icon": "https://img.mobilelegends.com/group1/M00/00/63/Cq2IxlvRYUqAe0iKAABM7Z0bhNI571.png",
+            "icon_local": "./hero/Kimmy/img/skills/second_skill_chemical_refinement.png",
             "desc": "Kimmy shoots out the enhanced Chemical Spray and the recoil in turn pushes her backwards for a certain distance. The spray then falls down to the ground and creates contaminated areas. Enemies who walk on these areas will take 14/16/18/20/22/24///// points of Magic Damage every 0.5/0.5/0.5/0.5/0.5/0.5s and become slowed by 40%/40%/40%/40%/40%/40%. ####Regenerates 20/28/36/44/52/60 points of energy using this skill.",
             "tips": "When chased after by enemies, use 2nd skill to slow them down."
         },
         "ultimate": {
             "name": "Maximum Charge",
             "icon": "https://img.mobilelegends.com/group1/M00/00/63/Cq2IxlvRYVWASmDoAABLh-ZlnDU602.png",
+            "icon_local": "./hero/Kimmy/img/skills/ultimate_maximum_charge.png",
             "desc": "Kimmy creates Luminous Chemical Attacks after charging. Kimmy's Luminescent Attack travel a certain distance, dealing 238/356/475// points of Magic Damage to enemy units and 198/297/396// points of Magic Damage to enemies nearby. ####Regenerates 30/30/30 points of energy if Kimmy hits a target with this skill.",
             "tips": "3rd skill is of long range. When enemies intend to attack you, you can target them in advance; when enemies try to run away, use it to reap them. "
         }

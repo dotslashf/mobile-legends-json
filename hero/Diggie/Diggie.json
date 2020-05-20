@@ -12,24 +12,28 @@
         "passive": {
             "name": "Young Again",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7lz2Adc9SAABUp0C_2uA088.png",
+            "icon_local": "./hero/Diggie/img/skills/passive_young_again.png",
             "desc": "",
             "tips": "Waktu akan terbalik setelah mati dan Diggie akan berubah menjadi Telur, ia dapat dikendalikan dan Diggie akan mendapatkan kemampuan baru saat berubah. Mode telur tidak dapat diserang, setelah beberapa waktu, Diggie akan hidup kembali.<br>Mode Chick tidak hanya bisa untuk mengalihkan musuh, namun bisa juga digunakan untuk mengintai musuh. Damage yang tidak terlalu signifikan dapat digunakan untuk menggangu Recall dan Regen."
         },
         "first_skill": {
             "name": "Auto Alarm Bomb",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7lyqAXisfAABdUTXmH7Y142.png",
+            "icon_local": "./hero/Diggie/img/skills/first_skill_auto_alarm_bomb.png",
             "desc": "",
             "tips": "Saat hitungan waktu berjalan, tekan lagi untuk meledakkan dengan segera. Ledakan lebih awal hanya akan menimbulkan efek Slow sebagai pengganti Stun. Sebaiknya dibiarkan selama mungkin, tetapi jangan terburu-buru untuk mengincar Damage dan membiarkan musuh meninggalkan jangkauan ledakan."
         },
         "second_skill": {
             "name": "Reverse Time",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7lzCAKLCeAABTHrbiRmw777.png",
+            "icon_local": "./hero/Diggie/img/skills/second_skill_reverse_time.png",
             "desc": "",
             "tips": "Kemampuan CC yang kuat, gunakanlah pada musuh dengan kemampuan mobilitas yang kuat agar lebih efektif."
         },
         "ultimate": {
             "name": "Time Journey",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7lzaAStiyAABXp0DoRxo725.png",
+            "icon_local": "./hero/Diggie/img/skills/ultimate_time_journey.png",
             "desc": "",
             "tips": "Gunakanlah setelah teman satu tim terkena CC, ini akan memberikan mereka shield. Ini adalah kemampuan Team Fight yang sangat hebat."
         }

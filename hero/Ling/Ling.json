@@ -12,24 +12,28 @@
         "passive": {
             "name": "Cloud Walker",
             "icon": "https://img.mobilelegends.com/group1/M00/00/99/Cq2Ixl3CM7OAYy8CAABMs77yPtk701.png",
+            "icon_local": "./hero/Ling/img/skills/passive_cloud_walker.png",
             "desc": "Ling's superb lightness skill helps him leap among walls. When resting on the wall, Ling restores extra 2 Lightness Points per second. Every time Ling deals damage to enemies, he restores extra 5 Lightness Points.########Ling\u2019s lightness skill grants him 30% Crit Chance, but decreases his Crit Damage by 60%.",
             "tips": "Ling's superb lightness skill helps him leap from wall to wall to chase enemies. When resting on the wall, Ling restores extra Lightness Points per second. Every time Ling deals damage to enemies, he restores extra Lightness Points. Ling\u2019s lightness skill grants him Crit Chance, but decreases his Crit Damage.<br><br>The Crit Chance of Ling\u2019s Passive Skill grants him the possibility of dealing Burst DMG in Early Game. With proper equipment and emblems, the Crit Chance could greatly increase the burst DMG he deals."
         },
         "first_skill": {
             "name": "Finch Poise",
             "icon": "https://img.mobilelegends.com/group1/M00/00/99/Cq2Ixl3CM8eAZBPMAABnSsnPcTg897.png",
+            "icon_local": "./hero/Ling/img/skills/first_skill_finch_poise.png",
             "desc": "Passive: Permanently increases the Crit Chance by 5%/0.075/10%/0.125/15%/0.175.########Active: Ling casts his Qinggong(lightness skill), leaping to the designated wall, entering camouflage state and restoring Lightness Points more quickly. When Ling receives damage, he will end the camouflaged state. If he is controlled, he will fall onto the ground. When using this skill to jump from a wall to another, it will reset the CD and refresh the Camouflage State.",
             "tips": "Passive: Ling permanently increases the Crit Chance. His Crit Chance will be improved after 1st Skill levels up.<br> <br>Active: Ling casts his Qinggong (lightness skill), leaping to the designated wall, entering camouflage state and restoring Lightness Points more quickly. When Ling receives damage, he will end the camouflaged state. If he is controlled, he will fall onto the ground. When using this skill to jump from a wall to another, it will reset the CD and refresh the Camouflage State.<br><br>Ling could quickly leap from wall to wall and could move to anywhere at the battlefield. He could escape from the danger quickly."
         },
         "second_skill": {
             "name": "Defiant Sword",
             "icon": "https://img.mobilelegends.com/group1/M00/00/99/Cq2Ixl3CM9SATfckAABYuDBMDDo185.png",
+            "icon_local": "./hero/Ling/img/skills/second_skill_defiant_sword.png",
             "desc": "Ling charges in a designated direction and stabs the nearby enemies at his destination, dealing 165/185/205/225/245/265 Damage. ########If Ling casts this skill when he is on the wall, he will dash to a designated spot on the ground, dealing 165/185/205/225/245/265 Damage to enemies within a small area and slowing them down by 30%/30%/30%/30%/30%/30% for 1.5/1.5/1.5/1.5/1.5/1.5s. If this attack deals crit damage, enemies within the area will extra be slowed by 45%/45%/45%/45%/45%/45% for 0.75/0.75/0.75/0.75/0.75/0.75s.########\"Defiant Sword\" can trigger ATK Effects as Basic Attack and can restore 35/40/45/50/55/60 HP for Ling each time hits an enemy.",
             "tips": "Ling charges in a designated direction and stabs the nearby enemies at his destination. If Ling casts this skill when he is on the wall, he will dash to a designated spot on the ground, dealing Damage to enemies within a small area and slowing them down. If this attack deals Crit damage, enemies within the area will extra be slowed.<br><br>\"Defiant Sword\" can trigger ATK Effects as Basic Attack and can restore HP for Ling each time he hits an enemy.<br><br><br>This is Ling's main DMG skill, which could deal Critical Damage and trigger ATK Effect. Use it wisely and Ling could deal massive burst damage."
         },
         "ultimate": {
             "name": "Tempest of Blades",
             "icon": "https://img.mobilelegends.com/group1/M00/00/99/Cq2Ixl3CM-GANtMRAABRKV7zJsI068.png",
+            "icon_local": "./hero/Ling/img/skills/ultimate_tempest_of_blades.png",
             "desc": "Ling leaps up and casts his superb sword skill for 1.5/1.5/1.5s, during which he becomes invincible and can move freely, dealing 250/350/450 Damage to enemies within the area of effect, knocking the central enemy into the air for 1/1/1s, and generating a Sword Field that lasts for 5/5/5s. At the edge of the Sword Field, there will be 4 field eyes \"Tempest of Blades\". By touching the field eye, Ling can reset the CD of \"Defiant Sword\" and restore 5 Lightness Points.",
             "tips": "Ling leaps up and casts his superb sword skill for 1.5s, during which he becomes invincible and can move freely, dealing Damage to enemies within the area of effect, knocking the central enemy into the air, and generating a Sword Field. At the edge of the Sword Field, there will be 4 field eyes \u201cTempest of Blades\". By touching the field eye, Ling can reset the CD of \"Defiant Sword\" and restore Lightness Points.<br><br>Choosing the right timing to activate this skill can dramatically help Ling to dodge massive DMG. Ling can get CC if he hits enemies with the core of the skill. By touching the field eye, Ling can reset \"Defiant Sword\" and restore Lightness Points and deal burst damage."
         }

@@ -12,24 +12,28 @@
         "passive": {
             "name": "Starmoon Casket",
             "icon": "https://img.mobilelegends.com/group1/M00/00/84/Cq2Ixlyh2cuARhM2AABVtOJRQlk754.png",
+            "icon_local": "./hero/Esmeralda/img/skills/passive_starmoon_casket.png",
             "desc": "Esmeralda manipulates Stardust and Frostmoon. Each of her Basic Attack and skills deal damages twice - Stardust deals Physical Damage, and Frostmoon deals Magic Damage and gives the target a shield equal to 135% of Frostmoon's damage dealt. ####The damage dealt by Esmeralda ignores all shield effects and transforms her Shield into her HP at the same time.",
             "tips": "With Passive, Esmeralda deals more damage than any other hero. However, it also provides her enemies with shield effects. Relying on Frostmoon to quickly transform the enemy's shield to herself is the key point of using Esmeralda."
         },
         "first_skill": {
             "name": "Frostmoon Shield",
             "icon": "https://img.mobilelegends.com/group1/M00/00/84/Cq2Ixlyh2bCAZw_qAABbVjgYSAY322.png",
+            "icon_local": "./hero/Esmeralda/img/skills/first_skill_frostmoon_shield.png",
             "desc": "Esmeralda generates 420/490/560/630/700/770 points of Shield to herself and increases her Movement Speed by 40%/40%/40%/40%/40%/40% within 5/5/5/5/5/5s. Meanwhile, she gradually transforms the shields of her nearby enemies into her own shield. The Speed increased decays in a short time.",
             "tips": "This skill will last for a while. Since Frostmoon causes damage and also provides shields for enemies, it will deal damage to the enemies continuously. Esmeralda transforms shield from enemies to help herself survive. This skill is the key for Esmeralda to take huge amounts of damage."
         },
         "second_skill": {
             "name": "Stardust Dance",
             "icon": "https://img.mobilelegends.com/group1/M00/00/84/Cq2Ixlyh2bqAJFuwAABVZpL-pVU360.png",
+            "icon_local": "./hero/Esmeralda/img/skills/second_skill_stardust_dance.png",
             "desc": "Esmeralda waves Stardust and Frostmoon and deals 210/250/290/330/370/410 points of Physical Damage and 210/250/290/330/370/410 points of Magic Damage to nearby enemies. Dealing damage to enemies reduces the CD of \"Frostmoon Shield\" by 1/1/1/1/1/1s.",
             "tips": "This is her main damage dealing skill, causing a lot of damage while also reducing the cooldown of Frostmoon Shield. Cast Stardust Dance after Frostmoon Shield and it would be easier to survive."
         },
         "ultimate": {
             "name": "Falling Starmoon",
             "icon": "https://img.mobilelegends.com/group1/M00/00/84/Cq2Ixlyh2cOAc_6CAABTrEe12Tk563.png",
+            "icon_local": "./hero/Esmeralda/img/skills/ultimate_falling_starmoon.png",
             "desc": "Esmeralda coheres the power of Astrospace into her two weapons - Stardust and Frostmoon. The longer the duration lasts, the greater the power will be. Use again this skill to cast the Stardust to the designated location, dealing 350/500/650 points of Physical Damage, and then Esmeralda moves to the designated location to cast Frostmoon, dealing 350/500/650 points of Magical Damage and immobilizing enemies in the area for 1.2/1.2/1.2s.",
             "tips": "This skill provides the most important ability to get enrolled in battles, where it will also cause a temporary effect of control on enemies. Choosing the right time to take moves can change the final outcome of a teamfight."
         }

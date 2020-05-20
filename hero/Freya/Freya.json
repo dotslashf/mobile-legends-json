@@ -12,24 +12,28 @@
         "passive": {
             "name": "Spirit Contact",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cOmACKLZAABaH-MG7CE228.png",
+            "icon_local": "./hero/Freya/img/skills/passive_spirit_contact.png",
             "desc": "",
             "tips": "The description of the passive speaks for itself. It has no cooldown and and stacks after every 2nd basic attack once the three orbs disappear. It does not deal a lot of damage but it is pretty decent to have before engaging an opponent and it allows you to kill jungle monsters quicker as well when you are farming."
         },
         "first_skill": {
             "name": "Leap of Faith",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cMKAMg1bAABPBdR8T4g709.png",
+            "icon_local": "./hero/Freya/img/skills/first_skill_leap_of_faith.png",
             "desc": "Freya jumps to a designated area, dealing 200/220/240/260/280/300 Physical Damage to enemies in the area and pulling them to the center.####Sacred Orb Enhances: Sacrifices 1/2/3 stacks of Sacred Orb, increasing the damage to 120%/120%/120%/120%/120%/120%/160%/160%/160%/160%/160%/160%/200%/200%/200%/200%/200%/200%, extending the area of effect and stunning the targets for 0.3/0.3/0.3/0.3/0.3/0.3/0.6/0.6/0.6/0.6/0.6/0.6/0.9/0.9/0.9/0.9/0.9/0.9s.",
             "tips": "Only use it when you're sure that you'll land on the enemy as soon as you jump or else you will just be putting yourself in danger if you can't land that crowd control on them the moment you go in.<br>During a team fight, assess the situation of your team and if it looks bad. do not spam this skill if you only want to make damage since that skill is not freya's source of burst damage, save it instead for when you need to jump out and retreat from the battlefield."
         },
         "second_skill": {
             "name": "Spirit Combo",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cNGAO6DGAABb8h4od6w074.png",
+            "icon_local": "./hero/Freya/img/skills/second_skill_spirit_combo.png",
             "desc": "Freya dashes forward and gains a shield that can absorb 160/180/200/220/240/260 damage, while dealing 160/180/200/220/240/260 Physical Damage to the enemies and slowing them by 30%/30%/30%/30%/30%/30% for 0.5/0.5/0.5/0.5/0.5/0.5s.####Sacred Orb Enhances: the skill can be recast in 4/4/4/4/4/4s at the cost of 1 Sacred Orb up to 4 times.####Freya will swing the hammer on the 4th cast, increasing the damage to <%Num6> and knocking the enemies airborne for 0.5/0.5/0.5/0.5/0.5/0.5s.",
             "tips": "Godspeed Strike is Freya's bread and butter. The skill that makes her really strong in team fights and 1v1 because of the crowd control it offers while enhancing her first 3 basic attacks, with a very low cooldown. It used to be op before as it was spammable but after the nerf, the cooldown now starts once you have done your 3rd basic attack. It's not that bad, the crowd control is still good and a strong/well fed freya can finish off the enemy in just one or 2 combo locks without taking much damage for herself. It is best that you activate this skill first before jumping in with Wings of Faith so that you can accurately lock your enemy with the stun.<br>"
         },
         "ultimate": {
             "name": "Valkyrie",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cNiACLOkAABI_lSpRgg578.png",
+            "icon_local": "./hero/Freya/img/skills/ultimate_valkyrie.png",
             "desc": "",
             "tips": "Valkyrie is Freya's ultimate and it's best used during team fights. It deals a decent amount of AoE damage as well as slowing the enemies down. It also enhances Freya's physical attack, armor and defense which makes her harder to kill during a fight and it also makes her deal more damage towards the opponent. Combine it with skill 2 and Freya can take down any squishy hero, even 2 of them at the same time if they get caught within her 3 sets of skills in less than 5 seconds."
         }

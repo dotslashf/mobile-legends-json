@@ -12,24 +12,28 @@
         "passive": {
             "name": "All United",
             "icon": "https://img.mobilelegends.com/group1/M00/00/69/Cq2Ixlv0ExyALmopAABgvjhWAE8977.png",
+            "icon_local": "./hero/Minsitthar/img/skills/passive_all_united.png",
             "desc": "Minsitthar inspires the whole team. When teammates slay enemy heroes, he obtains extra 60 Gold wherever he is; whenever Minsitthar himself slay enemies, all his teammates obtain extra 15 Gold.",
             "tips": "With this passive, Minsithar can perform more ganks with his teammates without the worry of  his farming falling behind."
         },
         "first_skill": {
             "name": "Spear of Glory",
             "icon": "https://img.mobilelegends.com/group1/M00/00/69/Cq2Ixlv0EyuAR6uRAABbnVejWqU028.png",
+            "icon_local": "./hero/Minsitthar/img/skills/first_skill_spear_of_glory.png",
             "desc": "Minsitthar stabs ahead with the Spear of Glory, dealing 175/200/225/250/275/300 points of Physical Damage to all enemies along the way. ####When pulling back the spear, he will also pull towards himself the first enemy the spear hits, dealing 150/175/200/225/250/275 points of Physical Damage and knocks the target back.",
             "tips": "Try to better use this skill and pull back the back-line heroes who are easy to slay even when they're hiding behind the tanks. "
         },
         "second_skill": {
             "name": "Shield Assault",
             "icon": "https://img.mobilelegends.com/group1/M00/00/69/Cq2Ixlv0EzSAEg_LAABca6NQI3A504.png",
+            "icon_local": "./hero/Minsitthar/img/skills/second_skill_shield_assault.png",
             "desc": "Minsitthar awakens the strength of the Shield and releases the power within forward. The power explodes upon hitting the first enemy unit and deals 230/275/320/365/410/455 points of Physical Damage to all enemies in the area. Meanwhile, he obtains 200/280/360/440/520/600 Shield and increases 20%/20%/20%/20%/20%/20% Movement Speed immediately. ####The first enemy will be stunned 1/1/1/1/1/1s and the other enemies will be knocked back.",
             "tips": "The range of this skill is not too wide so better use it together with his 1st Skill, and by doing so the hit rate will be increased."
         },
         "ultimate": {
             "name": "King's Calling",
             "icon": "https://img.mobilelegends.com/group1/M00/00/69/Cq2Ixlv0Ez2AAsGOAABi_-K73Vo846.png",
+            "icon_local": "./hero/Minsitthar/img/skills/ultimate_king's_calling.png",
             "desc": "Minsitthar charges a short distance forward and calls 4 Royal Guards to form a field and fight together with him. Each attack of Royal Guards deals // points of Physical Damage. The Royal Guards cannot move, but they'll attack enemies in the field first. ####When staying in the area, Minsitthar increases 30/50/70 points of Physical and Magic Defense. Enemies in the field are slowed by 20%/20%/20% and cannot use directional Blink skills. ",
             "tips": "Use the Ult directly when a teamfight with fewer than 3 players occurs. When facing more enemies, use \"Spear of Glory\" first and fast slay an ememy hero to increase the chances of winning the teamfight. "
         }

@@ -12,24 +12,28 @@
         "passive": {
             "name": "Vampire Pact",
             "icon": "https://img.mobilelegends.com/group1/M00/00/9E/Cq2Ixl4XLMeAXrWwAABQ8-kC_wo354.png",
+            "icon_local": "./hero/Carmilla/img/skills/passive_vampire_pact.png",
             "desc": "Carmilla steals 10-20 Physical&Magic Defense (scales with level) from the enemies while dealing damage to them. Each target can be stolen only once in 5s. The stolen Physical&Magic Defense can be stacked up to 5 times. Lasts for 5s.",
             "tips": "This skill increases Carmilla\u2019s defense and grants her an edge when fighting. Combined with the regen effect of Crimson Flower, Carmilla\u2019s durability could be increased."
         },
         "first_skill": {
             "name": "Crimson Flower",
             "icon": "https://img.mobilelegends.com/group1/M00/00/9E/Cq2Ixl4XLKWAJ3FVAABUQFg7CsE045.png",
+            "icon_local": "./hero/Carmilla/img/skills/first_skill_crimson_flower.png",
             "desc": "Carmilla increases 25%/25%/25%/25%/25%/25% movement speed, and summons 2 Crimson Flowers circling around herself for 5/5/5/5/5/5s.\u00a0Enemies hit by the Crimson Flowers will receive 100/130/160/190/220/250 Magic Damage and be slowed down by 30%/30%/30%/30%/30%/30%. Meanwhile, the spinning speed of the Crimson Flowers will be increased for 0.8/0.8/0.8/0.8/0.8/0.8s.####Each time the Crimson Flowers deal damage to enemies, Carmilla will restore 50/65/80/95/110/125 HP. (If the target is a minion, restores 30%/30%/30%/30%/30%/30% of this amount only.)",
             "tips": "This Skill is Carmilla\u2019s core damage dealing skill. Once the Crimson Flowers hit enemies, their circling speed will increase. Therefore, Carmilla could deal more damage and restore her HP more quickly. That increases Carmilla\u2019s durability in Team Fights."
         },
         "second_skill": {
             "name": "Bloodbath",
             "icon": "https://img.mobilelegends.com/group1/M00/00/9E/Cq2Ixl4XLLCARQjgAABXnIGj8WA588.png",
+            "icon_local": "./hero/Carmilla/img/skills/second_skill_bloodbath.png",
             "desc": "Carmilla accumulates Bloodbath Energy, greatly increasing her Movement Speed by 60%/60%/60%/60%/60%/60% (decays rapidly in 3.5/3.5/3.5/3.5/3.5/3.5s).########Use Again: Carmilla casts Bloodbath Energy to a designated enemy (can't target at the minion), dealing 150/180/210/240/270/300 Magic Damage and stunning the enemy for 0.6/0.6/0.6/0.6/0.6/0.6s. ####The damage and the stunning duration scale with the Bloodbath Energy accumulation, capped at 100%/100%/100%/100%/100%/100%.",
             "tips": "With Bloodbath, Carmilla could control enemies with relatively high hit rate when roaming and therefore, assist her allies to slay targets."
         },
         "ultimate": {
             "name": "Curse of Blood",
             "icon": "https://img.mobilelegends.com/group1/M00/00/9E/Cq2Ixl4XLLuAO42YAABJelFtADc414.png",
+            "icon_local": "./hero/Carmilla/img/skills/ultimate_curse_of_blood.png",
             "desc": "Carmilla casts Curse of Blood in a designated direction. The Curse will spread out from the enemy hit to nearby enemy heroes, dealing 275/400/525 Magic Damage and slowing them down by 90%/90%/90% for 5/5/5s (decays rapidly to 30%/30%/30% in 3/3/3s).########The curse can be inflicted to up to 3/3/3 targets at the same time.####As long as one target with the Curse of Blood is damaged or controlled, the other influenced targets will also receive damage and CC effect (damage decreases to 50%/50%/50%, CC duration decreased to 50%/50%/50%).\u00a0",
             "tips": "This Skill is a masterstroke in Team Fight. Carmilla and her allies could deal massive Damage once she chains her targets. It also grants Crowd Control effect to a Control Skill. With this Skill, Carmilla and her allies could be invincible in Team Fight."
         }

@@ -12,24 +12,28 @@
         "passive": {
             "name": "Battle Side-by-side",
             "icon": "https://img.mobilelegends.com/group1/M00/00/51/Cq2Ixlt6xKiAZf6eAABU0DmkVnc660.png",
+            "icon_local": "./hero/Claude/img/skills/passive_battle_side-by-side.png",
             "desc": "",
             "tips": "Due to this skill, equipments that boost basic attacks should be Claude's major concentration"
         },
         "first_skill": {
             "name": "Art of Thievery",
             "icon": "https://img.mobilelegends.com/group1/M00/00/51/Cq2Ixlt6xIKAEPkBAABTcsk0R1c722.png",
+            "icon_local": "./hero/Claude/img/skills/first_skill_art_of_thievery.png",
             "desc": "",
             "tips": "Due to this skill Claude is able to utilize his mobility to poke enemies from a safe distance."
         },
         "second_skill": {
             "name": "Battle Mirror Image",
             "icon": "https://img.mobilelegends.com/group1/M00/00/51/Cq2Ixlt6xJSAcZ2fAABSqhZN8LQ859.png",
+            "icon_local": "./hero/Claude/img/skills/second_skill_battle_mirror_image.png",
             "desc": "",
             "tips": "This skill can be used for multiple purposes. Claude can either dash into enemies to reap or flee from ambush. Use it unpredictably!"
         },
         "ultimate": {
             "name": "Blazing Duet",
             "icon": "https://img.mobilelegends.com/group1/M00/00/51/Cq2Ixlt6xJ6AeK6xAABPZrMsf1E598.png",
+            "icon_local": "./hero/Claude/img/skills/ultimate_blazing_duet.png",
             "desc": "",
             "tips": "The ultimate triggers the effect of basic attacks. So it works perfect with Demon Hunter Sword when facing single heroes. The skill hit 2 enemies at most at the same moment, so Claude should release this skill to an area with less than 2 enemies. The ultimate also provides a shield so Claude's durability is ensured in all conditions."
         }

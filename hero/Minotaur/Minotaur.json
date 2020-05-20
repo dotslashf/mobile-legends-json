@@ -12,24 +12,28 @@
         "passive": {
             "name": "Rage Mode",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VfSAf00yAABg36UuHN8243.png",
+            "icon_local": "./hero/Minotaur/img/skills/passive_rage_mode.png",
             "desc": "",
             "tips": "Be always on the lead. Position yourself in front of the creeps and more often, in front of the hero you're sharing the lane with. This will force your enemy hero and creeps to attack you first which will help your rage meter to be filled. "
         },
         "first_skill": {
             "name": "Despair Stomp",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6Vc-AXhyrAABiJKEX5Po979.png",
+            "icon_local": "./hero/Minotaur/img/skills/first_skill_despair_stomp.png",
             "desc": "",
             "tips": "As stated Despair Hammer deals great damage especially in rage mode. Maximize it first next to the ultimate for greater crowd control. Minotaur is a manaless hero so abuse using this skill for greater CS. "
         },
         "second_skill": {
             "name": "Motivation Roar",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6Vd6AKULeAABZKrNpWgE960.png",
+            "icon_local": "./hero/Minotaur/img/skills/second_skill_motivation_roar.png",
             "desc": "",
             "tips": "Known as a healing ability, Very good sustain better than Rafaela wherein you don\u2019t need to spend mana to regen your HP. This skill is usually maximized during rage mode because aside from great heal, this will allow Minotaur to have a great Physical and magic defense."
         },
         "ultimate": {
             "name": "Minoan Fury",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo6VeqAE9uVAABiHNpYJjg999.png",
+            "icon_local": "./hero/Minotaur/img/skills/ultimate_minoan_fury.png",
             "desc": "",
             "tips": "AoE damage and crowd control. This will makes your opponent helpless. With this skill they don\u2019t have a chance to disengage unless they are going to use flicker. With a full AD build, your ultimate can do an insta kill to marksman and other squishy hero. <br>"
         }

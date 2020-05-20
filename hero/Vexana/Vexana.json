@@ -12,24 +12,28 @@
         "passive": {
             "name": "Necromancy Spell",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7dw-ADdjSAABEHeSwxks626.png",
+            "icon_local": "./hero/Vexana/img/skills/passive_necromancy_spell.png",
             "desc": "",
             "tips": "This passive is very useful when clearing out minion wave as well as harrassing an enemy in lane. This passive will be used effectively when you use <br>\"Nether Snare\" in the middle of the minion wave. This will apply the passive on each minion and will eventually explode when the minion dies. The explosion covers a certain area that can damage the enemy health bar. "
         },
         "first_skill": {
             "name": "Charmed Specter",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7du6Acyg1AABGuB5lFq4439.png",
+            "icon_local": "./hero/Vexana/img/skills/first_skill_charmed_specter.png",
             "desc": "",
             "tips": "As much as possible, use this skill on enemy heroes only because you never know when will they attack you. This is also useful when an enemy hero is catching you, just use this skill and their movement speed will get very slow for a period of time making you and opportunity to ran away from them."
         },
         "second_skill": {
             "name": "Nether Snare",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7dvmAes3PAABD52PO0W4063.png",
+            "icon_local": "./hero/Vexana/img/skills/second_skill_nether_snare.png",
             "desc": "Vexana summons an curse power to deal 500/570/640/710/780/850 Magic Damage to a specified location.",
             "tips": "This skill damages alot when placed and positioned carefully to hit an enemy hero. This skill very useful on clearing out minion wave. Just place this skill on the second minion (there are 3 minions in each wave right, place it on the middle.) In this way, this skill will hit all of the minions and will activate your passive. This skill deals a huge amount of magic damage. And is perfect for stealing lord, turtle, and jungle monsters when you placed and timed carefully. This skill can possibly one shot all of your enemies when you use it correctly, depending on the build of course."
         },
         "ultimate": {
             "name": "Cursed Oath",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7dwiAWENvAABQw8XwGkY896.png",
+            "icon_local": "./hero/Vexana/img/skills/ultimate_cursed_oath.png",
             "desc": "",
             "tips": "1st situation: When battling in a 1vs2 situation, use this skill on the damage dealer. (The one who deals a huge amount of damage) Damage dealers can be mages, assassins, and marksman. You have to put your skills prior to the damage dealer so that when they die, they can help you deal damage on the enemy hero.<br>2nd situation: In a 5v5 clash, I recommend to use this skill on tanks. Why? This decreases the regen of their health bar because this skill does magic damage over a period of time. Your 1st and 2nd skill can deal huge damage on other enemy heroes thats why I suggest to use this on tanks. Specially when your team does not have a tank, or your tank is not tanky. But, you can use this on damage dealers to so that you will do more damage. When used in tanks, this will benefit your team because you will have another tank."
         }

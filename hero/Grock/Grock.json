@@ -12,24 +12,28 @@
         "passive": {
             "name": "Ancestral Gift",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7lkeAfk--AABIztmEL10155.png",
+            "icon_local": "./hero/Grock/img/skills/passive_ancestral_gift.png",
             "desc": "",
             "tips": "Try staying near a turret when roaming in lanes or escaping, using of his passive wisely will help you tank extra incoming damage from enemies."
         },
         "first_skill": {
             "name": "Power of Nature",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7lhmAfv8YAABERv-EIXo710.png",
+            "icon_local": "./hero/Grock/img/skills/first_skill_power_of_nature.png",
             "desc": "",
             "tips": "Charging his first skill will deal a lot of damage to enemies. The more time of charging, the more damage it will dealt. Use this on waves of minion for fasterclearing of lane.Charge his first skill when enemies are trying to disable you (stun,hold,morph,slow,knockback airborne) to be Immune from Crowd Control (CC) spells."
         },
         "second_skill": {
             "name": "Guardian's Barrier",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7liGAW3-xAABDjT_ILs8722.png",
+            "icon_local": "./hero/Grock/img/skills/second_skill_guardian's_barrier.png",
             "desc": "",
             "tips": "Using this ability to block enemies from destroying turrets and to prevent themfrom escaping when low health. "
         },
         "ultimate": {
             "name": "Wild Charge",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7lkGAPHwkAABNBiKZzoY047.png",
+            "icon_local": "./hero/Grock/img/skills/ultimate_wild_charge.png",
             "desc": "",
             "tips": "Charging forward onto enemies will knock the enemies airborne on path. This will help you when chasing enemies. Also Try hitting the wall behind an enemy to utilize the extra damage."
         }

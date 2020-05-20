@@ -12,24 +12,28 @@
         "passive": {
             "name": "Blessing of Wilderness",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7dkuAVH_gAABDNoNXZQk268.png",
+            "icon_local": "./hero/Hilda/img/skills/passive_blessing_of_wilderness.png",
             "desc": "",
             "tips": "Her passive is a very strong tool for fights, she can always do trade damage in her lane then go to the bush to heal herself. Always maximize the use for this passive because it will help you a lot when laning."
         },
         "first_skill": {
             "name": "Combat Ritual",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7diOAC0XuAABA1DGKFPw834.png",
+            "icon_local": "./hero/Hilda/img/skills/first_skill_combat_ritual.png",
             "desc": "",
             "tips": "This is a good skill to chase or zone out enemies, especially damage dealers with low mobility (mage, assassin, marksman) especially during team fights. Hilda can target the enemy backline with this skill or chase away assassin who are killing their team\u2019s carry.<br>"
         },
         "second_skill": {
             "name": "Art of Hunting",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7dimACoLFAABLosft1kg688.png",
+            "icon_local": "./hero/Hilda/img/skills/second_skill_art_of_hunting.png",
             "desc": "",
             "tips": "This is your primary source of crowd control. Movement speed is useless if you can\u2019t pin down your target. This makes sure that your target will be chased away or will be zoned out from the team fight making the target useless. Aside from the crowd control, this deals enough amount of damage to make the enemy fall back. Make sure that you are going punish your target with this ability.<br>"
         },
         "ultimate": {
             "name": "Power of Wildness",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7dkSAJcWGAABVf75N_es902.png",
+            "icon_local": "./hero/Hilda/img/skills/ultimate_power_of_wildness.png",
             "desc": "",
             "tips": "Make sure that you get assists as much as possible to have stacks for Hilda\u2019s ultimate. It is very convenient since every stack gives you a lot of additional damage, with this said, Hilda\u2019s not only tanky but can also deal a decent amount of damage to the enemy she\u2019s targeting. This also completes the kit of Hilda in dominating every lane she gank.<br>"
         }

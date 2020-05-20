@@ -12,24 +12,28 @@
         "passive": {
             "name": "Let's dance!",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7ci2AepeuAABPDJCQ24I069.png",
+            "icon_local": "./hero/Ruby/img/skills/passive_let's_dance!.png",
             "desc": "",
             "tips": "It can pass through base walls for real..as long as the walls is not too thickother than that is useless so use it wisely if you're in Pursuit or Escaping saw a wall.Just cast your skill nearby walls and just move foward because when you use a flicker you might be dead twice before you can use it again."
         },
         "first_skill": {
             "name": "Be good!",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7chmALWe1AABGnwKT6d8265.png",
+            "icon_local": "./hero/Ruby/img/skills/first_skill_be_good!.png",
             "desc": "",
             "tips": "S1 Slashed in frontal direction and dealing a 75 PHYSICAL DAMAGE to enemies and slowing their movement.It does not really give a high damage to enemies and it does not hurt all all for tanks in early game maybe but it quite useful a bit to clear up lanes helping your minions and harrasing your enemies a little.But if you happen to be countering a ranged attack heroes in early games its good enough for you to stay out of their hotspot or area of attack..it won't cost much of mana if you use it wisely..But when you Lifesteal Gear is finished,it might be as well as healing stuff if you have the lifesteal.<br>"
         },
         "second_skill": {
             "name": "Don't run, Wolf King!",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7ciCAGI4nAABLaYwoGwA137.png",
+            "icon_local": "./hero/Ruby/img/skills/second_skill_don't_run,_wolf_king!.png",
             "desc": "",
             "tips": "Second skill is come in handy in Many..Many ways.When the skill is triggered,she will attack twice and stunning the enemies for at least 0.5 second at first level and slowly pulling them towards her and it deals additionals 30% damage when the enemy at outer ring.For the new players,This skill can stop any swift assassin as long as you caught the great timing.You might be able to pursuit enemy and slowing them down for your allies to catch up."
         },
         "ultimate": {
             "name": "I'm offended!",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7ciaACdrnAABXjvJLijY139.png",
+            "icon_local": "./hero/Ruby/img/skills/ultimate_i'm_offended!.png",
             "desc": "",
             "tips": "Her third skill can pull all of enemies in front.I'M OFFENDED.When triggered she able to attack horizontally in a Wide Range.Dealing 205 pts of Physical Damage at first level and able to pulling them towards hero positions plus stunning them for 0.5 secs at first level.Its quite similar to Franco's hook but this one is a little short but able to be pulling all enemy in the area of attack."
         }

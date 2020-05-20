@@ -12,24 +12,28 @@
         "passive": {
             "name": "Enemy's Bane",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UsiAIx_zAABcuRi8X9I712.png",
+            "icon_local": "./hero/Saber/img/skills/passive_enemy's_bane.png",
             "desc": "",
             "tips": "Use Flying Sword to poke enemies as well as to apply passive stacks"
         },
         "first_skill": {
             "name": "Flying Sword",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6Up2AFSnpAABR29OpmO0940.png",
+            "icon_local": "./hero/Saber/img/skills/first_skill_flying_sword.png",
             "desc": "",
             "tips": "When standing together with the enemy, using flying sword will deal damage 4 times. You may control the range for long distance poking."
         },
         "second_skill": {
             "name": "Charge",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6Uq2AVK7oAABVqcI3BN4250.png",
+            "icon_local": "./hero/Saber/img/skills/second_skill_charge.png",
             "desc": "",
             "tips": "Initiate with Triple Sweep, leave Charge as a escape, at critical moments use Charge to go through walls"
         },
         "ultimate": {
             "name": "Triple Sweep",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6Ur2AKGLkAABWq83yjmM769.png",
+            "icon_local": "./hero/Saber/img/skills/ultimate_triple_sweep.png",
             "desc": "",
             "tips": "1. Target low health or squishy enemies, when Triple Sweep is about to end hold down the direction, this will cause you to move forward a step upon landing, then deal 4 times damage with Flying Sword.                                   2. When being tower dived by the enemy,use Triple Sweep on the enemy that is being attacked by the turret, knocking them up for extra tower hits."
         }

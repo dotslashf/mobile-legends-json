@@ -12,24 +12,28 @@
         "passive": {
             "name": "Beta, Advance!",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7chCASLmrAABaH9w8DoM897.png",
+            "icon_local": "./hero/Alpha/img/skills/passive_beta,_advance!.png",
             "desc": "",
             "tips": "Beta akan membantu menyerang musuh jadi jangan terlalu sering dekat dengan musuh agar HP Anda tetap terjaga."
         },
         "first_skill": {
             "name": "Rotary Impact",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cfOAAgBuAABgb6qvarM234.png",
+            "icon_local": "./hero/Alpha/img/skills/first_skill_rotary_impact.png",
             "desc": "",
             "tips": "Gunakan skill ini pada musuh agar musuh terkena efek slow dan terkena damage juga."
         },
         "second_skill": {
             "name": "Force Swing",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cfyAEDbRAABinTbRr8w317.png",
+            "icon_local": "./hero/Alpha/img/skills/second_skill_force_swing.png",
             "desc": "",
             "tips": "Meskipun memang area skill ini kecil tapi jangan terlalu dekat dengan lawan, sebisa mungkin mundur kembali agar tidak terkena banyak damage dari lawan."
         },
         "ultimate": {
             "name": "Spear of Alpha",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/rB_-LVo7cgOAKNoRAABZBWC8T6k788.png",
+            "icon_local": "./hero/Alpha/img/skills/ultimate_spear_of_alpha.png",
             "desc": "",
             "tips": "Gunakan skill ini ke lawan dan cari posisi yang pas untuk melakukan Knock up pada lawan."
         }

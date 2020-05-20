@@ -12,24 +12,28 @@
         "passive": {
             "name": "Shark Bite",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6VEKAMUe5AABPyfiebLs139.png",
+            "icon_local": "./hero/Bane/img/skills/passive_shark_bite.png",
             "desc": "",
             "tips": "Setiap 6 detik sekali Basic Attack Bane akan meningkat dan menimbulkan Splash, musuh yang berada di belakang target yang dipukul akan terkena Damage yang sangat besar dan mendapatkan efek Slow. (termasuk Turret)."
         },
         "first_skill": {
             "name": "Crab Claw Cannon",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6VBmAQVviAABdP73M88k730.png",
+            "icon_local": "./hero/Bane/img/skills/first_skill_crab_claw_cannon.png",
             "desc": "",
             "tips": "Menghasilkan Physical Damage serta efek Slow kepada target. Tidak hanya itu, Armor musuh yang terkena skill 1 Bane juga akan terkurang selama 2 detik."
         },
         "second_skill": {
             "name": "Rum",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6VCeAHR0QAABc0RaCQf0873.png",
+            "icon_local": "./hero/Bane/img/skills/second_skill_rum.png",
             "desc": "",
             "tips": "Bane akan mengeluarkan gentong yang dapat memulihkan HP yang ada di dekat gentong tersebut. (HP teman satu tim juga akan bertambah)"
         },
         "ultimate": {
             "name": "Deadly Catch",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6VDaAERfeAABVUx4MX2Q723.png",
+            "icon_local": "./hero/Bane/img/skills/ultimate_deadly_catch.png",
             "desc": "",
             "tips": "Bane akan mengeluarkan kapal yang terbang dan menjatuhkan meriam kepada siapa saja yang berada di bawahnya, termasuk Turret."
         }

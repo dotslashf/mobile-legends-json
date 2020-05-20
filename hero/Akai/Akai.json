@@ -12,24 +12,28 @@
         "passive": {
             "name": "Tai Chi",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U86AVDnHAABV_y-ux0E454.png",
+            "icon_local": "./hero/Akai/img/skills/passive_tai_chi.png",
             "desc": "",
             "tips": "Getting a Shield on every skill cast makes Akai rathertanky during the early game, as well as provides a lot of opportunities foroutplays. The extra shield makes Akai a very formidable opponent in a 1v1scenario. When jungling, space out the usage of Skill 1 and Skill 2 to allow your shield to tank the damage from the jungle monsters, as Akai's passive shield has an internal cooldown."
         },
         "first_skill": {
             "name": "Thousand Pounder",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U7iADFgyAABfbPKSiHo561.png",
+            "icon_local": "./hero/Akai/img/skills/first_skill_thousand_pounder.png",
             "desc": "",
             "tips": "The long-ranged jump allows for a strong engage into the enemy back line, a narrow escape across walls or just a really good ambush. Remember that when enemy's are marked by Blender (with the Froggy symbol floating on their heads) jumping on them will stun them."
         },
         "second_skill": {
             "name": "Blender",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U8CASAnWAABMrdigNhM660.png",
+            "icon_local": "./hero/Akai/img/skills/second_skill_blender.png",
             "desc": "",
             "tips": "Blender is Akai's poking skill. The projectile explodes upon impact or at maximum range, and has a relatively wide AoE, making it very easy to mark targets. The most important part of this ability is that attacking targets marked by Blender allows Akai to deal extra 5% of Akai's Max HP as physical damage, which is A WHOLE LOT OF FREAKING DAMAGE."
         },
         "ultimate": {
             "name": "Hurricane Dance",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U8eAKqKiAABNaWWI2Hw053.png",
+            "icon_local": "./hero/Akai/img/skills/ultimate_hurricane_dance.png",
             "desc": "",
             "tips": "Hurricane Dance is Akai's disruptive skill. Aside from the annoying knock back and wall pinning, Akai is immune to slowdown effects and has increased movement speed during the ULT duration. Akai's ULT also works as a Purify which clears all CC and Stun effects on him."
         }

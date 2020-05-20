@@ -12,24 +12,28 @@
         "passive": {
             "name": "Overflowing",
             "icon": "https://img.mobilelegends.com/group1/M00/00/9F/Cq2Ixl483TSAO30IAABjLH0xmBU060.png",
+            "icon_local": "./hero/Cecilion/img/skills/passive_overflowing.png",
             "desc": "Cecilion will increase his max mana by 8 each time his skill hits an enemy target. This effect cools down in 1s.####Cecilion has higher max mana and mana regen speed, and his skill damage scales with his max mana.",
             "tips": "With this Skill, Cecilion\u2019s power accumulates with each attack. With enough mana accumulated, he can consistently poke out with his first Skill."
         },
         "first_skill": {
             "name": "Bat Impact",
             "icon": "https://img.mobilelegends.com/group1/M00/00/9F/Cq2Ixl483NyAImlJAABcBJ6BCZU323.png",
+            "icon_local": "./hero/Cecilion/img/skills/first_skill_bat_impact.png",
             "desc": "Cecilion orders a giant bat to dive in a designated direction, dealing 100/130/160/190/220/250 Magic Damage to enemies on the path. The giant bat will stay at its destination and launch another attack, dealing 200/260/320/380/440/500 Magic Damage to enemies and triggering Overflowing for 1 time. After casting, Cecilion increases his Movement Speed by 30%/30%/30%/30%/30%/30% for 1/1/1/1/1/1s.########In 6/6/6/6/6/6s, every time Cecilion casts this skill, the mana cost will be increased by 1.8/1.8/1.8/1.8/1.8/1.8x time(s) (capped at 4/4/4/4/4/4 times).",
             "tips": "This Skill\u2019s CD is very short and the Skill DMG is very high. However, due to the doubled mana consumption, in Early to Mid Game, please pay attention to the stacks and your mana left. Meanwhile, use this Skill correctly to increase Cecillion's movement speed. Proper use will enable him to escape or chase after enemies more easily."
         },
         "second_skill": {
             "name": "Sanguine Claws",
             "icon": "https://img.mobilelegends.com/group1/M00/00/9F/Cq2Ixl483OqAcCzlAABjEXBmmvQ222.png",
+            "icon_local": "./hero/Cecilion/img/skills/second_skill_sanguine_claws.png",
             "desc": "Cecilion summons a pair of claws in a designated position that will run to each other, slowing down the enemies on the path. After a short delay, the claws pull the enemies to the center, immobilizing them for 1/1/1/1/1/1s and dealing 200/220/240/260/280/300 Magic Damage.",
             "tips": "This Skill can generate powerful crowd control effects. Combined with his first skill, Cecilion can deal massive damage with a proper skill combo."
         },
         "ultimate": {
             "name": "Bats Feast",
             "icon": "https://img.mobilelegends.com/group1/M00/00/9F/Cq2Ixl483PqAN3lMAABcS3PQ2pc815.png",
+            "icon_local": "./hero/Cecilion/img/skills/ultimate_bats_feast.png",
             "desc": "Cecilion unleashes Blood Demon power, increasing his Movement Speed by 60%/60%/60% (decaying rapidly over 1.5/1.5/1.5s) and gaining immunity to slow effects. Meanwhile, he shoots 40/40/40 bolts of blood energy at the enemies nearby, each dealing 35/40/45 Magic Damage and slowing them by 3%/3%/3% (up to 30%/30%/30%) for 1/1/1s.######## Hitting an enemy heals him for 10/12.5/15 and 1%/1%/1% of his lost HP.",
             "tips": "This Skill is extremely powerful. When chasing after enemies, Cecilion can use it to effectively slow enemies down and also deal extra damage. Also, he can escape from tight spots with it, thanks to the Lifesteal effect and extra Movement Speed granted."
         }

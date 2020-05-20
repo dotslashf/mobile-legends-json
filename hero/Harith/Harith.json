@@ -12,24 +12,28 @@
         "passive": {
             "name": "Key Insight",
             "icon": "https://img.mobilelegends.com/group1/M00/00/66/Cq2IxlvhO1eAbaU9AABYJ-RfDS8679.png",
+            "icon_local": "./hero/Harith/img/skills/passive_key_insight.png",
             "desc": "Harith gains insight from his Key. He immediately reduces its time controlled up to 45%  (dependent on the number of nearby enemy heroes).",
             "tips": "This skill can minimize the debuffs when being controlled, so his survivability is ensured."
         },
         "first_skill": {
             "name": "Synchro Fission",
             "icon": "https://img.mobilelegends.com/group1/M00/00/66/Cq2IxlvhOzWADsbbAABXtu7iUWo361.png",
+            "icon_local": "./hero/Harith/img/skills/first_skill_synchro_fission.png",
             "desc": "",
             "tips": "Try to keep enemy units in the explosion range, which causes huge damage to them."
         },
         "second_skill": {
             "name": "Chrono Dash",
             "icon": "https://img.mobilelegends.com/group1/M00/00/66/Cq2IxlvhO0GARj3JAABSaSaR1AQ810.png",
+            "icon_local": "./hero/Harith/img/skills/second_skill_chrono_dash.png",
             "desc": "",
             "tips": "Make sure Harith dashes to the correct direction. With the shield to be gained after the dash, Harith should be able to take less damage than he is suppoesed to be."
         },
         "ultimate": {
             "name": "Zaman Force",
             "icon": "https://img.mobilelegends.com/group1/M00/00/66/Cq2IxlvhO02ARV1nAABIxby0O5g847.png",
+            "icon_local": "./hero/Harith/img/skills/ultimate_zaman_force.png",
             "desc": "",
             "tips": "After using \"Synchro Fission\", make sure to pass through rifts every time using Chrono Dash. It enables Harith to use the \"Chrono Dash\" skill infinitely within the duration."
         }

@@ -12,24 +12,28 @@
         "passive": {
             "name": "Fearless",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U16ANVcPAABNWbodpkE152.png",
+            "icon_local": "./hero/Tigreal/img/skills/passive_fearless.png",
             "desc": "",
             "tips": "Remember to do basic attacks between spells to harden you even more. You don't need to hit enemies to activate your passive so do it before Teamfights, or when you considerate it is necessary."
         },
         "first_skill": {
             "name": "Attack Wave",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6UyyAS_DDAABFILpi140403.png",
+            "icon_local": "./hero/Tigreal/img/skills/first_skill_attack_wave.png",
             "desc": "",
             "tips": "A Straight wave that is useful for killing minions, slowing down running enemies from battles and useful to stop enemies' HP regen. Try not to spam it a lot because it consumes a lot of mana, just waste it while having enemies in front and you make sure that you will hit them. "
         },
         "second_skill": {
             "name": "Sacred Hammer",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U0OAYyP3AABhxHBZc_o840.png",
+            "icon_local": "./hero/Tigreal/img/skills/second_skill_sacred_hammer.png",
             "desc": "",
             "tips": "The most important Tigreal's ability, being hard to master at the begining but easier to manipulate after playing several games with Tigreal. This ability complements well with the battle spell Flicker by dragging the enemy team to your side where your team awaits for them. Anyway, it costs even more mana than the 1st ability so use it wisely."
         },
         "ultimate": {
             "name": "Implosion",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/rB_-LVo6U0qASq9NAABiIhWFpf8361.png",
+            "icon_local": "./hero/Tigreal/img/skills/ultimate_implosion.png",
             "desc": "",
             "tips": "The perfect complement for the 2nd ability and flicker. It is one of the best crowd control abilities on the game, so you have a great power in your hands and a really useful weapon for teamfights."
         }

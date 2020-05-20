@@ -12,24 +12,28 @@
         "passive": {
             "name": "Windtalk",
             "icon": "https://img.mobilelegends.com/group1/M00/00/74/Cq2IxlxP-HOABuq5AABJ-4aHBq8982.png",
+            "icon_local": "./hero/Vale/img/skills/passive_windtalk.png",
             "desc": "",
             "tips": ""
         },
         "first_skill": {
             "name": "Wind Blade",
             "icon": "https://img.mobilelegends.com/group1/M00/00/74/Cq2IxlxP-ECAB0WUAAA6pBraF7g746.png",
+            "icon_local": "./hero/Vale/img/skills/first_skill_wind_blade.png",
             "desc": "",
             "tips": " It's the main damage-dealing skill of Vale and it takes time to deal the high-burst damage. So it would be better to ensure the hit rate by releasing it in advance or using it when the enemies are under control. If your team provides enough control, then it would be better to choose to increase damage. Otherwise, it would be better to choose to increase area so that the skill hit rate will get improved. When choosing to enhance skills for the first time, if for higher damage, choose to enhance 1st kill first then."
         },
         "second_skill": {
             "name": "Windblow",
             "icon": "https://img.mobilelegends.com/group1/M00/00/74/Cq2IxlxP-E2ARADvAAA5jgeMZmk176.png",
+            "icon_local": "./hero/Vale/img/skills/second_skill_windblow.png",
             "desc": "",
             "tips": "The slowing down effect of this skill can increase the hit rate of his 1st skill. Normally it would be better to choose knock up effect. If your team provides enough control, then better choose stop-on-hit effect. For the first time if you don't choose to build damage of 1st kill, then you should choose the knock-up effect of this skill, for it provides stable control for the team. Normally, this skill will be build when it's the third time to enhance skills."
         },
         "ultimate": {
             "name": "Windstorm",
             "icon": "https://img.mobilelegends.com/group1/M00/00/74/Cq2IxlxP-FmAHij0AABC0zMLKAE590.png",
+            "icon_local": "./hero/Vale/img/skills/ultimate_windstorm.png",
             "desc": "",
             "tips": "Choosing to increase damage is always a good choice, but it needs choosing knock-up effect of 2nd skill, or it is hard to use ultimate to hit enemies. When choosing control effect, the damage of 1st skill should be ensured. Normally, choose to enhance Ultimate for the second time."
         }

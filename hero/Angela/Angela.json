@@ -12,24 +12,28 @@
         "passive": {
             "name": "Smart Heart",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/Cq2Ixlp64UOAW9MiAABZArU1XVU0010580",
+            "icon_local": "./hero/Angela/img/skills/passive_smart_heart.png",
             "desc": "",
             "tips": "Using skills increases her movement speed. Attached allies also benefit from this speed increase."
         },
         "first_skill": {
             "name": "Love Waves",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/Cq2Ixlp64SOAH3o0AABLdiimYF82405696",
+            "icon_local": "./hero/Angela/img/skills/first_skill_love_waves.png",
             "desc": "",
             "tips": "Try to store as many charges as you can before attacking, as high stacks of Lover's Mark can result in very impressive damage."
         },
         "second_skill": {
             "name": "Puppet-on-a-String",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/Cq2Ixlp64TKAGCSSAABS-UbBihw5713721",
+            "icon_local": "./hero/Angela/img/skills/second_skill_puppet-on-a-string.png",
             "desc": "",
             "tips": "The follow-up damage dealt when connected is quite high, so try to stay as close to the target as possible."
         },
         "ultimate": {
             "name": "Heartguard",
             "icon": "https://img.mobilelegends.com/group1/M00/00/02/Cq2Ixlp64TuAdjeCAABU6VpfY4w8313360",
+            "icon_local": "./hero/Angela/img/skills/ultimate_heartguard.png",
             "desc": "",
             "tips": "Protecting low-HP teammates in the nick of time can be very effective in turning the tide of battle."
         }

@@ -12,24 +12,28 @@
         "passive": {
             "name": "Dagger Specialist",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/Cq2IxlqP7oeAADOuAABJFeTOZYs1687799",
+            "icon_local": "./hero/Gusion/img/skills/passive_dagger_specialist.png",
             "desc": "",
             "tips": "Because this skill's damage is based on the target's missing HP, it's suitable for finishing off enemies."
         },
         "first_skill": {
             "name": "Sword Spike",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/Cq2IxlqP7meAa9AiAABWij7j4_g0550122",
+            "icon_local": "./hero/Gusion/img/skills/first_skill_sword_spike.png",
             "desc": "",
             "tips": "Using Sword Spike after using Incandescence when near the target will greatly increase its hit rate."
         },
         "second_skill": {
             "name": "Shadowblade Slaughter",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/Cq2IxlqP7nWAexGJAABPM6cHSFM8580821",
+            "icon_local": "./hero/Gusion/img/skills/second_skill_shadowblade_slaughter.png",
             "desc": "",
             "tips": "After using Incandescence, you can use this skill again immediately and recover 10 daggers, dealing high damage."
         },
         "ultimate": {
             "name": "Incandescence",
             "icon": "https://img.mobilelegends.com/group1/M00/00/03/Cq2IxlqP7n6AQB13AABYCth157s6994405",
+            "icon_local": "./hero/Gusion/img/skills/ultimate_incandescence.png",
             "desc": "",
             "tips": "Incandescence's second cast can not only be used to escape, but can also be used to get closer to a fleeing target and finish them off."
         }

@@ -12,24 +12,28 @@
         "passive": {
             "name": "Caprice",
             "icon": "https://img.mobilelegends.com/group1/M00/00/85/Cq2Ixly-xDyAOB5NAABS776mbTs320.png",
+            "icon_local": "./hero/Granger/img/skills/passive_caprice.png",
             "desc": "Granger can fill his gun with up to 6 bullets at a time. Each 6th bullet deals Critical Damage. ####Granger's Basic Attack will deal more damage, but he gains 50% Attack Speed from Equipment or Emblems.",
             "tips": "Rhapsody is Granger's primary damaging dealing skill. The last bullet of this skill guarantees critical damage. So watch your aim to make sure the last bullet hits the target."
         },
         "first_skill": {
             "name": "Rhapsody",
             "icon": "https://img.mobilelegends.com/group1/M00/00/85/Cq2Ixly-xBmAJozoAABQ_LZUeO0191.png",
+            "icon_local": "./hero/Granger/img/skills/first_skill_rhapsody.png",
             "desc": "Granger fills his gun with all bullets and shoots them forward. Each bullet deals 15/43/71/99/127/155 points of Physical Damage to enemies.",
             "tips": "It's a great combo using this skill to change your position in battle and using \"Rhapsody\" to deal high damage. As it highly increases the Hit Rate of \"Rhapsody\" and reduces the CD time of this skill."
         },
         "second_skill": {
             "name": "Rondo",
             "icon": "https://img.mobilelegends.com/group1/M00/00/85/Cq2Ixly-xCSAIT9DAABOOUHb01M709.png",
+            "icon_local": "./hero/Granger/img/skills/second_skill_rondo.png",
             "desc": "Granger blinks in the designated direction, and his next 2/2/2/2/2/2 Basic Attacks deal extra 10%/12%/14%/16%/18%/20% of damage in 5/5/5/5/5/5s. ########Each time \"Rhapsody\" hits an enemy hero, the CD of this skill will be reduced by 0.5/0.5/0.5/0.5/0.5/0.5s.",
             "tips": "Regardless of whether you are in pursuit of an enemy or on the run, take good advantage of this skill to reposition in battle."
         },
         "ultimate": {
             "name": "Death Sonata",
             "icon": "https://img.mobilelegends.com/group1/M00/00/85/Cq2Ixly-xDKAJtCZAABS00d0BzM587.png",
+            "icon_local": "./hero/Granger/img/skills/ultimate_death_sonata.png",
             "desc": "Granger transforms his violin into a super cannon and fills it with all bullets. He then shoots 2 Super Bullets forward at a time. The Super Bullet ignores Minions along the way and only hits enemy heroes. Super Bullets will explode upon hitting the first enemy hero, dealing 120/160/200 points of Physical Damage to enemies nearby and slowing them by 80%/80%/80%. Each time Granger shoots a Super Bullet, he can move to another location. When \"Death Sonata\" ends, the CD of this skill will be reduced by 15%/15%/15%s for every 2 remaining Super Bullets.",
             "tips": "The \"lucky\" effect of Granger's 6th bullet is not limited to his basic attacks, but also work with his 1st skill and ultimate! Make sure you hit the enemies with the 6th bullet to deal massive damage no matter what!"
         }

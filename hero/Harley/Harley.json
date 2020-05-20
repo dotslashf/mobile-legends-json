@@ -12,24 +12,28 @@
         "passive": {
             "name": "Magic Master",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7d7yAG1txAABL3zt1Yao122.png",
+            "icon_local": "./hero/Harley/img/skills/passive_magic_master.png",
             "desc": "As a magic master, his basic attack deals 60  points of Magic Damage.",
             "tips": "Use basic attack on the enemy during the Ultimate, increasing the damage."
         },
         "first_skill": {
             "name": "Poker Trick",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7d6eAbEjXAABSeDdNwBc590.png",
+            "icon_local": "./hero/Harley/img/skills/first_skill_poker_trick.png",
             "desc": "",
             "tips": "Use this skill to spam enemies.<br>Use this skill to jungle in early game.<br>You could use this skill while walking, making it possible to hit enemies while walking."
         },
         "second_skill": {
             "name": "Space Escape",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7d6-AaXzkAABNXSB5kQM072.png",
+            "icon_local": "./hero/Harley/img/skills/second_skill_space_escape.png",
             "desc": "",
             "tips": "Using this skill may get a little tricky, if an enemy chase you and faster than you, ran as fast as possible and teleport back to the hat. Ran to nearby forest and escape. "
         },
         "ultimate": {
             "name": "Deadly Magic",
             "icon": "https://img.mobilelegends.com/group1/M00/00/04/rB_-LVo7d7aAHyOSAABTqfJ3Fds545.png",
+            "icon_local": "./hero/Harley/img/skills/ultimate_deadly_magic.png",
             "desc": "",
             "tips": "Get rid of minions, you need skill 1 to hit your target directly. Next, use skill 3. When the ring is on the enemy, deal as much damage as possible to the enemy. More the damage, more deadly is the skill. "
         }
