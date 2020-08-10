@@ -104,29 +104,25 @@ class Hero(object):
             'skills': {
                 'passive': {
                     'name': self.hero['data']['skill']['skill'][-1]['name'],
-                    'icon': self.hero['data']['skill']['skill'][-1]['icon'],
-                    'icon_local': f"{self.path}/img/skills/passive_{self.hero['data']['skill']['skill'][-1]['name'].replace(' ', '_').lower()}.png",
+                    'icon': f"{self.path}/img/skills/passive_{self.hero['data']['skill']['skill'][-1]['name'].replace(' ', '_').lower()}.png",
                     'desc': self.hero['data']['skill']['skill'][-1]['des'],
                     'tips': self.hero['data']['skill']['skill'][-1]['tips'],
                 },
                 'first_skill': {
                     'name': self.hero['data']['skill']['skill'][0]['name'],
-                    'icon': self.hero['data']['skill']['skill'][0]['icon'],
-                    'icon_local': f"{self.path}/img/skills/first_skill_{self.hero['data']['skill']['skill'][0]['name'].replace(' ', '_').lower()}.png",
+                    'icon': f"{self.path}/img/skills/first_skill_{self.hero['data']['skill']['skill'][0]['name'].replace(' ', '_').lower()}.png",
                     'desc': self.hero['data']['skill']['skill'][0]['des'],
                     'tips': self.hero['data']['skill']['skill'][0]['tips']
                 },
                 'second_skill': {
                     'name': self.hero['data']['skill']['skill'][1]['name'],
-                    'icon': self.hero['data']['skill']['skill'][1]['icon'],
-                    'icon_local': f"{self.path}/img/skills/second_skill_{self.hero['data']['skill']['skill'][1]['name'].replace(' ', '_').lower()}.png",
+                    'icon': f"{self.path}/img/skills/second_skill_{self.hero['data']['skill']['skill'][1]['name'].replace(' ', '_').lower()}.png",
                     'desc': self.hero['data']['skill']['skill'][1]['des'],
                     'tips': self.hero['data']['skill']['skill'][1]['tips'],
                 },
                 'ultimate': {
                     'name': self.hero['data']['skill']['skill'][2]['name'],
-                    'icon': self.hero['data']['skill']['skill'][2]['icon'],
-                    'icon_local': f"{self.path}/img/skills/ultimate_{self.hero['data']['skill']['skill'][2]['name'].replace(' ', '_').lower()}.png",
+                    'icon': f"{self.path}/img/skills/ultimate_{self.hero['data']['skill']['skill'][2]['name'].replace(' ', '_').lower()}.png",
                     'desc': self.hero['data']['skill']['skill'][2]['des'],
                     'tips': self.hero['data']['skill']['skill'][2]['tips'],
                 }
